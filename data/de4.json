@@ -1,0 +1,253 @@
+{
+  "id": 4,
+  "title": "Đề 4",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A man is calling his friend, Maria. When will he see her?",
+      "options": [
+        "at 9 am on Sunday",
+        "at 10 am on Saturday",
+        "at 8 am on Sunday"
+      ],
+      "answer": "A",
+      "explain": "Hey Maria, it's me! I wanted to give you a quick call to let you know that I'll be visiting your town this weekend. I've got a few things planned - going to check out the local market and maybe explore some of the nearby parks. But the best part? I'll finally get to see you! I'll be at your place at 9 a.m. on Sunday, so we can catch up. Can't wait to hang out!"
+    },
+    {
+      "no": 2,
+      "question": "A man is calling his colleague about a meeting with clients. When will the meeting start?",
+      "options": [
+        "at 9.15",
+        "at 10.15",
+        "at 11.15"
+      ],
+      "answer": "B",
+      "explain": "Hey, just wanted to give you a quick heads-up. I won't be able to join the meeting with the clients at 10:15 like we planned - I've got something that suddenly came up. I know it's last minute, but could you go ahead and handle the presentation on your own? You're familiar with everything, so I trust you've got this. Let me know how it goes afterward. Thanks, I really appreciate it!"
+    },
+    {
+      "no": 3,
+      "question": "A customer is calling the hotline of a department store. Which number to press in order to buy a computer?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": "C",
+      "explain": "Thank you for calling our customer service hotline.\nTo file a complaint about a recent purchase, please press 1.\nFor assistance with maintenance or repairs, press 2.\nIf you'd like a free consultation on buying a new computer, press 3.\nFor all other inquiries, please stay on the line, and a representative will assist you shortly."
+    },
+    {
+      "no": 4,
+      "question": "An expert is talking about the lack of satisfaction at work. What should be the solution?",
+      "options": [
+        "Raise the salary",
+        "Seek a new job",
+        "Request a transfer"
+      ],
+      "answer": "C",
+      "explain": "Many people feel unhappy at work, and often, they think a higher salary or less work will fix it. But that's not always the solution. Sometimes, the problem is the work environment. A change of place can help improve how we feel at work. However, looking for a new job can be stressful and take time. One option is to ask for a transfer to another branch within the same company. This can offer the same benefits as getting a new job, without the challenges of starting over somewhere new."
+    },
+    {
+      "no": 5,
+      "question": "A man is talking to his friend. Why does he need to learn to drive?",
+      "options": [
+        "He lost his driving license.",
+        "He has to drive to work.",
+        "He bought a new car."
+      ],
+      "answer": "B",
+      "explain": "Man: Hey, Sarah. I've got some news - I'm moving to a new place.\nWoman: Oh really? That sounds exciting! Where's your new place?\nMan: It's actually pretty far from my workplace, and the public transport there isn't great. So, I've been thinking. I need to learn how to drive.\nWoman: Yeah, that makes sense. It's hard to rely on public transport if it's not reliable. Have you ever driven before?\nMan: Not really. I've always used buses and trains, but now it looks like I don't have a choice. I need to get a license.\nWoman: You'll get the hang of it. Driving will definitely make your commute easier. Are you planning to take lessons soon?\nMan: Yeah, I'm going to sign up for a driving school next week. Hopefully, I can get it done quickly."
+    },
+    {
+      "no": 6,
+      "question": "A tour guide is talking about birds' behaviors. What do birds do in the winter?",
+      "options": [
+        "Stay together for group protection",
+        "Build nests",
+        "Migrate to a new place"
+      ],
+      "answer": "A",
+      "explain": "Welcome, everyone! Today, we'll explore some interesting bird behaviors throughout the year. In spring, birds are busy building nests and finding mates, preparing for the arrival of their young. During summer, they're focused on feeding their chicks and teaching them how to fly. As autumn approaches, many birds begin to migrate, gathering food and energy for their long trips south. In winter, birds tend to stay together in groups for protection from predators. Each season brings out different survival strategies in these amazing creatures!"
+    },
+    {
+      "no": 7,
+      "question": "Two friends are talking about their school days. What was the woman good at?",
+      "options": [
+        "Swimming",
+        "Playing football",
+        "Running"
+      ],
+      "answer": "B",
+      "explain": "Man: Hey, do you remember our old school days? You were on the football team, right?\nWoman: Yeah, I played for the school team. Those were some of my best memories! We even won a few medals. What about you? Were you into football?\nMan: Not really. I wasn't great at football, but I was pretty good at swimming. I actually won a medal in a competition once.\nWoman: That's right, I remember! Swimming was totally your strength. Just like football was mine. My team also brought home some medals - it was such a good feeling!\nMan: Yeah, those were good times. We really had our own things going on back then!"
+    },
+    {
+      "no": 8,
+      "question": "Pierre and Emma are talking together about the picnic on the weekend. What will they bring to the picnic?",
+      "options": [
+        "Drinks",
+        "Salads",
+        "Food"
+      ],
+      "answer": "C",
+      "explain": "Pierre: Hey, Emma, are you ready for the picnic this weekend?\nEmma: Definitely! I'm really looking forward to it. Do you know what everyone's bringing?\nPierre: Yeah, I spoke with a few people. Sarah's bringing cups and bowls, and Tom said he'll take care of drinks. He's got some lemonade and iced tea ready.\nEmma: Sounds great! I think Clara mentioned she's making a fruit salad, right?\nPierre: Yep, and Leo's bringing chips and dips. I guess we're pretty covered on snacks.\nEmma: Awesome! So, what should we bring? Maybe some food in case we might get hungry?\nPierre: That's a good idea. How about we prepare some chicken and french fries?\nEmma: Perfect! This picnic is going to be amazing!"
+    },
+    {
+      "no": 9,
+      "question": "A tour guide is talking about the group's traveling schedule. Where will the group wait for the bus?",
+      "options": [
+        "by the hotel's side entrance",
+        "behind the hotel's main entrance",
+        "by the hotel's main entrance"
+      ],
+      "answer": "C",
+      "explain": "Good morning, everyone! Let me walk you through today's schedule. First, we'll start the day at 9:00 AM with a visit to the City Museum, where you'll have about two hours to explore the exhibits. After that, at 12:30 PM, we'll head to the Central Park for a picnic lunch and a relaxing stroll. Around 3:00 PM, we'll make our way to the Old Town Market, where you can shop for souvenirs and enjoy some local treats. We'll wrap up our activities by 6:00 PM, giving you a little free time back at the hotel. Finally, at 8:00 PM, we'll meet at the hotel's main entrance to catch the bus to the airport. Make sure to be on time, and we'll head to the airport together!"
+    },
+    {
+      "no": 10,
+      "question": "Listen to the announcement from a travel agent representative. Why is the air travel cancelled?",
+      "options": [
+        "Engine failure",
+        "Poor weather conditions",
+        "Delay at transit spot"
+      ],
+      "answer": "B",
+      "explain": "Good afternoon, everyone. I'd like to start by saying that we're doing everything we can to assist you with your travel plans today. Unfortunately, due to poor weather conditions, our flight has been cancelled. I know this isn't the news you were hoping for, but your safety comes first. That said, we do have alternatives available. The train services are still running, and buses are also operating, so you have options to continue your journey. If you'd like to explore these alternatives, please come see us, and we'll help with the arrangements. Thank you for your patience and understanding."
+    },
+    {
+      "no": 11,
+      "question": "A saleswoman is talking to a customer about a house. What is not original?",
+      "options": [
+        "Floor",
+        "Furniture",
+        "Architecture"
+      ],
+      "answer": "B",
+      "explain": "Welcome! I'm so glad you're interested in this beautiful property. This house was built in the 1920s and has maintained much of its original charm. The hardwood floors you see here are completely original, and they've been carefully preserved over the years. The same goes for the architecture - those high ceilings and detailed moldings are a testament to the craftsmanship of that era. However, the furniture you see isn't original. It was replaced a few years ago to give the home a more modern, functional feel. But don't worry, the updates blend well with the classic features, giving you the best of both worlds - historic charm with modern comfort."
+    },
+    {
+      "no": 12,
+      "question": "Listen to a weather forecast. Where will the weather be best?",
+      "options": [
+        "In the south",
+        "In the west",
+        "In the east"
+      ],
+      "answer": "C",
+      "explain": "Good evening, everyone! Here's your weather update for today. Unfortunately, the weather down south isn't looking too great - strong winds and heavy rain are expected throughout the day, so it might be best to avoid any outdoor plans in that region. On a brighter note, the west will have decent weather with clear skies and mild temperatures, making it a nice option if you're looking for some fresh air. However, the best weather can be found in the east, where we're expecting sunny skies and perfect temperatures for any outdoor activities. If you're planning to travel, I'd highly recommend heading east for the best conditions. Safe travels, and make sure to check local forecasts for any changes!"
+    },
+    {
+      "no": 13,
+      "question": "Adam is calling his friend. When will he need the computer?",
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Saturday"
+      ],
+      "answer": "B",
+      "explain": "Hey James, it's Adam! I just wanted to give you a quick call. I know you need a computer for your project, so I'm happy to let you borrow mine on Tuesday. Just make sure to take good care of it! But I need it back by Friday because I have a group presentation on Saturday. I really appreciate it, and I'm sure you'll get a lot done with it. Let me know if that works for you. See you soon!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "title": "Four people are talking about doing arts. Complete the sentences below.",
+    "options": [
+      "Doing arts as a social activity",
+      "Doing arts with children",
+      "Doing arts as part of the job",
+      "Doing arts alone"
+    ],
+    "answers": [
+      "Doing arts as a social activity",
+      "Doing arts with children",
+      "Doing arts as part of the job",
+      "Doing arts alone"
+    ],
+    "explain": [
+      "Speaker A: I love when people come together to create something - it's not just about the art itself but about connecting with each other. Ideas bounce around, and suddenly, new ones come to life. Everyone's personality blends into the work, making it feel bigger than anything we could make alone. Art becomes a shared experience, bringing us all together.",
+      "Speaker B: Kids are so fearless with art. They jump in without worrying about mistakes, making everything feel magical. Teaching them is a reminder that creativity should be free and fun. They show you that art is as much about play and expression as it is about any 'rules.'",
+      "Speaker C: Art is part of my work, so it comes with structure - deadlines, clients, and goals. It's different from personal art because I'm balancing my ideas with what's needed for the project. But there's a thrill in that challenge, and seeing the finished work is deeply satisfying.",
+      "Speaker D: Art, for me, is a quiet, personal thing. It's my time to focus inward, away from distractions. I don't need anyone else there, it's just me and my thoughts. Creating alone brings a peace where I can explore and express freely just for myself."
+    ],
+    "stem": ""
+  },
+  "part3": {
+    "no": 15,
+    "title": "A man and a woman are talking about urban farming. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Living space is more important than farming space.",
+        "answer": "Man"
+      },
+      {
+        "text": "Farming space is appealing.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Farming space will benefit the urban economy.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Farming space is in need of more food.",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Woman: Hey Carlos, have you read the article about urban farming?\nMan: Urban farming? What exactly is it?\nWoman: Well, it's about growing food in urban areas, like on rooftops or unused spaces to help address food supply issues in cities.\nMan: You mean farming in cities? How could that even work? Cities are already overcrowded. There isn't enough space for housing, let alone farming. Urban farming will take up land that could be used for accommodation.\nWoman: I think it can make it. More people from rural areas are moving to cities, and food has become a critical issue. It's vital that we adapt over time.\nMan: That's exactly my point. Where are all these people supposed to live?\nWoman: You don't have to take \"urban farming\" literally, it's not about large-scale farming right away. Small changes are necessary. Over time, we need to find ways to balance ecological and economic needs.\nMan: Sure, I support green initiatives, but they need to be practical. How can this approach actually work?\nWoman: Unused spaces that are too small for housing can be converted into farming areas. If done right, this could be both beneficial and visually attractive, like turning them into green spaces or local parks.\nMan: I still think it could have negative effects, especially on rural areas where traditional farmers might lose their jobs if urban farming takes over.\nWoman: You should think of it as a supplement, not a replacement. For rural areas, producing vegetables closer to where they're consumed can actually be beneficial. It saves on transportation costs and uses resources more efficiently.\nMan: But this is mostly about food, right? I don't think urban farming can solve the problem of scarcity. Cities just can't realistically support large-scale farming. Rural farming is still a more practical option.\nWoman: That's true, and I agree. But changes need to happen. Sooner or later, urban farming will become a key trend for the future."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a critic talking about a newly broadcast TV series.",
+      "questions": [
+        {
+          "question": "What happened to the TV series?",
+          "options": [
+            "It didn't receive enough investment in the early stage.",
+            "It was overlooked by critics.",
+            "It caught the audience's attention from the start."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "According to the expert, what is the series' potential?",
+          "options": [
+            "New seasons will be produced due to great demand.",
+            "It inspires young filmmakers to follow a new movie-making style.",
+            "It can help reach new customers."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "A famous TV series called Mystery City was recently broadcast, and it caught the audience's attention from the start. The first episode was filled with suspense and surprising twists that left viewers eager for more. The engaging storyline and strong characters made it easy for people to connect with the show, which quickly became a topic of conversation. Social media buzzed with reactions and theories, making it a true phenomenon.\nBeyond just entertaining, Mystery City has also helped its network reach new customers. The show attracted a diverse audience, including younger viewers who might not have watched traditional TV before. This is important for marketing because it shows how a single series can expand a network's reach and boost subscriptions. With clever promotions and partnerships, the series brought in new fans who may now explore other shows on the platform.\nOverall, Mystery City is not just a popular series; it's a powerful tool for building a community around a brand. The combination of captivating storytelling and strategic marketing has made it a success that other networks will likely try to replicate. As the series continues, it will be interesting to see how it evolves and what new customers it brings in!"
+    },
+    {
+      "no": 17,
+      "title": "Listen to an advertising expert talking about the advertising industry.",
+      "questions": [
+        {
+          "question": "What does the expert say about the negative side of advertising?",
+          "options": [
+            "Series are damaged by overexposure.",
+            "Advertisements might sometimes be repetitive, which is annoying.",
+            "Advertising costs the same amount of money to produce a movie."
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "In what way can advertising affect sports?",
+          "options": [
+            "They help to attract more fans.",
+            "They can boost ticket sales and sales of sports-related items.",
+            "They can generate negative publicity for the sport."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Advertising in sports has become a double-edged sword. Many fans grow tired of seeing the same commercials repeatedly during games and events. This constant bombardment can lead to frustration, causing viewers to feel disconnected from the sport they love. When ads overshadow the actual games, it detracts from the excitement and intensity that fans crave, making them less enthusiastic about tuning in. Therefore, many TV series have been damaged by overexposure.\nIn terms of sports, overexposure can generate negative publicity for the sport itself. Fans may start to associate their favorite teams and players with annoying advertisements rather than the thrilling action on the field. This shift in perception can affect attendance at games and viewership on TV, as people become disillusioned with the sport's focus on commercial interest. As a result, teams and leagues must carefully consider how much advertising they allow, ensuring it doesn't take away from the game experience.\nIn the end, while advertising can bring in revenue and promote the sport, it's crucial to find a balance. Too much exposure can lead to viewer fatigue and diminish the overall appeal of the series. By prioritizing the game itself and minimizing intrusive ads, sports organizations can maintain fan engagement and protect their brand image."
+    }
+  ]
+}

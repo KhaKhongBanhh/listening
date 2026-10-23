@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aptis Listening - Ôn luyện Part 4</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="exam part4-body">
+  <header class="topbar exam-topbar">
+    <a href="index.html" class="home-link" title="Về trang chủ">⌂</a>
+    
+    <!-- Timer cho chế độ kiểm tra 15 phút -->
+    <div class="timer hidden" id="timerBox">
+      <div><span id="mins">15</span><small>Mins</small></div>
+      <span class="colon">:</span>
+      <div><span id="secs">00</span><small>Secs</small></div>
+    </div>
+
+    <div class="brand">
+      <span class="dots">●●</span> AptisWeb <span class="brand-sub" id="modeSubTitle">Part 4</span>
+    </div>
+
+    <!-- Bộ đếm kết quả cho chế độ ôn tập -->
+    <div class="practice-stats" id="practiceStats">
+      <span class="badge ok">Đúng: <b id="statCorrect">0</b></span>
+      <span class="badge bad">Sai: <b id="statWrong">0</b></span>
+      <span class="badge skip">Tiến độ: <b id="statProgress">1/60</b></span>
+    </div>
+
+    <div class="exam-title" id="pageTitle">Part 4 Questions</div>
+    <button class="btn btn-submit hidden" id="submitBtn">Nộp bài</button>
+  </header>
+
+  <!-- Thanh progress bar cho chế độ ôn tập -->
+  <div class="practice-progress-bar" id="practiceProgressBar">
+    <div class="progress-fill" id="progressFill" style="width: 1.67%;"></div>
+  </div>
+
+  <!-- Thanh điều hướng danh sách 60 câu -->
+  <nav class="question-nav part4-nav" id="part4Nav"></nav>
+
+  <main class="container exam-container">
+    <div id="part4View"></div>
+    <div class="nav-buttons" id="navButtons">
+      <button class="btn btn-outline" id="prevBtn">◀ Câu trước</button>
+      <button class="btn" id="nextBtn">Câu tiếp ▶</button>
+    </div>
+    <div id="resultView" class="hidden"></div>
+  </main>
+
+  <script src="js/config.js"></script>
+  <script src="js/part4.js"></script>
+</body>
+</html>

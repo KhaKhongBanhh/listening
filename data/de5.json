@@ -1,0 +1,253 @@
+{
+  "id": 5,
+  "title": "Đề 5",
+  "part1": [
+    {
+      "no": 1,
+      "question": "Listen to an announcement. Which platform to wait for the train?",
+      "options": [
+        "Platform 2",
+        "Platform 5",
+        "Platform 8"
+      ],
+      "answer": "A",
+      "explain": "Attention, all passengers! The 10:30 train to Greenfield is now arriving at Platform 2. Please make sure you have your ticket ready before boarding. This train will stop at River Station and Oakwood before reaching its final destination. Be careful when stepping onto the train, and mind the gap. For your safety, please keep your belongings close and follow all instructions from the staff. Thank you for traveling with us today!"
+    },
+    {
+      "no": 2,
+      "question": "An artist is talking about her job. What is the difference in her job?",
+      "options": [
+        "She works from 9 to 5",
+        "She doesn't work on weekends",
+        "She works irregular hours"
+      ],
+      "answer": "C",
+      "explain": "Hello, my name is Sarah, and I'm an artist. I paint pictures of nature, like trees, rivers, and animals. I love using bright colors to make my art happy and full of life. My job is very fun, but I work irregular hours, sometimes late at night or on weekends. When I have inspiration, I paint for many hours without a break. I sell my paintings in galleries and online, and it makes me really happy when people like my work. Creating art is the best job for me!"
+    },
+    {
+      "no": 3,
+      "question": "Listen to a conversation between the teacher and a parent. What will the father do?",
+      "options": [
+        "Enroll him in summer school",
+        "Arrange private classes for his son",
+        "Talk to the principal"
+      ],
+      "answer": "B",
+      "explain": "Teacher: Hello, Mr. Johnson. Thank you for coming in today. I wanted to talk about your son, Jake.\nFather: Hi, Mrs. Lee. Yes, I've noticed he's been struggling a bit lately.\nTeacher: Yes, his performance is not so good in math and reading. He seems to have some difficulties understanding the lessons.\nFather: I'm worried about that. What can we do to help him?\nTeacher: I know a private tutor who works well with children. She can provide extra help and support.\nFather: That sounds like a good idea! Can you give me her contact information?\nTeacher: Of course! I will write it down for you. I think Jake will really benefit from it."
+    },
+    {
+      "no": 4,
+      "question": "A woman is talking about her weekends. What did she do last week?",
+      "options": [
+        "Went hiking",
+        "Stayed at home",
+        "Attended a party"
+      ],
+      "answer": "B",
+      "explain": "My weekends are not always the same. This week has been busy, but I always look forward to my free time. Last weekend, I stayed at home and enjoyed some quiet moments with a book. I also watched a few movies and cooked a nice dinner for myself. This weekend, I plan to go out with friends. We might visit a new cafe or go for a walk in the park. I love spending time with my friends and relaxing after a busy week!"
+    },
+    {
+      "no": 5,
+      "question": "A teacher and a student are talking about transportation. How does the teacher go to school?",
+      "options": [
+        "He drives",
+        "He takes the bus",
+        "He walks"
+      ],
+      "answer": "C",
+      "explain": "Teacher: Good morning, Sarah! You are early today! How do you get to school every day?\nStudent: Hi, Mr. Smith! I usually take the bus. It's not far from my house, but sometimes I have to wait a long time for it.\nTeacher: I understand. I walk to school every day. It helps me get some exercise, and I enjoy the fresh air.\nStudent: That sounds nice! Do you walk alone?\nTeacher: No. I often walk with a few other teachers. We chat while walking, and it makes the time go by faster.\nStudent: I wish I could walk to school too, but the bus is faster for me, especially when I have to get here early."
+    },
+    {
+      "no": 6,
+      "question": "Anne is calling her daughter Sally. What does Anne need?",
+      "options": [
+        "Eggs",
+        "Bread",
+        "Milk"
+      ],
+      "answer": "A",
+      "explain": "Hi Sally, it's Mom. How are you? I just wanted to remind you about dinner tonight. We're having your favorite, spaghetti! Don't forget to pick up your brother from school at 4 o'clock. Oh, and can you stop by the store on your way home? We're out of eggs, and I need some to finish baking the cake. Thanks, sweetie!"
+    },
+    {
+      "no": 7,
+      "question": "A mom is talking to her son. What does he like to study?",
+      "options": [
+        "Art",
+        "Science",
+        "History"
+      ],
+      "answer": "A",
+      "explain": "Hey sweetheart. I'm so proud of you! Your art project looks amazing, you're really talented. I love how you used all those bright colors. You always do such a great job with your drawings. But remember, you also need to spend some time on your other subjects too, like math and science. I know you can do well in those if you try hard, just like you do with art. Let's work on it together, okay?"
+    },
+    {
+      "no": 8,
+      "question": "A woman is talking about her family's holidays. What did the family do last year?",
+      "options": [
+        "Traveled abroad",
+        "Went camping",
+        "Went to the beach"
+      ],
+      "answer": "B",
+      "explain": "This year, my family and I are going to the beach for our holiday. I'm really excited because I love swimming and relaxing by the sea. Last year, we went camping on the mountain, which was fun, but this time we wanted to do something different. We're staying in a small house near the beach, and I can't wait to watch the sunset every evening. My kids are excited too, they want to build sandcastles and play in the water. I think it's going to be a great holiday!"
+    },
+    {
+      "no": 9,
+      "question": "A man is talking about how he goes to work. Why does he prefer traveling by train?",
+      "options": [
+        "It's cheaper than biking",
+        "It's practical",
+        "It's faster than flying"
+      ],
+      "answer": "B",
+      "explain": "I've been thinking about how to get to work every day. At first, I considered driving, but the traffic is always really bad in the morning. Then, I thought about riding my bike, but it's too far, and I'd be tired before I even start my day. The bus is another option, but it's often late. After thinking about all the choices, I decided to travel by train. It's practical because it's on time, and I can relax during the trip. Plus, the station is close to my office!"
+    },
+    {
+      "no": 10,
+      "question": "Listen to the instructions of a university. Where is the main office?",
+      "options": [
+        "On the third floor",
+        "On the first floor",
+        "In the basement"
+      ],
+      "answer": "B",
+      "explain": "Welcome to our university! When you enter the campus, you'll see the library on your left and the cafeteria on your right. If you need help with anything, the main office is on the first floor of the center campus building. There, you can ask about classes, schedules, or anything else. Behind the main building you'll find the gym and sports area. For quiet study, there are some nice spots in the garden near the science building. Make sure to explore and enjoy your time here!"
+    },
+    {
+      "no": 11,
+      "question": "A woman is talking about shopping places. Where is she going to go shopping?",
+      "options": [
+        "At the downtown market",
+        "At a new shopping center",
+        "At the mall"
+      ],
+      "answer": "B",
+      "explain": "I love shopping, and there are so many places to choose from in our city. The downtown market is great for fresh fruit and vegetables, and there are lots of small shops there too. If I need clothes, I usually go to the mall, but it can get very crowded on weekends. There's also a little boutique near my house with some unique items, but it's a bit expensive. This time, I'm excited to check out the new shopping center that just opened. I've heard it has everything I need in one place!"
+    },
+    {
+      "no": 12,
+      "question": "A tour guide is making an announcement. Why was the tour canceled?",
+      "options": [
+        "Not enough people",
+        "Bad weather",
+        "Transportation problems"
+      ],
+      "answer": "A",
+      "explain": "Hello everyone, hope you're all having a good day. I'm your tour guide, and I was really looking forward to showing you around the city today. However, there is a small issue. The weather is perfect and transportation is not a problem, everything is ready for our trip. Certainly, these are not the problems. Unfortunately, we don't have enough people for the tour today. Because of this, we have to cancel the tour. I'm really sorry for the inconvenience, and I hope we can see you next time."
+    },
+    {
+      "no": 13,
+      "question": "A man is talking about his job. What does the man want to do next?",
+      "options": [
+        "Become a writer",
+        "Become a chef again",
+        "Start teaching history again"
+      ],
+      "answer": "A",
+      "explain": "I used to be a chef, and I loved cooking different dishes for people. It was exciting to create new recipes, but it was also very hard work. After that I became a history teacher, where I enjoyed sharing stories about the past with my students. Teaching was rewarding, but I wanted to try something new. Now, I want to become a writer! I have many ideas for stories in my mind, and I can't wait to put them on paper."
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "title": "Four people are talking about online shopping. Complete the sentences below.",
+    "options": [
+      "It saves time.",
+      "It is cheaper.",
+      "Products are delivered.",
+      "There are more choices."
+    ],
+    "answers": [
+      "It saves time.",
+      "It is cheaper.",
+      "Products are delivered.",
+      "There are more choices."
+    ],
+    "explain": [
+      "Speaker A: I've always been a bit short on time, especially with my busy work schedule. That's why I prefer shopping online - it really helps me save so much time. Instead of spending hours in stores, I can quickly browse through different websites, compare prices, and make my purchase in just a few clicks. It's so convenient, especially when I need something urgently. I can even shop during my lunch break or late at night. It fits perfectly with my lifestyle, and I don't have to worry about rushing to a store before it closes.",
+      "Speaker B: For me, one of the main reasons I shop online is because it's usually more affordable. I've noticed that many online stores offer discounts and I can often find cheaper prices than I would in physical shops. Plus, I can compare products easily, making sure I'm getting the best deal. I also don't have to spend money on transportation or parking, which adds up in the long run. It's a great way to stick to my budget while still getting everything I need.",
+      "Speaker C: The biggest advantage of shopping online for me is the fact that I don't have to leave my house. I love how products get delivered straight to my doorstep, especially when I order something heavy or large. It saves me the hassle of carrying things back from the store. I also like how fast the delivery can be, sometimes arriving the very next day. It makes life so much easier, especially when I have a busy week ahead and can't make it to the shops.",
+      "Speaker D: What I love about shopping online is the incredible variety of products available. When I go to a store, I'm limited to what's in stock, but online, there's so much more choice. I can find different brands, styles, and even products that aren't available locally. It's great for finding unique items or hard-to-find sizes. I can spend time browsing until I find exactly what I'm looking for without feeling rushed. It gives me the freedom to explore all my options."
+    ],
+    "stem": ""
+  },
+  "part3": {
+    "no": 15,
+    "title": "A man and a woman are talking about the local center that was recently opened. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Exhibitions should be different and diverse.",
+        "answer": "Man"
+      },
+      {
+        "text": "Traditional customs are gradually losing their significance.",
+        "answer": "Both"
+      },
+      {
+        "text": "Local festivals will disappear in the near future.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Schools are important in shaping future generations.",
+        "answer": "Woman"
+      }
+    ],
+    "explain": "Man: Have you heard about the new local center opening next week? I think it will be a great place for exhibitions. But you know, I believe exhibitions should be different. They need to show new ideas, not just the same old things.\nWoman: I agree that exhibitions should be interesting, but I'm not sure they need to be completely different. Sometimes, it's nice to celebrate our traditions, even if they are losing significance.\nMan: Yes, that's true. But if we keep doing the same things, we might forget why those traditions are important. The more we change things, the more people will remember them!\nWoman: I see your point. However, I worry that the local festivals will disappear soon. If people don't care about them, they might stop celebrating altogether.\nMan: That's a good point, but I think we can make the festivals more exciting to attract people. We should include activities that everyone can enjoy, not just the same old customs.\nWoman: I understand that, but let's not forget how important schools are in keeping our traditions alive. They teach children about our culture and values. If schools don't focus on traditions, who will?\nMan: That's true! Schools play a big role. But maybe parents should be the ones in charge of this. Keeping traditions is everyone's responsibility, not just schools or the education system."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a TV producer sharing his thoughts on the latest scripts for a new show. Choose the correct answers.",
+      "questions": [
+        {
+          "question": "What does the producer think about the dialogues in the new show?",
+          "options": [
+            "The characters' backgrounds are not adequately explored.",
+            "They seem unrealistic.",
+            "They reflect real-life conversations well."
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "How is the current industry demand affecting the quality of script production?",
+          "options": [
+            "It is allowing for more thorough script development.",
+            "It is leading to more innovative ideas.",
+            "It is negatively influencing script production."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Welcome back to our behind-the-scenes series update. Overall, I'm really excited about the core premise of the new show. But there are a few critical adjustments we need to make right off the bat.\nFirst, the dialogue: while the overall plot beats are strong, the way the characters speak lacks the necessary authenticity. We need to make sure every line of conversation does more than just move the story forward - it should reveal their personalities and lived experiences. That's why the biggest gap right now is that we haven't adequately explored the characters' backstories through their dialogue. Their lines need to show who they are, not just what they're doing in the moment.\nSecond, the industry-wide production pressure is hitting us hard right now. Market demand and tight broadcast deadlines are pushing us to rush through the script development cycle. When you cut corners on editing and refinement, the final quality of the project takes a hit. We're trading depth for speed, and that's a dangerous tradeoff right now. We need to find a way to balance fast turnaround with thoughtful, intentional writing."
+    },
+    {
+      "no": 17,
+      "title": "Listen to a critic giving opinions about a restaurant.",
+      "questions": [
+        {
+          "question": "What are the critic's opinions about the restaurant?",
+          "options": [
+            "The food is not fresh.",
+            "The service is not good.",
+            "The chef lacks experience."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What can compete with online food delivery?",
+          "options": [
+            "Organic ingredients",
+            "Providing a ready-made pack for customers",
+            "Customers feel valued and welcome"
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "As someone who's reviewed dining experiences for years, I was looking forward to my visit to La Bella Bistro. The location and ambiance are certainly inviting; however, my overall experience left much to be desired. While the food itself was decent, the real issue lies with the service. From the moment I arrived, it was clear that the staff were either overwhelmed or under-trained. I had to wait far too long for basic requests, and when I did finally receive attention, it was rushed and impersonal. This level of service really detracts from what should be a pleasant evening out.\nNow, in an age where online food delivery has become so convenient, restaurants need to focus on what sets them apart. What can compete with the ease of ordering from home is the feeling of being truly valued and welcomed. Diners aren't just looking for good food; they want an experience. A warm greeting, attentive service, and the sense that their presence matters - these are the things that make customers want to return. Unfortunately, at La Bella Bistro, that element was noticeably lacking, and it's something they need to address if they hope to stand out in today's competitive market."
+    }
+  ]
+}

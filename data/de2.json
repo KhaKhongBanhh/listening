@@ -1,0 +1,253 @@
+{
+  "id": 2,
+  "title": "Đề 2",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A woman is talking about her house. What is she going to change in their house?",
+      "options": [
+        "The window",
+        "The car",
+        "The computer"
+      ],
+      "answer": "A",
+      "explain": "Woman: I've always loved the ocean, that is why I initially wanted to install a big window that looks out to the river at my house. But now my husband and I realized it was too big and now too much sunshine got in. My car got heated and the computer next to the window always seemed like it would explode. I have no choice but to change it into another window that can close entirely."
+    },
+    {
+      "no": 2,
+      "question": "A receptionist is checking the client list of a clinic. How many clients are Americans?",
+      "options": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answer": "A",
+      "explain": "Receptionist: Alright, let me go over the list of clients for today. We've got Carl, Harry, and Matthew, all from the UK. Leslie, who's from the US, is also scheduled for an appointment. Then, we have two more clients coming in from France. So that gives us one American, a few from the UK, and the rest from France. It looks like everything's in order!"
+    },
+    {
+      "no": 3,
+      "question": "Listen to Anna talking about her routine. Where does Anna go for a walk every morning?",
+      "options": [
+        "park",
+        "neighborhood",
+        "college"
+      ],
+      "answer": "C",
+      "explain": "I really like to walk in the mornings. Every day, I take a nice walk before my classes start. I could walk around my neighborhood, but I prefer going to college. It's a great way for me to get a bit of exercise and clear my mind before the day begins. The campus is so peaceful in the mornings."
+    },
+    {
+      "no": 4,
+      "question": "Listen to a girl calling the cafe. What did she forget, and where did she leave it?",
+      "options": [
+        "on the counter",
+        "in the corner",
+        "near the door"
+      ],
+      "answer": "B",
+      "explain": "Hi, I was at your cafe this afternoon, and I think I left something there. I remember having it when I sat at a small table in the corner. I checked the counter and near the door before I left, but I must have forgotten it in the corner after all. Could you please look there?"
+    },
+    {
+      "no": 5,
+      "question": "Helen is calling a friend about the place her whole family is standing while seeing her off to college. Where are they standing?",
+      "options": [
+        "library complex",
+        "university area",
+        "Residential area"
+      ],
+      "answer": "C",
+      "explain": "Hi! I just wanted to call quickly before we head off. My family is all here to see me, and we're standing in this big area with lots of houses and apartments. It's a nice residential area, with some trees and small shops nearby. We're not right by the university, but it's close enough. There are lots of other students and families here, too, saying goodbye. It feels a bit emotional, but I'm also really excited to start this new journey."
+    },
+    {
+      "no": 6,
+      "question": "A tour guide is talking about the vacation list of activities. What can people do in the afternoon?",
+      "options": [
+        "Join a dance class",
+        "Play golf",
+        "Go shopping"
+      ],
+      "answer": "B",
+      "explain": "Man: Now, let's talk about the afternoon activities. For those interested, we have a golf course available where you can spend your afternoon playing golf. If golf isn't your thing, don't worry, there's also a dance class scheduled in the evening. And of course, you can always go shopping in the nearby stores later on, but bear in mind, the store will only open in the morning."
+    },
+    {
+      "no": 7,
+      "question": "Doctor's office is calling about a change in the appointment. When is the new appointment?",
+      "options": [
+        "On Thursday 13th",
+        "On Thursday 30th",
+        "On Friday 14th"
+      ],
+      "answer": "A",
+      "explain": "Hello! This is the doctor's office calling to change your appointment. I wanted to let you know that the new appointment is on Thursday the 13th. I understand you might have been expecting it to be on Friday the 14th, but we're all off this day due to the national dentist holiday. Please let us know if that works for you!"
+    },
+    {
+      "no": 8,
+      "question": "Alice is calling her friend. What did she lose?",
+      "options": [
+        "A book",
+        "A laptop",
+        "A phone"
+      ],
+      "answer": "C",
+      "explain": "Hey, it's Alice. I think I might have left something at your house. I had my book with me. It's in my backpack. My laptop's here too. But I can't find my phone anywhere! Did you happen to see it after I left? I think I might have left it on the table."
+    },
+    {
+      "no": 9,
+      "question": "Max is calling his friend. How much can Max pay for the computer?",
+      "options": [
+        "150 pounds",
+        "250 pounds",
+        "350 pounds"
+      ],
+      "answer": "B",
+      "explain": "Hi. It's me Max. I'm calling about the computer that you are selling. You see, my computer is old and slow. I can't play any games on it any more and would like to replace it with a new one. How much do you offer? I can pay 250 pounds. This afternoon I am busy but we can discuss this tomorrow morning, is that okay? Call me back soon."
+    },
+    {
+      "no": 10,
+      "question": "Listen to a man talking about their train journey. What time did the train depart?",
+      "options": [
+        "9:00",
+        "9:30",
+        "10:00"
+      ],
+      "answer": "B",
+      "explain": "This morning was rough at the station. I thought the train would leave around 9:00, but I heard it would be delayed. It finally departed at 9:30, though some people said it might be even later. Usually, if it's delayed, it could leave as late as 10:00. I'm glad it didn't take that long today!"
+    },
+    {
+      "no": 11,
+      "question": "Listen to a woman asking about a flight. How much does the flight in the morning cost?",
+      "options": [
+        "300 pounds",
+        "350 pounds",
+        "400 pounds"
+      ],
+      "answer": "B",
+      "explain": "I'm looking at flights and comparing prices. The morning flight I want is 350 pounds, which is a bit more than the 300-pound one later in the day. There's also another option that costs 400 pounds, but it includes extra services I don't need. So, I think I'll stick with the 350-pound one since it leaves at the right time for me."
+    },
+    {
+      "no": 12,
+      "question": "Listen to a friend talking about selling her music player. How much did she sell it for?",
+      "options": [
+        "50 dollars",
+        "60 dollars",
+        "40 dollars"
+      ],
+      "answer": "A",
+      "explain": "I sold my old music player last week. I considered selling it for around 60 dollars since it was in good condition, but I thought 40 dollars would be a bit too low. I finally sold it for 50 dollars, which felt just right. Now, I have a bit of extra cash to save or spend on something new."
+    },
+    {
+      "no": 13,
+      "question": "Listen to a woman explaining why she was late. What is the main reason she gets late?",
+      "options": [
+        "Overslept",
+        "Forgot something",
+        "Missed the train"
+      ],
+      "answer": "C",
+      "explain": "I've been late several times recently. Sometimes, I oversleep, but that wasn't the case today. I actually left on time, but I missed the train at the last minute. It's always the main reason I end up late. I try to double-check everything I need, so forgetting something isn't usually an issue for me either."
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "title": "Listen to four people talking about doing exercises and answer the questions below.",
+    "options": [
+      "Have fun exercising with others",
+      "Improve work performance",
+      "Hate exercising",
+      "Find exercise tiring"
+    ],
+    "answers": [
+      "Improve work performance",
+      "Find exercise tiring",
+      "Have fun exercising with others",
+      "Hate exercising"
+    ],
+    "explain": [
+      "Person A: Exercise has become essential in my life, especially with my demanding and stressful job. The workload can be overwhelming at times, leaving me feeling exhausted and overwhelmed. That's why I turn to exercise as a way to unwind and rejuvenate. Whether it's going for a run, practicing yoga, or even just taking a brisk walk, exercise helps me release stress and clear my mind. I've noticed that after exercising, I feel more focused, energized, and ready to tackle my work with renewed vigor. It's incredible how something as simple as exercise can greatly improve my work performance and overall well-being.",
+      "Person B: Honestly? Exercise wears me out. The idea of getting all sweaty and sore doesn't excite me at all. Every time I try to work out, it feels like I'm running on empty within minutes. And people say it gives them energy - are we talking about the same thing? I feel more tired just thinking about the treadmill! I know it's supposed to be good for me, and I try to do it for my health, but I don't get that rush people talk about. Exercise for me is just... exhausting. Why do something that makes me want to lie down for three days afterward?",
+      "Person C: Exercising is a blast when you're with the right people! I've joined a few group classes, and they're like a party every time. The music is pumping, everyone's in sync, and it feels like we're all in this together. Working out alone can get boring, but with friends? You laugh, you encourage each other, and suddenly, an hour has flown by. We push each other, you know? It's kind of amazing - half the time, I forget I'm even working out. I actually look forward to it. The camaraderie makes it worth every minute.",
+      "Person D: Exercise? Ugh, I can't stand it. I know it's supposed to be 'good for you' and all that, but I find it completely miserable. The sweat, the strain, the way my muscles burn afterward - it's like a punishment. People say it'll get better or that I'll start to like it eventually, but I've tried, and I still hate it. Honestly, life's too short to spend it doing something you can't stand. There are other ways to be healthy that don't involve torturing myself. I'd rather read a book than jog any day."
+    ],
+    "stem": ""
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing Politics. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Young people are more into politics.",
+        "answer": "Both"
+      },
+      {
+        "text": "Social media change politics.",
+        "answer": "Woman"
+      },
+      {
+        "text": "People are now better informed on politics.",
+        "answer": "Man"
+      },
+      {
+        "text": "More women pursue politics.",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Woman: Politics have been a very common topic lately. I've noticed that young people are becoming much more interested in politics lately. It's great to see them engaging in discussions and activism.\nMan: I completely agree! It's refreshing to see younger generations taking a stand on important issues.\nWoman: I also think social media plays a big role in this. Platforms like Twitter and Instagram help spread political information quickly and connect people with similar interests.\nMan: Actually I believe people are becoming better informed about politics not because of social media but through traditional news sources. Many are actively seeking information to understand the issues better.\nWoman: I see your point, but I think social media has a unique impact. It allows for diverse voices to be heard that might not be represented in mainstream media.\nMan: It's also encouraging to see more women pursuing careers in politics. It brings different perspectives to the table, which is essential for a balanced approach to governance.\nWoman: Absolutely! More representation is always a positive step forward."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a writer talking about her experience in writing and choose the correct answer.",
+      "questions": [
+        {
+          "question": "What does the writer believe helps her the most in her writing process?",
+          "options": [
+            "Writing every day for 15-20 minutes",
+            "Create dedicated periods for writing",
+            "Finding a quiet space to work"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What does the writer regret doing during her experience with writer's block?",
+          "options": [
+            "Refuse to seek advice of others",
+            "Ignoring feedback from editors",
+            "Writing without a plan"
+          ],
+          "answer": "A"
+        }
+      ],
+      "explain": "Hi everyone! I'd like to share my experience with writer's block during the process of writing my new bestseller. Many people think that to write well, you need to sit down every day for 15 to 20 minutes or find a quiet space. While those strategies work for some, I've found that establishing specific time slots for writing that truly fit my style is what helps me the most.\nHowever, I did face significant writer's block at one point, and looking back, I regret not reaching out for guidance from others. I thought I could handle everything on my own, but sometimes it's vital to get an outside perspective. Talking to fellow writers and mentors could have helped me overcome that block much faster. Now I understand that collaboration and sharing ideas can inspire creativity. So, if you ever find yourself stuck, don't hesitate to reach out to others!"
+    },
+    {
+      "no": 17,
+      "title": "The radio is talking about a musician's career and latest albums. Listen and choose the correct answer.",
+      "questions": [
+        {
+          "question": "What has the musician decided regarding his singing career?",
+          "options": [
+            "He will retire from singing professionally",
+            "He will make a comeback after a long break",
+            "He will inform fans about new albums"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What could the musician have achieved with his recent albums?",
+          "options": [
+            "He could have been more successful",
+            "He could have inspired future generations in general.",
+            "He could have gotten a bigger fan base."
+          ],
+          "answer": "A"
+        }
+      ],
+      "explain": "Radio MC: Good afternoon, everyone! Today, we're diving into the life of a beloved musician who has decided to retire from singing professionally. Unlike in the past, where he would inform his fans and then make a comeback, this time he's serious about stepping away for good.\nHis talent has always shone through, and many believe he could have achieved even greater success with his recent albums. However, the long break he took between projects made it difficult for him to regain his previous momentum. Fans were excited to see him return, but the gap left some wondering if he could still capture the magic he once had.\nAs he prepares for this new chapter in his life, we can only reflect on the incredible music he's given us over the years. He leaves behind a rich legacy that will inspire future generations of artists. Stay tuned for more updates on this iconic musician!"
+    }
+  ]
+}

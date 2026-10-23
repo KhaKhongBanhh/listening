@@ -1,0 +1,253 @@
+{
+  "id": 7,
+  "title": "Đề 7",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A woman is talking about her family's weekend. What does the family do most weekends?",
+      "options": [
+        "Goes for a walk",
+        "Goes for a picnic",
+        "Goes to the beach"
+      ],
+      "answer": "A",
+      "explain": "Hello, everyone! I want to share what my family usually does on weekends. We love spending time together and often go for a walk in the park. It's a nice way to relax and enjoy nature. We like to see the flowers and sometimes have a picnic. However, this weekend is different! My sister is visiting us, and we have planned a small family gathering at home. We will cook a big meal together and play some games. It will be fun to catch up and spend quality time as a family. I'm really looking forward to it!"
+    },
+    {
+      "no": 2,
+      "question": "A man is talking to a shop assistant. What does the man buy in the shop?",
+      "options": [
+        "Mugs",
+        "Candles",
+        "Clothes"
+      ],
+      "answer": "C",
+      "explain": "Man: Hi there! I need some help buying gifts for my friends.\nShop Assistant: Of course! What kind of gifts are you looking for?\nMan: I'm not sure yet. What do you have?\nShop Assistant: How about mugs? We have many colorful designs. Would you like to buy some?\nMan: They're nice, but I think my friends have enough mugs already. Is there anything else?\nShop Assistant: Candles can also be a great choice! We have some lovely scented ones.\nMan: Hmm, I like them, but I'm looking for something else.\nShop Assistant: How about clothes? We have some stylish shirts and sweaters.\nMan: That sounds good! I think I'll buy some clothes for my friends in the end. Thank you for your help!"
+    },
+    {
+      "no": 3,
+      "question": "A man is talking on the phone. What did the man lose?",
+      "options": [
+        "Jacket",
+        "Glasses",
+        "Books"
+      ],
+      "answer": "B",
+      "explain": "Hello! This is Mark. I think I might have lost my glasses when I was at your store earlier today. I remember trying on a jacket, and I may have left them there. They are brown and round. I really need them for reading and driving! I want to come back and check if they are still there. Can you please hold them for me if you find them? Thank you so much for your help! I'll be there in about 20 minutes."
+    },
+    {
+      "no": 4,
+      "question": "Jack is phoning his mom. What does Jack need to buy for his sister?",
+      "options": [
+        "Chocolates",
+        "Milk",
+        "Fruit"
+      ],
+      "answer": "A",
+      "explain": "Hi, Mom! It's Jack. I hope you're doing well! I'm out shopping, and I need to buy some chocolates for my sister's birthday. She loves dark chocolate, so I want to get her some nice ones. By the way, do you need anything while I'm here? I can pick up some milk or fruit if you want. Let me know! I'll talk to you soon!"
+    },
+    {
+      "no": 5,
+      "question": "Lucy is calling her brother. What does the brother have to drink?",
+      "options": [
+        "Milk",
+        "Medicine",
+        "Water"
+      ],
+      "answer": "C",
+      "explain": "Hi, Jake! It's Lucy. I just wanted to check in on you. How are you doing? I know you've been busy with work and school lately. I'm worried that you're not drinking enough water. Staying hydrated is really important, especially when you're working hard! Remember to keep a bottle with you. Anyway, I hope you're taking care of yourself. Let's catch up soon!"
+    },
+    {
+      "no": 6,
+      "question": "Anna is calling her friend. Where will they meet?",
+      "options": [
+        "At the marketplace",
+        "At the mall",
+        "At the park"
+      ],
+      "answer": "A",
+      "explain": "Hi, Mia. It's Anna. I hope you're having a great day! I wanted to see if we are still meeting at the marketplace later. I'm really excited because I want to try that new ice cream shop we talked about. I heard they have some amazing flavors! I'll be there around 3 P.M. Let's also check out the fresh fruits and vegetables. It's always fun to shop together! See you soon!"
+    },
+    {
+      "no": 7,
+      "question": "Listen to an auction man talking about a cabinet. Which part of the cabinet is original?",
+      "options": [
+        "The drawer",
+        "The doors",
+        "The handles"
+      ],
+      "answer": "A",
+      "explain": "Ladies and gentlemen, welcome to today's auction! I have a beautiful cabinet here that I want to show you. This cabinet is made of high-quality wood, and it has a lovely design that will fit in any room. What makes it special is that the drawer is kept original, which adds to its charm and value. You can store your favorite items or use it as a display for your beautiful decorations. Don't miss this chance to own a unique piece of furniture! Let's start the bidding!"
+    },
+    {
+      "no": 8,
+      "question": "Listen to a voice message. How does Evan feel?",
+      "options": [
+        "Sick",
+        "Happy",
+        "Tired"
+      ],
+      "answer": "A",
+      "explain": "Hi, Evan! This is Mom. I just wanted to leave you a message to check on you. I heard you're not feeling well, and I'm really worried about you. Make sure you're resting and drinking plenty of fluids. Do you need anything? I can bring you some soup or your favorite snacks. Please take care of yourself! I love you and hope you feel better soon. Call me back when you can!"
+    },
+    {
+      "no": 9,
+      "question": "Two friends are talking about their trip. What will the weather be like?",
+      "options": [
+        "Cold and wet",
+        "Hot and sunny",
+        "Warm and dry"
+      ],
+      "answer": "A",
+      "explain": "Mike: Hey, Sarah! Are you excited about our trip next week?\nSarah: Hi, Mike! Yes, I can't wait! I've been looking forward to it for a long time.\nMike: Me too! But I heard the weather is going to be cold and wet. We should prepare for that.\nSarah: Oh no! I hope it doesn't rain too much. We need to pack our rain jackets and warm clothes.\nMike: Definitely! I'll also bring an umbrella just in case.\nSarah: Good idea! Let's plan some fun indoor activities if the weather is bad.\nMike: Yes! We can visit museums or try some local food. It will still be a great trip!"
+    },
+    {
+      "no": 10,
+      "question": "A man is talking about his holiday. How is he going to travel to the city?",
+      "options": [
+        "by car",
+        "by train",
+        "by bus"
+      ],
+      "answer": "B",
+      "explain": "Hello, everyone. I want to share my plans for the holiday. This year, I'm going to travel to the city for a few days. I'm very excited because I love exploring new places. I plan to visit some interesting museums and try different foods at local restaurants. The best part is that I will travel by train, which is fun and also very cheap! I will leave early in the morning to enjoy the day. I can't wait to see all the sights and take lots of pictures! It will be an amazing holiday!"
+    },
+    {
+      "no": 11,
+      "question": "Listen to a nutrition expert. What time is the best for children to eat fruit?",
+      "options": [
+        "In the evening",
+        "In the afternoon",
+        "In the morning"
+      ],
+      "answer": "C",
+      "explain": "Hello, everyone! I'm here to talk about nutrition and how important it is for our health. Eating fruits is very beneficial, especially for children. Fruits have vitamins and minerals that help kids grow strong and stay healthy. The best time for children to eat fruit is in the morning. This gives them energy for the day ahead. You can add fruit to breakfast, like in a smoothie or with yogurt. It's a delicious and healthy way to start the day! So, let's encourage our kids to eat more fruit in the morning! Thank you!"
+    },
+    {
+      "no": 12,
+      "question": "Greg is talking about a working day in his life. How does he go to work?",
+      "options": [
+        "By bus",
+        "By bike",
+        "On foot"
+      ],
+      "answer": "A",
+      "explain": "Hi, everyone! I'm Greg, and I want to tell you about a typical working day in my life. I usually wake up early, around 7 A.M. After a quick breakfast, I get ready for work. I like to wear smart clothes because I work in an office. I go by bus every day, which takes about 30 minutes. I enjoy looking out the window and listening to music on my way. When I arrive at the office, I start my day by checking emails and planning my tasks. I have meetings with my team, and we work together on projects."
+    },
+    {
+      "no": 13,
+      "question": "Listen to a tour guide. Where is the office located?",
+      "options": [
+        "Next to the park",
+        "Opposite the hotel",
+        "Above a restaurant"
+      ],
+      "answer": "B",
+      "explain": "Hello, everyone! Welcome to our tour! My name is Sam, and I'm your tour guide today. I'm excited to show you around this beautiful city. We will visit many interesting places, including parks, museums, and local markets.\nAs we walk, I'll share fun facts and stories about each location. If you have any questions, feel free to ask!\nNow, before we start, I want to let you know that our office is opposite the hotel where you are staying. If you need any help or information during your stay, you can always come to us.\nLet's begin our adventure and enjoy exploring together!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Four people are talking about their journey to work. Complete the sentences below.",
+    "stem": "",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "Walks with friends.",
+      "Goes by bus.",
+      "Walks alone.",
+      "Drives a car."
+    ],
+    "answers": [
+      "Walks with friends.",
+      "Goes by bus.",
+      "Walks alone.",
+      "Drives a car."
+    ],
+    "explain": [
+      "Speaker A: Mornings are actually my favorite time of day. I get to catch up with my friends, laugh about silly things, and just share a moment before the real day starts. We're out there together, moving through the city like it's our own little world. It's funny how just talking and walking can make you forget about everything else. Sometimes, we even take a longer route just to keep the conversation going. By the time we get to work, I'm already in a good mood, ready for whatever comes my way.",
+      "Speaker B: There's something oddly comforting about my mornings. It's like this in-between space where I'm not quite at home, not quite at work. I hop on the bus, find a seat if I'm lucky, and just watch the world go by. You see all kinds of faces, each with their own story, each heading somewhere. It's not glamorous, but it's my little escape - time to listen to my favorite songs or daydream out the window. By the time I step off, I'm ready to face whatever the day throws at me.",
+      "Speaker C: Mornings are quiet, and that's how I like it. It's just me, the fresh air, and the city slowly waking up. I take my time, choosing the paths that are less crowded. I guess you could say it's my way of getting ready for the day. There's no rush, just the steady rhythm of my own footsteps. It's my chance to breathe, to think, to just be by myself. By the time I reach work, I feel like I've had a small adventure all my own.",
+      "Speaker D: Every morning, it's just me, my car, and the open road. There's a kind of freedom in it, you know? I get to decide my route, crank up my favorite tunes, and just go. Traffic can be a pain, sure, but it's worth it for those moments when it's just me and my thoughts. I like having that bit of control, especially before a busy day. Sometimes, I even take the scenic route, just to stretch out the time a bit. By the time I park, I'm in my zone, ready to take on whatever comes next."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing singers and music. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Singers can be good role models for the young.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Taste in music is a highly personal thing.",
+        "answer": "Both"
+      },
+      {
+        "text": "Music is a universal language.",
+        "answer": "Man"
+      },
+      {
+        "text": "Music can be used to manipulate people's feelings.",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Woman: You know, I really believe that singers can be good role models for young people. Their influence can inspire kids to pursue their dreams and express themselves. Just think about how many young people start singing because they look up to someone famous.\nMan: I'm not so sure about that. While some singers may have positive messages, others don't always set the best example. Sometimes their lifestyle can be quite the opposite of what we'd want kids to emulate.\nWoman: Fair point, but I think many young fans look up to their favorite artists and adopt their values. Artists like Taylor Swift or Ed Sheeran often promote kindness and hard work.\nMan: I get that. But when it comes to taste in music, it's such a highly personal thing. What resonates with one person might not resonate with another. I mean, I might love rock while my friend prefers something else entirely.\nWoman: Absolutely! Everyone has their own preference, and that's what makes it interesting. It's like a reflection of our individual personalities.\nMan: And speaking of music, I believe it's a universal language that connects people from different cultures. You can go anywhere in the world and find people enjoying music.\nWoman: I don't fully agree with that. While music can connect people, its meanings can vary greatly between cultures. A song that makes one group happy might not even be understood by another.\nMan: True, but one thing we can both agree on is that music can be used to manipulate people's feelings, whether in advertising or emotional moments in movies.\nWoman: Definitely! It's amazing how a song can evoke such strong emotions in us. Just think about those movie soundtracks that give you chills or make you cry. Music has that incredible power.\nMan: Right. It's fascinating how a simple melody can tap into our emotions so deeply."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "A radio MC is talking about research on happiness. Choose the correct answers.",
+      "questions": [
+        {
+          "question": "What does the radio MC say about how the research on happiness has been covered by the media?",
+          "options": [
+            "It has been accurately reported by the media.",
+            "It has not been accurately reported by the media.",
+            "It has been ignored completely by the media."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "According to the radio MC, what is unlikely regarding the research on happiness?",
+          "options": [
+            "To find personal happiness",
+            "To find a conclusive answer",
+            "To discuss happiness in the media"
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "Radio MC: Good morning, listeners! Today, we're diving into a recent research study on happiness that has sparked quite a bit of discussion. Unfortunately, it seems that the media has focused more on sensational headlines rather than accurately reporting the core findings of the research. As a result, many people are left with a distorted understanding of what truly contributes to happiness.\nWhile numerous studies have attempted to uncover the secrets to a happy life, it's important to recognize that there may never be a conclusive answer. Happiness is a complex and personal experience, influenced by a variety of factors unique to each individual.\nInstead of seeking a one-size-fits-all solution, we should focus on understanding our own needs and values. Remember, happiness is not a destination but a journey, and it's crucial to approach it with an open mind. Stay tuned for more insights and discussions on this fascinating topic."
+    },
+    {
+      "no": 17,
+      "title": "Listen to an advertising expert talking about the advertising industry.",
+      "questions": [
+        {
+          "question": "What does the expert say about advertising?",
+          "options": [
+            "It helps to reach new customers.",
+            "Advertisements might sometimes be repetitive, which is annoying.",
+            "Advertising costs the same amount of money as producing a movie."
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "In what way can advertising affect sports?",
+          "options": [
+            "They help to attract more fans.",
+            "They can boost ticket sales and sales of sports-related items.",
+            "They are not always good for sports fans."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "The once-every-four-years Champions League is back this year, and it's creating a wave of excitement among sports fans. This year promises to be more thrilling than ever, especially with a rising star defeating one of the top three teams from last year to advance to the knockout stage. As interest grows among sports fans, advertising plays a crucial role in maintaining the game's popularity.\nInnovative advertising strategies help brands expand their customer base to other countries, increasing their global reach. However, not all commercial advertising activities are beneficial for sports fans. While advertisements may boost the game's visibility and attract new audiences, they can sometimes detract from the viewing experience, with interruptions or overly commercialized content. It's important to strike a balance between promoting the sport and maintaining its integrity for true fans."
+    }
+  ]
+}

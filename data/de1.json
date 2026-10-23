@@ -1,0 +1,253 @@
+{
+  "id": 1,
+  "title": "Đề 1",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A person calls a friend about his new car. How much does the small car cost him?",
+      "options": [
+        "3250 pounds",
+        "3550 pounds",
+        "4250 pounds"
+      ],
+      "answer": "A",
+      "explain": "Hey, I just wanted to tell you about my new car! It's a small one, perfect for my needs. I got it for a great price - only 3,250 pounds! Can you believe it? I was looking at bigger models too, but they were way more expensive, around 3,550 pounds or even 4,250 pounds. I'm really happy with my choice!"
+    },
+    {
+      "no": 2,
+      "question": "Two people are talking about meeting for dinner. What time does Ahmed meet Rose?",
+      "options": [
+        "half past seven",
+        "quarter past seven",
+        "quarter to eight"
+      ],
+      "answer": "C",
+      "explain": "Hi Rose. It's Ahmed, what time should we meet for dinner tonight? How about we meet at quarter past seven instead? Oh wait, I just remembered - I have a meeting ending at half past seven. Let's make it quarter to eight instead so we could have 15 minutes to travel. Does that work for you?"
+    },
+    {
+      "no": 3,
+      "question": "A man calls the teleshop. What is the teleshop number?",
+      "options": [
+        "102030",
+        "201030",
+        "301020"
+      ],
+      "answer": "B",
+      "explain": "Hello, I need to call the teleshop for some information. My phone is not working. Can you remind me of the number? I think it starts with 20 or 10 or 30 something. Is it 102030 or 301020? No, wait! I remember now it's 201030! I really need to order that new gadget. Thanks for your help!"
+    },
+    {
+      "no": 4,
+      "question": "A man is talking to a shopping assistant. What color top is he going to buy?",
+      "options": [
+        "Green",
+        "Blue",
+        "Black"
+      ],
+      "answer": "C",
+      "explain": "Man: Hello, I would like to buy a top, please.\nWoman: Sure, do you have anything particular in mind?\nMan: I like the design of that green one over there. Do you have it in blue?\nWoman: Maybe. What size are you?\nMan: I am wearing large.\nWoman: Let me see. Ohh. We have that one in blue but small. The red and black ones, however, are available in large.\nMan: Red is not my cup of tea. Well, I will go with the other option then."
+    },
+    {
+      "no": 5,
+      "question": "Anna is calling her brother Max. What does Anna do later in the afternoon?",
+      "options": [
+        "Stay late at the office",
+        "Pick up her kids",
+        "Hang out with friends"
+      ],
+      "answer": "A",
+      "explain": "Anna: Hey Max, it's Anna. I want to ask you for a favor this afternoon. I have to stay late at the office to finish some work. Could you please pick up my kids from school? After that, I know you'll want to hang out with your friends, so feel free to take them along. I really appreciate your help!"
+    },
+    {
+      "no": 6,
+      "question": "Vincent is calling James. Why does Vincent call James?",
+      "options": [
+        "To say hello",
+        "To suggest a drink",
+        "To arrange meeting"
+      ],
+      "answer": "B",
+      "explain": "Hi James, it's Vincent. I just want to check in and see how you're doing. It's been a while since we last caught up! How about we grab a drink later? I know a great new place that has very nice tea. You should definitely try it next time you visit me. Text me back!"
+    },
+    {
+      "no": 7,
+      "question": "A man is talking about his trip. What did he enjoy last year?",
+      "options": [
+        "Go for a walk",
+        "Go picnic",
+        "Go cycling"
+      ],
+      "answer": "C",
+      "explain": "Man: Last year, I had an amazing trip! One of the best things I enjoyed was going cycling in the countryside. The views were stunning, and it felt great to be outdoors. I also went for a walk a few times, but cycling really allowed me to explore more areas. We even had a picnic one day, which was lovely too!"
+    },
+    {
+      "no": 8,
+      "question": "A woman is talking about her job. What encouraged her to become a scientist?",
+      "options": [
+        "Her mother",
+        "A large stone",
+        "The computer"
+      ],
+      "answer": "B",
+      "explain": "Woman: I've always loved science, but there was a moment that really encouraged me to become a scientist. I remember when I was a child, I found a large stone during a school trip. It sparked my curiosity about geology. My mother also inspired me to explore my interests in science. Of course, I use the computer a lot now for my research, but that stone was the beginning."
+    },
+    {
+      "no": 9,
+      "question": "A man is talking about the city concert. How will the concert end?",
+      "options": [
+        "The city's favorite group",
+        "Fireworks performance",
+        "Singing from orchestra"
+      ],
+      "answer": "A",
+      "explain": "Man: I can't wait for the concert this weekend! It's going to be such an exciting event. The highlight ending will be the city's favorite group performing on stage. I've heard they have some amazing songs planned. There will also be a fireworks performance to celebrate before that, and I'm sure the orchestra will do some singing as well. It's going to be a night to remember!"
+    },
+    {
+      "no": 10,
+      "question": "A man is talking about his family trip. What does the man's wife enjoy?",
+      "options": [
+        "walking",
+        "shopping",
+        "photography"
+      ],
+      "answer": "C",
+      "explain": "Man: On our family trip last summer, we had such a great time! My wife really enjoys photography. So, when we went walking together in the parks, she spent a lot of time taking pictures of the beautiful landscapes. Well, at least she is not crazy about shopping."
+    },
+    {
+      "no": 11,
+      "question": "Jana is talking to her friend. What does Jana's sister look like?",
+      "options": [
+        "Curly hair",
+        "Short",
+        "Thin"
+      ],
+      "answer": "B",
+      "explain": "Jana: Hey, could you do me a favor? My sister is waiting outside, and I need you to give her my book. She's the one who is short and has straight hair, so you can't miss her. I also think she's wearing a blue jacket today. If you see her, just hand it to her, and I'll be so grateful. Thanks for helping me out!"
+    },
+    {
+      "no": 12,
+      "question": "A man is calling his sister. Where are they going to meet?",
+      "options": [
+        "At the university",
+        "At the station",
+        "At the park"
+      ],
+      "answer": "C",
+      "explain": "Man: Hi, it's me! I wanted to confirm where we're meeting today. I thought we agreed to meet at the park, right? It's a nice place to relax and catch up. The station would be too crowded, and the university is a bit far for me. Let's stick to the park so we can enjoy the weather. What time should I meet you there?"
+    },
+    {
+      "no": 13,
+      "question": "A woman is talking about her vacation. What is the relationship between the speaker and Lisa?",
+      "options": [
+        "Best friends",
+        "Mother and daughter",
+        "Teacher and student"
+      ],
+      "answer": "A",
+      "explain": "Woman: I just got back from an amazing vacation with Lisa. We've been friends for years, and this trip really brought us closer. I can't imagine going with anyone else. Some people think we look like mother and daughter because we care for each other so much, but it's really just best friends hanging out!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "title": "Four people are talking about their exercise preferences. Complete the sentences below.",
+    "stem": "enjoys",
+    "options": [
+      "Horse riding",
+      "Mountain biking",
+      "Walking",
+      "Going for a run"
+    ],
+    "answers": [
+      "Mountain biking",
+      "Going for a run",
+      "Walking",
+      "Horse riding"
+    ],
+    "explain": [
+      "Person A: I've always been drawn to outdoor activities, especially those that get my heart racing. While some of my friends prefer running or hiking, I find nothing more exciting than mountain biking. I love the challenge of rough terrains and feeling the wind rush by as I go downhill. It's also a great way to explore nature and stay fit. I try to hit the trails at least a few times a month because it's such a thrilling experience for me. It's become my go-to form of exercise whenever I have the time.",
+      "Person B: When it comes to staying active, I've tried lots of different things. But I've found that I get the most out of a good jog. It's a great way to keep my energy levels up, and I enjoy how it clears my mind. I usually jog around the park or along the river near my home. It's not too fast, but it still gets my heart pumping and helps me unwind. I try to fit it into my routine as often as I can, even if it's just for 20 minutes.",
+      "Person C: I prefer something more low-key and calming when it comes to exercise. I'm not really into intense activities like running or biking. Instead, I find walking to be the perfect balance for me. It allows me to relax while still staying active. Whether it's in the park or just around my neighborhood, I try to get my steps in every day. It's also a nice way to clear my head after a long day at work.",
+      "Person D: I've been involved in different sports over the years, but one thing that stands out for me is horse riding. There's something about being with horses that feels both calming and exciting. Riding through open fields or along forest paths is an amazing way to stay active. It's not just a workout, but also a chance to connect with animals and nature. I try to go riding whenever I have a free weekend - it's definitely my favorite way to keep fit."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing the Internet. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "There is too much information on the Internet.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Finding information on the Internet requires skills.",
+        "answer": "Both"
+      },
+      {
+        "text": "The use of internet affects the way we think.",
+        "answer": "Man"
+      },
+      {
+        "text": "The internet makes young people less patient.",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Woman: You know, I really feel there's too much information on the Internet. It can be overwhelming sometimes. It's hard to know what's credible.\nMan: Honestly, I think it's more about how we search for information. Finding what we need online requires certain skills. We need to know how to filter through all that content.\nWoman: Definitely! If you don't know how to search properly, you can easily get lost in all that noise.\nMan: And I believe the Internet affects the way we think. With so much information available, we often skim rather than think deeply about topics.\nWoman: That's an interesting point. I hadn't thought about that. But I do see how the constant scrolling and quick answers can make young people less patient.\nMan: Exactly! They expect instant results. It's like waiting for anything has become a challenge.\nWoman: Right! So, while the Internet offers us a wealth of knowledge, it also changes our patience and thinking patterns."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to an announcer talking about a newly released novel and answer the questions below.",
+      "questions": [
+        {
+          "question": "What does the announcer say about the new novel?",
+          "options": [
+            "It is different from his earlier works",
+            "It is romantic and soft",
+            "It is less famous than his earlier works"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What does the announcer say the writer should do in the future?",
+          "options": [
+            "The writer should continue to write this genre",
+            "The writer should go back to his original genre",
+            "He should listen to critics before writing his next work"
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Announcer: Good evening, everyone! Today, we're excited to talk about the latest novel by popular author James Parker. He is known for his softer, romantic stories like Whispers of the Heart, which have touched the hearts of many readers. However, his new novel, Shadow in the Night, is quite different.\nIn Shadow in the Night, Parker explores a thrilling world of suspense and mystery. He moves away from his gentle love stories to deliver an exciting plot filled with unexpected twists. The tension in this book is much higher, showing that he can write in different styles.\nWhile many readers are excited about this new direction, I believe it's important for Parker to pay attention to the critics' advice as he works on his next book. Their feedback can help him improve his writing and find the right balance between romance and thrill that fans appreciate. Stay tuned for more updates on this talented author!"
+    },
+    {
+      "no": 17,
+      "title": "Listen to an expert talking about professionalism and answer the questions below.",
+      "questions": [
+        {
+          "question": "What does the expert say being professional is all about?",
+          "options": [
+            "To maintain positive attitude",
+            "To create good working environment",
+            "To make good impressions"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What does the expert say about the definition of professionalism?",
+          "options": [
+            "It is the same as 40 years ago",
+            "Our definition of it is changing",
+            "It will not change anymore"
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "Good morning, everyone! Today, I want to talk about professionalism and how it has changed over the years. To be seen as a professional, it's essential to be friendly, open-minded, and willing to help others. An optimistic attitude not only makes a good impression but also creates a better work environment.\nAdditionally, with the rapid changes in technology and globalization, our definition of professionalism is no longer the same as it was 40 years ago. In the past, being professional often meant simply dressing well and following strict rules. Now, it includes being adaptable, understanding different cultures, and using technology effectively.\nAs we continue to evolve in our careers, we must embrace these changes and redefine what it means to be a professional. By doing so, we can better meet the needs of our diverse workplaces and succeed in today's fast-paced world. Thank you!"
+    }
+  ]
+}

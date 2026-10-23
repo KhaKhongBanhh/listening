@@ -1,0 +1,254 @@
+{
+  "id": 8,
+  "title": "Đề 8",
+  "part1": [
+    {
+      "no": 1,
+      "question": "Listen to the announcement. When does the train leave?",
+      "options": [
+        "At 9:15",
+        "At 9:30",
+        "At 9:45"
+      ],
+      "answer": "A",
+      "explain": "Woman: Good morning, everyone. This is an important announcement about a change in the train schedule. The train to London will now leave at 9:15, not 9:30 as planned. Please listen carefully to this information. If you are taking this train, please go to Platform 3 now. Thank you for your attention, and have a good day."
+    },
+    {
+      "no": 2,
+      "question": "Listen to a tour guide talking about Rock City. How old is the city?",
+      "options": [
+        "2500 years",
+        "1500 years",
+        "3500 years"
+      ],
+      "answer": "B",
+      "explain": "Welcome to Rock City, everyone! I'm excited to show you around this amazing place. Rock City has a very long and interesting history. People first started living here about 1500 years ago. Can you believe how old that is? It's older than many famous cities in the world! The city got its name because of all the big rocks you can see around us. Over time, people built houses and roads between these rocks. Today, we can still see many old buildings from long ago."
+    },
+    {
+      "no": 3,
+      "question": "Listen to Sarah leaving a message for her friend. When does she want to meet?",
+      "options": [
+        "Two o'clock",
+        "Three o'clock",
+        "One o'clock"
+      ],
+      "answer": "B",
+      "explain": "Sarah: Hi John, this is Sarah calling. I'm leaving you a message about our meeting today. I know we said we'd meet at two, but something's come up. Can we change the time to three o'clock instead? I'll be at the usual coffee shop at three. Please call me back if this doesn't work for you."
+    },
+    {
+      "no": 4,
+      "question": "Listen to a woman talking about what she has just bought. What is her dress like?",
+      "options": [
+        "black and white",
+        "long and white",
+        "long and red"
+      ],
+      "answer": "C",
+      "explain": "Woman: I want to tell you about something special I just bought. It's a beautiful dress. The dress is long and red, just like a sunset! I feel so happy when I wear it. The fabric is soft, and it flows nicely when I walk. I can wear it to a party or a nice dinner. I love my new dress!"
+    },
+    {
+      "no": 5,
+      "question": "A man is seeking advice on his future career. What is he going to do?",
+      "options": [
+        "To work in business",
+        "To become a teacher",
+        "To study at college"
+      ],
+      "answer": "A",
+      "explain": "Woman: Welcome, how may I help you?\nMan: Yes, I would like to have some advice for my future job. I majored in Mathematics. Is there anything that I could do?\nWoman: Well, there are a variety of career paths you can take, let's say becoming a teacher, a businessman, or continuing to study to become a researcher.\nMan: I have a friend who also majored in Mathematics and he is now a businessman with his own company. I guess that would be my choice then. I am not suitable to become a teacher since I think I am a bit impatient."
+    },
+    {
+      "no": 6,
+      "question": "Listen to Anna talking about her old manager, George. What did Anna say about George?",
+      "options": [
+        "He didn't like her",
+        "He taught her a lot",
+        "He was very strict"
+      ],
+      "answer": "B",
+      "explain": "Anna: You know, I want to talk about my old manager, George. He was a very smart man, and he taught me a lot about work. I remember the first time I joined the team; he showed me how to do my job well. George was not very strict, but he had high expectations. I learned to be better because of him. Overall, I am thankful for his guidance and support during my early days."
+    },
+    {
+      "no": 7,
+      "question": "Listen to Sarah talking about her hobby. What does she do in her free time?",
+      "options": [
+        "Reads books and paints",
+        "Watches movies and goes shopping",
+        "Goes to the theater and plays sports"
+      ],
+      "answer": "C",
+      "explain": "Sarah: In my free time, I love to go to the theater. There is something magical about watching a live performance. It makes me feel alive and happy. I also enjoy playing sports with my friends. We have so much fun together, whether it's soccer or basketball. These activities help me relax and make my days brighter."
+    },
+    {
+      "no": 8,
+      "question": "Linda is talking about what she likes to drink. What does she have for lunch?",
+      "options": [
+        "Tea",
+        "Coffee",
+        "Juice"
+      ],
+      "answer": "A",
+      "explain": "Linda: When it comes to lunch, I have a simple pleasure: I really enjoy a warm cup of tea. It's my favorite drink to have while I eat. I find it calming, and it makes my meal feel special. Sometimes people ask me why I don't choose coffee or juice, but for me, tea is just perfect. It warms my heart and gives me a moment to relax."
+    },
+    {
+      "no": 9,
+      "question": "A woman is talking about her holiday plan. Where is she going on holiday?",
+      "options": [
+        "the cave",
+        "the beach",
+        "the mountains"
+      ],
+      "answer": "C",
+      "explain": "Woman: I'm so excited about my upcoming holiday! I've been thinking about where to go for a long time. Some of my friends suggested going to a nice beach. Others talked about exploring interesting caves. But I've made up my mind - I'm going to the mountains! The mountains are so beautiful with their green forests. I can't wait to breathe the fresh air up there. They are perfect for relaxing and enjoying nature."
+    },
+    {
+      "no": 10,
+      "question": "A man is talking about the environment of the countryside. What is the main cause of poor air quality?",
+      "options": [
+        "Smoke from factories",
+        "Vehicles on the roads",
+        "Fires in the countryside"
+      ],
+      "answer": "C",
+      "explain": "I really like living in the countryside. There are many green fields, tall trees, and small rivers. The air usually smells fresh and clean. But sometimes, the air becomes dirty and hard to breathe. Many people think cars on the roads make the air bad. Others say the smoke from big factories is the problem. These things can make the air dirty, but in the countryside, there's a bigger issue. Farmers often start fires to clean their fields. They burn old plants and grass. These fires make a lot of smoke that goes into the air. It's sad because the smoke can hurt animals and make people sick. We need to find better ways to clean fields without using fire."
+    },
+    {
+      "no": 11,
+      "question": "A man is calling his friend to meet for coffee. Where is the coffee shop located?",
+      "options": [
+        "opposite the gift shop",
+        "next to the gift shop",
+        "behind the gift shop"
+      ],
+      "answer": "A",
+      "explain": "Man: Hey, are you free for coffee later? I found a great new place in town. It's not hard to find at all. You know the big gift shop on Main Street? Well, the coffee shop is right across from it. Just look for the gift shop, then cross the street. You'll see the coffee shop right there, opposite the gift shop. They have amazing pastries too. Let's meet there at 3 PM, okay?"
+    },
+    {
+      "no": 12,
+      "question": "Two colleagues are talking about a meeting. When do they want to meet?",
+      "options": [
+        "On Tuesday",
+        "On Sunday",
+        "On Saturday"
+      ],
+      "answer": "A",
+      "explain": "Woman: Hey there! I've been thinking we should get together soon to discuss our upcoming project. I know weekends are usually good for meetings, but this time they're a bit tricky. Saturday is out because I've got a family event all day. And Sunday? Well, I usually use that day to catch up on rest and prepare for the week ahead. So, I was wondering if we could meet on Tuesday instead, it works really well for me. What do you think about that?"
+    },
+    {
+      "no": 13,
+      "question": "A man is calling his teacher to meet about the assignment. When is the meeting?",
+      "options": [
+        "On Thursday afternoon",
+        "On Tuesday morning",
+        "On Thursday morning"
+      ],
+      "answer": "C",
+      "explain": "Man: Hi Professor Smith, this is John calling about our meeting for the assignment. I wanted to confirm our appointment time. I know we discussed a few options earlier. At first, I thought we agreed on Tuesday morning. But then I remembered that doesn't work with your schedule. Then I considered Thursday afternoon, but I have another class then. So, I'm pretty sure we settled on Thursday morning at 10 AM in your office. That's what I have written down. I'll bring my draft and notes for the project. If I've got the day or time wrong, or if you need me to bring anything else, please let me know. Looking forward to discussing the assignment with you. Have a great day!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Listen to four people talking about their purposes for using the Internet. Complete the sentences below.",
+    "stem": "",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "Watches films",
+      "Communicates with friends",
+      "Completes school assignments",
+      "Finds transport information"
+    ],
+    "answers": [
+      "Watches films",
+      "Communicates with friends",
+      "Completes school assignments",
+      "Finds transport information"
+    ],
+    "explain": [
+      "Person A: I spend quite a bit of my free time online, mostly because I love watching movies. The Internet makes it so easy to find a wide variety of films, from the latest releases to old classics. I can stream them directly on my laptop or TV without needing to go out and buy DVDs or rent movies. I just pick a film and relax. It's the best way to unwind after a long day, and I can watch whatever I want, whenever I want.",
+      "Person B: The main reason I use the Internet is to stay in touch with my friends. It's great because I can talk to people who live far away without any issues. Whether it's through social media, video calls, or messaging apps, the Internet allows me to communicate easily and quickly. My best friend loves using the Internet for studying online courses, but that's not really for me. I prefer just chatting and staying connected through messages and calls.",
+      "Person C: For me, the Internet is an essential tool for completing my school assignments. I use it to research information, find articles, and access educational websites that help me understand my subjects better. It's so convenient because I can find everything I need online without having to spend hours in the library. I also use it to download notes and submit my homework. It has really made studying more efficient, and I can work from anywhere, whether it's at home or on the go.",
+      "Person D: Whenever I need to plan a trip or get somewhere, I always use the Internet to find transportation details. I can check train schedules, bus routes, and even look up flights. It helps me figure out the best way to travel, and I can even buy tickets online. I like how I can get real-time updates about delays or changes. It makes traveling much easier and saves me the hassle of standing in line at stations or airports."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing auditions. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Auditions are most important for an actor's career.",
+        "answer": "Man"
+      },
+      {
+        "text": "Actors tend to respond best to strong and engaging scripts.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Theater acting and screen acting are quite different from each other.",
+        "answer": "Both"
+      },
+      {
+        "text": "Actors should be praised and recognized as much as possible.",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Man: You know, I've always believed that auditions are the most important part of an actor's career. I mean, that's where the magic happens. It doesn't matter how great you are in rehearsals or even in the final performance, if you can't nail that audition, you're not getting anywhere.\nWoman: Yeah, but it's not just about the audition. I've seen actors who can absolutely shine when they're given the right material to work with. Strong scripts really bring out the best in them. If the writing's weak, even a talented actor might struggle to connect. I think actors respond best when they feel inspired by what's on the page.\nMan: That's true, but whether it's a strong script or a weak one, they still have to nail that first audition to even get the chance to perform, right?\nWoman: Sure, the audition is key, but once they're in, the script can make or break their performance. It's kind of a balance between both.\nMan: I agree with that. But I also think there's a huge difference between theater acting and screen acting. The two require completely different skill sets. In theater, you've got to project and be larger than life, whereas on screen, it's all about subtlety, keeping everything smaller and more contained.\nWoman: Absolutely! They're such different worlds. The way you use your body, your voice, even how you interact with your fellow actors - it's all completely different depending on whether you're on stage or in front of a camera.\nMan: Right, and that's why actors deserve as much praise as possible. They're constantly shifting between styles and adapting to new roles. It's tough!\nWoman: Couldn't agree more. I mean, whether it's theater or film, acting is such an emotional and demanding job. Encouragement and praise go a long way. They need to feel appreciated for all the work they put in."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a city planner talking at a press conference about a Regional Development Plan and answer the questions below.",
+      "questions": [
+        {
+          "question": "What is one of the main criticisms of the Regional Development Plan?",
+          "options": [
+            "It doesn't provide enough alternatives to driving.",
+            "It places too much emphasis on public transportation.",
+            "It is too expensive to implement the plan."
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What challenge is the Regional Development Plan likely to face?",
+          "options": [
+            "It may be delayed due to funding issues.",
+            "It could face difficulties in gaining government approval.",
+            "It is likely to meet resistance from local communities."
+          ],
+          "answer": "C"
+        }
+      ],
+      "note_version2": "Phiên bản 2 có thể gặp: (1) How is the Regional Development Plan being implemented? -> It doesn't do enough to promote alternatives to driving. (2) What problem still remains in the plan in general? -> The plan is not making efficient use of existing land.",
+      "explain": "Ladies and gentlemen of the press, thank you for joining us today to discuss our Regional Development Plan. As we move forward with this ambitious project, I'd like to address some of the concerns that have been raised.\nNow, I've heard whispers about our plan being too expensive or placing excessive emphasis on public transportation. Let me assure you, these are not accurate representations of our vision. Our budget has been carefully calculated, and we believe it strikes the right balance between fiscal responsibility and necessary improvements.\nHowever, I will acknowledge that one of the main criticisms we've received is that our plan doesn't provide enough alternatives to driving. This is a valid concern, and I want to assure you that we're taking it seriously. We're actively exploring additional options to diversify our transportation network and reduce reliance on personal vehicles.\nSome have suggested that we might face delays due to funding issues or difficulties in gaining government approval. While we always prepare for potential hurdles, I'm confident that our thorough planning and strong relationships with various governmental bodies will help us navigate any bureaucratic challenges smoothly.\nThe real challenge we're anticipating, and the one we're preparing for most diligently, is the likelihood of resistance from local communities. Change can be difficult, and we understand that. That's why we're committed to extensive community engagement, transparent communication, and working closely with neighborhood representatives to address concerns and incorporate local feedback.\nWe believe this Regional Development Plan is crucial for our area's future, and we're dedicated to making it work for everyone. Thank you for your attention, and I'm now ready to take your questions."
+    },
+    {
+      "no": 17,
+      "title": "Listen to a former student talking about taking a year off before university and answer the questions below.",
+      "questions": [
+        {
+          "question": "Why didn't he go straight to university?",
+          "options": [
+            "He wanted to earn money before studying.",
+            "His family advised him to wait.",
+            "He wasn't ready to start higher education."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "What did he think he learnt from the year's break?",
+          "options": [
+            "How to manage academic pressure.",
+            "To be more independent.",
+            "The importance of choosing the right degree."
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "After finishing secondary school, I decided not to apply to university immediately. At the time, many of my friends were eager to continue their studies, but I felt unsure about what I wanted to do next and didn't feel prepared for the demands of higher education.\nInstead, I took a year off and spent that time working part-time and travelling. Being away from a structured academic environment forced me to make decisions on my own, manage my finances, and take responsibility for my daily life.\nLooking back, that year was extremely valuable. It gave me time to reflect on my goals and helped me grow personally. By the time I eventually started university, I felt more confident, motivated, and capable of handling independence.\nAlthough taking a break isn't the right choice for everyone, for me it was an important step before continuing my education."
+    }
+  ]
+}

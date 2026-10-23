@@ -1,0 +1,273 @@
+{
+  "id": 3,
+  "title": "Đề 3",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A mom is calling her son to remind him about picking up groceries. How much is an egg?",
+      "options": [
+        "£1.50 (One pound fifty)",
+        "£2.50 (Two pounds fifty)",
+        "£3.50 (Three pounds fifty)"
+      ],
+      "answer": "A",
+      "explain": "Hey sweetie, it's Mom! Can you please pick up three things on your way home? I need a dozen eggs, they're one pound fifty each. Also, grab a loaf of bread and some milk, please. Thanks, love you!"
+    },
+    {
+      "no": 2,
+      "question": "An author is talking about her daily routine. When does she usually write?",
+      "options": [
+        "In the mornings",
+        "In the afternoons",
+        "In the evenings"
+      ],
+      "answer": "B",
+      "explain": "Every morning, I start my day by going for a run. It helps me clear my mind and gives me energy. After lunch, at around two o'clock, I sit down at my working table, ready to write. My husband is my best critic, so I try to produce something before he gets home in the afternoon. I want to show him what I've been working on! At night, I seek motivation by watching movies or reading books. This helps me find new ideas for my stories. Writing is a journey, and each day brings something new."
+    },
+    {
+      "no": 3,
+      "question": "Jack is calling to invite a friend to his house. What color is Jack's house?",
+      "options": [
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "answer": "C",
+      "explain": "Hey! It's Jack. I just moved to a new house in this busy neighborhood, and it's really cool! There are so many houses here in different colors - purple, blue, and white. My house is big and red! I'd love for you to come over and check it out. Let me know when you're free!"
+    },
+    {
+      "no": 4,
+      "question": "A man is calling his wife. Where will they meet?",
+      "options": [
+        "At home",
+        "In the garden",
+        "Outside the shop"
+      ],
+      "answer": "C",
+      "explain": "Hi honey, it's me! Just a reminder that the train leaves at 5, so you should arrive around 6 o'clock. I'll be there to pick you up at the train station. Let's meet outside the shop opposite the station. I can't wait to have dinner together! See you soon!"
+    },
+    {
+      "no": 5,
+      "question": "A man is talking about his eating habit. What time does he usually eat?",
+      "options": [
+        "6 o'clock",
+        "7 o'clock",
+        "8 o'clock"
+      ],
+      "answer": "B",
+      "explain": "I usually have dinner every evening. It's become a habit for me to enjoy a meal at that time after a long day. I find it's the perfect time to unwind and relax. Plus, I love to spend time with my family during dinner. It's our chance to catch up and enjoy some good food together. We usually have dinner at 7 o'clock and it is definitely my favorite meal of the day!"
+    },
+    {
+      "no": 6,
+      "question": "Julie is asking her professor about the assignment. When is the work due?",
+      "options": [
+        "On Thursday morning",
+        "On Friday morning",
+        "On Saturday morning"
+      ],
+      "answer": "C",
+      "explain": "Professor: Come in!\nJulie: Hi, Professor! It is me, Julie! I wanted to ask about the assignment. Is it possible to get an extension until Friday?\nProfessor: What's the matter, Julie? Do you have any difficulties?\nJulie: I have a lot of work lately, so I can't complete it by Thursday.\nProfessor: Actually, all assignments need to be submitted by Saturday morning, so you have two more days.\nJulie: Oh, that's great! Thank you so much!"
+    },
+    {
+      "no": 7,
+      "question": "James is talking about his family members. In what way are his mother and his aunt alike?",
+      "options": [
+        "They were both thin",
+        "They both had blue eyes",
+        "They both had long hair"
+      ],
+      "answer": "A",
+      "explain": "This picture is of my aunt and my mom. Many people say they look alike. I find it funny, though, because when they were teenagers, my mom had long hair, while my aunt had short hair. They were both equally thin back then, but their eyes were different. My mom has lovely brown eyes, and my aunt has strikingly beautiful blue eyes. Even with their differences, they share a special bond that makes them so similar in spirit."
+    },
+    {
+      "no": 8,
+      "question": "A tour guide is introducing a tourist destination. How many people live in the town?",
+      "options": [
+        "8,000",
+        "9,000",
+        "10,000"
+      ],
+      "answer": "C",
+      "explain": "Welcome, everyone! Today, I'm excited to introduce you to our charming small town. Right here in the town square, you'll find local shops, cozy cafes, and a beautiful fountain where people gather to relax. This square is the heart of our community, often filled with cool events like farmers' markets and live music. Currently, there are 10,000 people living in this town. As we explore, you'll see the unique blend of history and modern life that makes our town so special."
+    },
+    {
+      "no": 9,
+      "question": "A man and a woman are talking about their old school days. What was the man's favorite thing about school?",
+      "options": [
+        "Math classes",
+        "Geography classes",
+        "History classes"
+      ],
+      "answer": "C",
+      "explain": "Woman: What do you remember most about our school days?\nMan: Honestly, I don't remember much.\nWoman: I remember that I was terrible at math! It was my worst subject. Also, I remember that you were really good at history.\nMan: That's right! I loved history. Actually, those classes were the ones I remember the most. All those stories and events were so fascinating!"
+    },
+    {
+      "no": 10,
+      "question": "Jorge is calling his friend about their plan for the weekend. What time does the football match start?",
+      "options": [
+        "11 p.m",
+        "1 p.m",
+        "6 p.m"
+      ],
+      "answer": "B",
+      "explain": "Hey, it's Jorge! I want to check in about our plans for the weekend. I'll be busy in the morning, but how about we meet at 11:30 for lunch? The football match starts at 1 p.m., and since it takes about 30 minutes to drive there, we'll have just enough time to grab something to eat. After the match, we can head back to my place and play some video games. It's going to be a fun day! Let me know if that works for you. Can't wait!"
+    },
+    {
+      "no": 11,
+      "question": "A man is talking about his routine after work. What is the man going to do after work?",
+      "options": [
+        "Goes running",
+        "Cycles home",
+        "Meets his client"
+      ],
+      "answer": "A",
+      "explain": "After work, I'm usually exhausted because my job can be really tough. I always look forward to 5 o'clock, so I can finally check out and head home. Luckily, I live close by, which makes my evening routine a bit easier. I like to go for a run after work to clear my mind and shake off the stress. It helps me feel refreshed and ready for the next day."
+    },
+    {
+      "no": 12,
+      "question": "A professor is talking to his student. What does the professor ask his student to do?",
+      "options": [
+        "Speak at a conference",
+        "Write another thesis",
+        "Tutor another student"
+      ],
+      "answer": "A",
+      "explain": "Professor: Good morning, Alex. I've just finished reading your thesis, and I must say, it's very well done. You've put a lot of effort into it.\nStudent: Thank you, Professor! I'm glad you liked it. I worked hard on it.\nProfessor: It shows. Your research is thorough, and your arguments are clear. I actually think you should consider presenting it at the upcoming student conference.\nStudent: Wow, really? That sounds exciting! But, I'm not sure how that works. Could you tell me more about it?\nProfessor: Of course. The conference is a great opportunity to share your findings with a wider audience. You would prepare a short presentation, around 10-15 minutes, and then answer some questions from the audience. It's a good way to get feedback and gain experience speaking publicly."
+    },
+    {
+      "no": 13,
+      "question": "Two friends are talking about their favorite activities. What is the woman's favorite form of entertainment?",
+      "options": [
+        "Reading books",
+        "Going to the theatre",
+        "Playing chess with her cousin"
+      ],
+      "answer": "B",
+      "explain": "Man: Hey, what's your favorite activity?\nWoman: I'd probably say watching films. It's so much fun!\nMan: Nice! Where do you like to watch them?\nWoman: I really enjoy going to the theatre. It's my favorite form of entertainment.\nMan: That sounds great! I actually like reading books.\nWoman: Oh, that's because you are boring!\nMan: Boring? Come on! Books can be exciting too!\nWoman: Maybe, but films are more entertaining for me!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "title": "Four people are talking about protecting the environment. Complete the sentences below.",
+    "options": [
+      "protects the environment by using less electricity.",
+      "protects the environment by using less water.",
+      "protects the environment by shopping online.",
+      "protects the environment by not driving to work."
+    ],
+    "answers": [
+      "protects the environment by using less electricity.",
+      "protects the environment by not driving to work.",
+      "protects the environment by shopping online.",
+      "protects the environment by using less water."
+    ],
+    "explain": [
+      "Speaker A: I try to help the environment by using less electricity at home. I always turn off the lights when I don't need them and make sure my appliances are energy-efficient. I've also started unplugging things like chargers when I'm not using them because they still use power. This helps lower my electricity bill and reduces my impact on the planet. I believe that if everyone made these small changes, we could save a lot of energy and help fight climate change.",
+      "Speaker B: To protect the environment, I don't drive to work anymore. Instead, I walk when the weather is nice, or I take the bus. It's not only better for the planet, but it also keeps me more active, and I enjoy the fresh air. By not driving, I use less fuel and help reduce air pollution in the city. I think if more people chose to walk or use public transport, we could reduce traffic and make our towns and cities cleaner and healthier for everyone.",
+      "Speaker C: I've decided to shop online as a way to protect the environment. By ordering things online, I don't need to drive to the store, which means I'm using less fuel and producing less pollution. Many companies now offer eco-friendly packaging, and I try to buy from them whenever possible. Also, online deliveries often group items together, which reduces the number of trips made. It's convenient for me, and I feel like I'm doing something good for the environment at the same time.",
+      "Speaker D: I try to save water every day as a way to protect the environment. For example, I take shorter showers, turn off the tap while brushing my teeth, and use less water when washing dishes. I've also installed special taps and showerheads that use less water but still work well. Water is a limited resource, and many places don't have enough clean water. That's why I think it's important for all of us to be careful and not waste it. Even small actions can make a big difference."
+    ],
+    "stem": ""
+  },
+  "part3": {
+    "no": 15,
+    "title": "Two professional educators are talking about university. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "The internet makes education more accessible.",
+        "answer": "Both"
+      },
+      {
+        "text": "Social interactions are essential to university life.",
+        "answer": "Man"
+      },
+      {
+        "text": "A diverse curriculum is not always a good thing.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Competitions between universities should be encouraged.",
+        "answer": "Man"
+      }
+    ],
+    "explain": "Woman: That looks interesting. What are you up to?\nMan: Oh, I just came across this interesting report about universities and how they're evolving in the digital age. It talked about the impact of the internet, student experiences, and even competition between institutions. It got me thinking, there's so much to unpack when it comes to how education is changing, don't you think?\nWoman: Yeah, I've been reading about similar things lately. It's amazing how different opinions can be on what makes a good university experience. I think we can both agree that the internet has made education more accessible. It's great how people from different backgrounds can now access high-quality education without being physically on campus.\nMan: Absolutely, I agree with that. It's a game-changer for those who can't afford to relocate or attend in person. But I still believe that social interactions are a crucial part of university life. Online education can never truly replace the friendships, group work, and networking that happen in a physical setting.\nWoman: Hmm, I'm not so sure. While social interactions can be important, I think online learning allows students to focus more on their studies without all the distractions of campus life. Not everyone benefits from that kind of environment.\nMan: I see your point, but I think universities provide a unique space for students to develop their social skills alongside their academic ones. Another thing I'm really in favor of is encouraging competition between universities. When universities compete, it drives innovation and pushes them to offer better resources.\nWoman: I disagree there. Competition can sometimes lead to universities focusing too much on rankings and flashy features instead of the quality of education. It can become more about marketing than genuine improvement.\nMan: That's a fair concern. But competition also forces universities to constantly improve, which can benefit students in the long run. What about the diversity in curricula? I'm curious where you stand on that.\nWoman: To be honest, I'm not a fan of having too many options in the curriculum. A diverse curriculum sounds good in theory, but it can overwhelm students and take away from the depth of learning in core subjects.\nMan: I can see that perspective, but I think having variety gives students the flexibility to explore different fields. It can be especially beneficial for those who are unsure of their career paths."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to an office worker talking about working from home and answer the questions below.",
+      "questions": [
+        {
+          "question": "What does she say about working at home?",
+          "options": [
+            "There are no distractions",
+            "Not as good as expected",
+            "Video calls are superior to face-to-face conversation"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "According to the speaker, working from home:",
+          "options": [
+            "Needs a big home office",
+            "Does not require self-motivation",
+            "Depends on your situation and personality"
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Working from home has its pros and cons, and I have mixed feelings about it. On one hand, I find that I work effectively without the distractions of my colleagues chatting. However, later, I got distracted by other things around the house such as the dirty laundry or the unwashed dishes. I can focus on my tasks and complete them much faster. It's nice to set my own schedule and take breaks when I want. However, working from home is not as good as I expected. I sometimes feel lonely without the social interaction from the office. Video calls are helpful, but they can't replace face-to-face conversations.\nYou don't need a big home office to be productive; a small corner of your room can work just fine. Still, it's important to stay self-motivated, which can be challenging at times. After all, how well you work from home really depends on your situation and personality. Some people thrive in this environment, while others struggle. Overall, I am learning to balance my work and personal life better as I adjust to this new way of working."
+    },
+    {
+      "no": 17,
+      "title": "Listen to an expert talking about the importance of sleep and answer the questions below.",
+      "questions": [
+        {
+          "question": "The most important thing to help you sleep well is:",
+          "options": [
+            "Blocking noise and light is the key",
+            "Beds are best for sleeping",
+            "Resting sufficiently is necessary"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "According to the expert, what is the public attitude towards sleeping?",
+          "options": [
+            "The media overemphasize the subject",
+            "The young generation tends to have unhealthy sleeping habits",
+            "Sleeping quality has deteriorated over time"
+          ],
+          "answer": "A"
+        }
+      ],
+      "altQuestions_version2": [
+        {
+          "question": "What is the way to have a good sleep according to the speaker?",
+          "options": [
+            "Drinking coffee before bed helps relax the mind",
+            "Blocking out noise and light is key",
+            "Sleeping fewer hours increases deep sleep quality"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What is the speaker's view on insomnia in general?",
+          "options": [
+            "Insomnia is caused only by physical health problems",
+            "Most people with insomnia actually sleep too much",
+            "People can't always recognize the symptoms of tiredness"
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Sleep is very important for our health, but there are many ideas about it that are not entirely true. Many people say you should sleep at fixed hours to get enough rest, but that isn't always necessary according to science. Our bodies can adjust to different sleep schedules so it really depends on the individual. Another common belief is that you should always sleep on a bed instead of a hard floor, but this is questionable. What everyone agrees on, and what studies show, is that blocking out light and noise can help improve sleep quality. Darkness helps our body produce melatonin which is the hormone that makes us feel sleepy while silence allows us to rest better.\nSome say that sleep is getting worse for people today, but there is no solid proof to support this claim. Critics often point fingers at the younger generation for their unhealthy sleep patterns, but this is sometimes unfair. What we can agree on is that the media tends to overemphasize the subject, making it seem more serious than it really is. In the end, finding what works best for you is key to getting a good night's sleep."
+    }
+  ]
+}

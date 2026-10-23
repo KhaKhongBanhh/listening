@@ -1,0 +1,253 @@
+{
+  "id": 13,
+  "title": "Đề 13",
+  "part1": [
+    {
+      "no": 1,
+      "question": "Paul is discussing his schedule with his manager. How many days does he have to work?",
+      "options": [
+        "3 days",
+        "7 days",
+        "5 days"
+      ],
+      "answer": "A",
+      "explain": "Manager: Paul, how long do you think this job will take?\nPaul: I probably need about three days to finish everything.\nManager: Three days? That's quicker than I expected.\nPaul: Yes, I've already completed part of the work.\nManager: Excellent. Please keep me updated."
+    },
+    {
+      "no": 2,
+      "question": "Mr. Taylor is reminding students about homework. What does the teacher want the students to do?",
+      "options": [
+        "Read more books",
+        "Complete the assignments on time",
+        "Work in groups"
+      ],
+      "answer": "B",
+      "explain": "Before the lesson finished today, I spoke to the class about homework and deadlines. Over the last few weeks, several students have been submitting their work late, which has created problems during marking. I reminded everyone that they need to complete the assignments on time this term. Good organization is an important skill, not only at school but also in future jobs. If students are having difficulties, I'm always happy to help them before the deadline arrives."
+    },
+    {
+      "no": 3,
+      "question": "Listen to a train announcement. Which door do passengers need to take to get to Edinburgh?",
+      "options": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "A",
+      "explain": "Attention, please. The train is now preparing to depart, so passengers are advised to move quickly to their boarding doors. Passengers travelling to Edinburgh should proceed through door number two. Door three will be used for passengers going to Glasgow, and door four is reserved for local trains only. Please ensure you are at the correct door before boarding begins."
+    },
+    {
+      "no": 4,
+      "question": "Lisa is explaining why her colleague is absent. Why can't he work today?",
+      "options": [
+        "He feels sick",
+        "He is visiting family",
+        "He has another appointment"
+      ],
+      "answer": "C",
+      "explain": "Several people asked me today why Daniel wasn't at work this morning. Actually, he wanted to come, but he couldn't because he has another appointment this afternoon. I think it's an important business meeting that was arranged several weeks ago. He told the manager about it earlier, so everyone already knew he would be absent today. Hopefully, he'll return tomorrow because we still have a lot of work to finish before the weekend."
+    },
+    {
+      "no": 5,
+      "question": "Linda is talking about her trip preparations. What did she bring with her?",
+      "options": [
+        "A laptop",
+        "A camera",
+        "A games machine"
+      ],
+      "answer": "C",
+      "explain": "I'm really excited about my trip tomorrow because it's going to be a long journey by train. I spent most of the evening packing my suitcase and checking that I didn't forget anything important. Besides clothes and snacks, I also packed my games machine. I always bring it with me when I travel because it helps me relax and pass the time during long trips. Last time I traveled without it, I got bored very quickly, so this time I wanted to be more prepared."
+    },
+    {
+      "no": 6,
+      "question": "Helen is speaking with the company workers. Where is she taking the employees?",
+      "options": [
+        "To a different country",
+        "To a nearby city",
+        "To a new office"
+      ],
+      "answer": "A",
+      "explain": "Worker: Helen, I heard the company is planning a special trip this year. Is that true?\nHelen: Yes, it is. We're taking the employees to a different country for training next month.\nWorker: Really? That sounds amazing.\nHelen: We want everyone to learn new skills and experience a different culture."
+    },
+    {
+      "no": 7,
+      "question": "Emma is speaking with her brother in the kitchen. How much money is left in the kitchen?",
+      "options": [
+        "25 pounds",
+        "10 pounds",
+        "5 pounds"
+      ],
+      "answer": "B",
+      "explain": "Emma: I need some money to buy bread and milk. Is there any money left in the kitchen drawer?\nBrother: Let me check... yes, there's still ten pounds here.\nEmma: Only ten? I thought there was more yesterday.\nBrother: Mom used some of it this morning.\nEmma: Okay, ten pounds should still be enough."
+    },
+    {
+      "no": 8,
+      "question": "Kevin is speaking to his friend after work. What is he going to do?",
+      "options": [
+        "Go shopping",
+        "Get something to eat",
+        "Visit a friend"
+      ],
+      "answer": "B",
+      "explain": "Friend: You look tired after work today. What are you going to do now?\nKevin: I think I'll get something to eat first. I didn't have lunch earlier.\nFriend: That explains why you're so hungry.\nKevin: Yeah, I've been busy all day.\nFriend: Do you want to go to the café near the office?\nKevin: Sure, that sounds good."
+    },
+    {
+      "no": 9,
+      "question": "Someone is leaving a message for Alex. What time are they meeting?",
+      "options": [
+        "7:30 p.m.",
+        "6:30 p.m.",
+        "9:30 p.m."
+      ],
+      "answer": "B",
+      "explain": "Hey Alex, it's me. Just wanted to remind you about our plan for tonight. We're meeting at 6:30 PM, so try not to be late! I know you usually finish work around 6, so that should give you enough time to get there. If anything changes, just let me know. Oh, and by the way, Jake might join us a bit later, around 7:30 or so. Alright, see you soon!"
+    },
+    {
+      "no": 10,
+      "question": "Kevin is talking about his hotel experience. What did he complain about?",
+      "options": [
+        "The room was small",
+        "The food was expensive",
+        "The place was cold"
+      ],
+      "answer": "C",
+      "explain": "Last week, I stayed in a hotel during a business trip to another city. The hotel was in a convenient location, and the staff were polite and professional. However, there was one major problem that made my stay uncomfortable. The place was very cold, especially during the night. I tried using the heating system several times, but it didn't seem to work properly. Because of that, I couldn't sleep very well and felt tired the next morning."
+    },
+    {
+      "no": 11,
+      "question": "Listen to the train announcement. How long does it take to get to the station?",
+      "options": [
+        "15 minutes",
+        "20 minutes",
+        "25 minutes"
+      ],
+      "answer": "B",
+      "explain": "Attention please, passengers travelling to the city centre. Your train will arrive at Riverside Station in approximately twenty minutes. After arriving at the station, you will need to continue your journey for another fifteen minutes to reach your final destination in the city centre. Please remain seated and listen for further announcements."
+    },
+    {
+      "no": 12,
+      "question": "A woman is talking about a movie. What did she like the most about the movie?",
+      "options": [
+        "The car scenes",
+        "The fight scenes",
+        "The mountain scenes"
+      ],
+      "answer": "C",
+      "explain": "I watched the movie last weekend, and overall, I really enjoyed it. There were plenty of exciting moments, especially the fast car scenes at the beginning, which kept me on the edge of my seat. The fight scenes were also quite impressive, with a lot of action and energy. However, what stayed with me the most was the way the film showed the mountains. The wide shots of the snowy peaks and quiet valleys were absolutely beautiful and made the story feel much more powerful. Even days later, those mountain scenes are what I remember most clearly."
+    },
+    {
+      "no": 13,
+      "question": "John is calling May. Where are they going to meet?",
+      "options": [
+        "The parking lot",
+        "The front entrance",
+        "The school gate"
+      ],
+      "answer": "B",
+      "explain": "Hi May, it's John. I just wanted to remind you that we're meeting this afternoon to visit the art exhibition by Leonard Hughes at five o'clock. At first, I thought we could meet near the parking lot, or even wait by the school gate, but that area is usually very crowded at this time of day. So in the end, I think it's best if we meet at the front entrance of Building A, where the exhibition is being held. I'll be standing right next to the main doors at 4:45. If you're running late, just give me a call. See you soon."
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Listen to four people talking about doing exercise and answer the questions below.",
+    "stem": "",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "Have fun exercising with others",
+      "Improve work performance",
+      "Hate exercising",
+      "Find exercise tiring"
+    ],
+    "answers": [
+      "Improve work performance",
+      "Find exercise tiring",
+      "Have fun exercising with others",
+      "Hate exercising"
+    ],
+    "explain": [
+      "Person A: Exercise has become essential in my life, especially with my demanding and stressful job. The workload can be overwhelming at times, leaving me feeling exhausted and overwhelmed. That's why I turn to exercise as a way to unwind and rejuvenate. Whether it's going for a run, practicing yoga, or even just taking a brisk walk, exercise helps me release stress and clear my mind. I've noticed that after exercising, I feel more focused, energized, and ready to tackle my work with renewed vigor. It's incredible how something as simple as exercise can greatly improve my work performance and overall well-being.",
+      "Person B: Honestly? Exercise wears me out. The idea of getting all sweaty and sore doesn't excite me at all. Every time I try to work out, it feels like I'm running on empty within minutes. And people say it gives them energy - are we talking about the same thing? I feel more tired just thinking about the treadmill! I know it's supposed to be good for me, and I try to do it for my health, but I don't get that rush people talk about. Exercise for me is just... exhausting. Why do something that makes me want to lie down for three days afterward?",
+      "Person C: Exercising is a blast when you're with the right people! I've joined a few group classes, and they're like a party every time. The music is pumping, everyone's in sync, and it feels like we're all in this together. Working out alone can get boring, but with friends? You laugh, you encourage each other, and suddenly, an hour has flown by. We push each other, you know? It's kind of amazing - half the time, I forget I'm even working out. I actually look forward to it. The camaraderie makes it worth every minute.",
+      "Person D: Exercise? Ugh, I can't stand it. I know it's supposed to be 'good for you' and all that, but I find it completely miserable. The sweat, the strain, the way my muscles burn afterward - it's like a punishment. People say it'll get better or that I'll start to like it eventually, but I've tried, and I still hate it. Honestly, life's too short to spend it doing something you can't stand. There are other ways to be healthy that don't involve torturing myself. I'd rather read a book than jog any day."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to a man and a woman discussing children and young people with technology. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Children are interested in tech-based learning.",
+        "answer": "Both"
+      },
+      {
+        "text": "Children find it difficult to communicate offline.",
+        "answer": "Both"
+      },
+      {
+        "text": "Families require help with management of technology.",
+        "answer": "Man"
+      },
+      {
+        "text": "Children can learn to regulate their online interactions.",
+        "answer": "Woman"
+      }
+    ],
+    "explain": "Man: I've been thinking about how children and young people interact with technology nowadays. It's amazing how much they enjoy learning through computers, tablets, and educational software.\nWoman: I've noticed that too. When lessons are tech-based, students genuinely show a lot more interest and stay more engaged with the material. It definitely makes studying more appealing to them.\nMan: That's true, but there is a downside. I'm worried it's affecting their social development. Some kids spend so much time behind screens that interacting with people in the real world, face-to-face, has become a real challenge for them.\nWoman: You're absolutely right. They are fluent in text messages, but when it comes to standard offline conversations, they frequently struggle to maintain them. It's a widespread issue.\nMan: Exactly. And to make matters worse, a lot of parents feel completely overwhelmed and don't know how to handle it. In my opinion, families urgently need external support and professional guidance to manage their kids' screen time effectively.\nWoman: Well, I'm not sure if outside help is always necessary. From my perspective, we should focus on the children themselves; they are capable of developing self-discipline. With the right digital literacy education, children can easily learn to regulate their own online habits and behaviors.\nMan: I'm not entirely convinced it's that simple for them. Let's wait and see how it unfolds."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to someone talking about the music industry and answer the questions below.",
+      "questions": [
+        {
+          "question": "What is the key to a long career in music?",
+          "options": [
+            "Having a large number of fans",
+            "Believing in her musical instincts",
+            "Winning many awards early"
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What is the speaker's opinion about the current music industry?",
+          "options": [
+            "Performers find it hard to get started.",
+            "It is easier than ever to become famous.",
+            "Most musicians prefer traditional styles."
+          ],
+          "answer": "A"
+        }
+      ],
+      "explain": "In the music industry, success often depends on more than just talent or luck. One important factor for a long and successful career is belief in her musical instincts. Artists who trust their own style and make creative decisions based on their intuition are more likely to stay relevant over time.\nHowever, the current music industry is also very competitive. Many performers find it hard to get started because there are so many talented people trying to enter the field. Without strong support or opportunities, it can be difficult for new artists to gain attention and build a career."
+    },
+    {
+      "no": 17,
+      "title": "Listen to someone talking about using time effectively and answer the questions below.",
+      "questions": [
+        {
+          "question": "What is the main idea of the talk?",
+          "options": [
+            "Effective time management",
+            "Working without any plan",
+            "Doing fewer tasks each day"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What is the main problem with productivity strategies?",
+          "options": [
+            "They are too expensive to use.",
+            "They require effort to use effectively.",
+            "They only work in theory for students."
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "In today's busy world, many people are looking for ways to improve how they use their time and get more done in a day. One of the most important ideas is effective time management. This means planning your tasks carefully, setting clear priorities, and avoiding distractions so that you can complete your work in a more efficient way.\nHowever, there is also a challenge. Many productivity strategies sound useful in theory, but using them effectively requires real effort and discipline. People often start with good intentions, but they find it difficult to stick to their plans over time. Without consistent practice, even the best strategies may not lead to real improvement."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": 9,
+  "title": "Đề 9",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A woman is walking into a local store. How much are the cleaning products?",
+      "options": [
+        "One pound fifty",
+        "Two pounds fifty",
+        "Three pounds fifty"
+      ],
+      "answer": "A",
+      "explain": "As I walk into the store, I notice that the cleaning products are on sale. They're usually a bit more expensive, but today they're only one pound fifty. I was expecting to pay three pounds fifty, so it's a nice surprise. I grab a few items since I know I'll need them later. It's a small store, but the deals are always good here. Time to check out!"
+    },
+    {
+      "no": 2,
+      "question": "Listen to the chef making an announcement to students. When is lunch ready?",
+      "options": [
+        "12:30 p.m.",
+        "2:00 p.m.",
+        "1:15 p.m."
+      ],
+      "answer": "B",
+      "explain": "Good afternoon, everyone. I have an important announcement regarding lunch today. Lunch will be ready at 2:00 p.m., not at 12:30 p.m. as some may have expected. Please be patient as we prepare everything for you. If you have any questions, feel free to ask. Thank you for your understanding, and enjoy your day!"
+    },
+    {
+      "no": 3,
+      "question": "Listen to David talking about the conference. How long did he talk in the speech?",
+      "options": [
+        "30 minutes",
+        "45 minutes",
+        "15 minutes"
+      ],
+      "answer": "C",
+      "explain": "Hello everyone. Today, I want to tell you about the conference that took place last week. It was very interesting, and many people attended. I spoke about new ideas in business. My presentation wasn't very long, but I had a lot to say. The other speakers talked about technology and education. After the talks, there were some questions from the audience. My speech lasted about 15 minutes, shorter than expected. However, the audience was very attentive, and I was happy to see that."
+    },
+    {
+      "no": 4,
+      "question": "Listen to the director talking about sales of his company. How many copies of Freeze Frame magazine were sold?",
+      "options": [
+        "Over 300,000 copies",
+        "Over 3,000 copies",
+        "Over 30,000 copies"
+      ],
+      "answer": "A",
+      "explain": "I am excited to share the latest sales figures for our company. This month, we had a fantastic response to our magazine, Freeze Frame. I'm proud to announce that we sold over 300,000 copies! This is a big increase from last month. Many people are buying our magazine, and we are very happy. Thank you for your support! We hope to sell even more in the future."
+    },
+    {
+      "no": 5,
+      "question": "Listen to Douglas calling Kay. Why does Douglas call Kay?",
+      "options": [
+        "To ask for a favor",
+        "To suggest a meeting",
+        "To say thank you"
+      ],
+      "answer": "C",
+      "explain": "Hi, Kay! It's Douglas. I hope you are doing well. I wanted to call you today to say thank you for all your help with the project. Your advice was really valuable, and it made a big difference. I also wanted to ask for a favor. If you have some time, I would love to meet and discuss a few ideas I have. Let me know when you are free!"
+    },
+    {
+      "no": 6,
+      "question": "A man and a woman are discussing their plans for the evening. What do they decide to do in the evening?",
+      "options": [
+        "Make plans later",
+        "Go to the movies",
+        "Stay at home"
+      ],
+      "answer": "A",
+      "explain": "I'm thinking about what to do this evening. I could go to the movies, but I'm not sure if that's the best idea. I might prefer to stay at home and relax. However, I want to discuss this with my friend first. It might be better to plan when we can decide together. I believe keeping our options open is a good idea. So for now, I'll wait and see what we want to do."
+    },
+    {
+      "no": 7,
+      "question": "Listen to Mary talking to Jane while waiting for James. What did they decide to do?",
+      "options": [
+        "Have the meeting without him",
+        "Continue waiting for him",
+        "Cancel the meeting"
+      ],
+      "answer": "A",
+      "explain": "Hi, Jane! It looks like James is running late again. I'm starting to wonder if we should wait for him. I don't want to waste too much time. I feel like we could have the meeting without him. We have a lot to discuss, and we can always update him later. I think it's better to move forward instead of just waiting. So, let's go ahead."
+    },
+    {
+      "no": 8,
+      "question": "A woman is talking to her friend about her job. Why does she want to become a writer?",
+      "options": [
+        "To earn a lot of money",
+        "To help people",
+        "To become famous"
+      ],
+      "answer": "B",
+      "explain": "I have been thinking a lot about my job, and I really want to become a writer. It's not just about earning a lot of money or becoming famous for me. My main reason is to help people improve themselves. I believe stories can inspire and support others during hard times. I hope my writing can make a difference in their lives, and that's why I'm choosing this path."
+    },
+    {
+      "no": 9,
+      "question": "A woman tells her friend about her plans for the day. What is the woman going to do?",
+      "options": [
+        "Have coffee",
+        "Have lunch",
+        "Drink tea"
+      ],
+      "answer": "A",
+      "explain": "Hey there! I have some fun plans for today. First, I'm going to meet a friend at a cozy café. We want to sit down and enjoy a nice warm drink together. It's been a while since we caught up, so I'm really looking forward to it. I think starting the day with a good conversation over a cup will be perfect. After that, I might think about what to have for lunch, but for now, coffee is definitely on my mind!"
+    },
+    {
+      "no": 10,
+      "question": "Listen to a woman explaining her morning routine to her friend. Why does she get up early?",
+      "options": [
+        "To have some quiet time",
+        "To go to work early",
+        "To take care of children"
+      ],
+      "answer": "A",
+      "explain": "I am quite a busy person in my daily work. So in the morning I usually wake up early to enjoy some quiet time. This time of day helps me calm down and I have time to prepare for the work of the day. Overall, this is a healthy habit and I have been doing it for many years."
+    },
+    {
+      "no": 11,
+      "question": "The doctor's office is calling to change the appointment. When is the new appointment?",
+      "options": [
+        "On Friday 14th",
+        "On Thursday 30th",
+        "On Thursday 13th"
+      ],
+      "answer": "C",
+      "explain": "Hello! This is the doctor's office calling to change your appointment. I wanted to let you know that the new appointment is on Thursday the 13th. I understand you might have been expecting it to be on Friday the 14th, but we're all off this day due to the national dentist holiday. Please let us know if that works for you!"
+    },
+    {
+      "no": 12,
+      "question": "Linda is talking about her mother. What do mother and daughter have in common?",
+      "options": [
+        "Similar appearance",
+        "Similar interests",
+        "Similar personalities"
+      ],
+      "answer": "B",
+      "explain": "My mom is such an important person in my life. We both enjoy many of the same activities, like reading and gardening. It's always nice to talk about our favorite books and spend time planting flowers together. While we might have some different tastes in fashion and music, our shared hobbies really bring us closer. I love how we can bond over these interests and have fun together."
+    },
+    {
+      "no": 13,
+      "question": "Listen to a tour guide introducing the tour. Where will tea be served?",
+      "options": [
+        "On the mountain boat",
+        "On the river boat",
+        "On the beach boat"
+      ],
+      "answer": "B",
+      "explain": "Welcome to our scenic tour! I'm excited to show you this beautiful area. We'll start with a drive along the coast to enjoy the amazing ocean views. Then, we'll go up to the mountain looking for some breathtaking views. After that, we'll head down to the harbor and take a relaxing riverboat cruise. While on the boat, you can enjoy afternoon tea and see the charming riverside scenery. After the boat trip, we'll end the day with a walk on the beach. Don't forget your camera - there will be lots of chances for great photos!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Four people are talking about protecting the environment. Complete the sentences below.",
+    "stem": "",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "gives away used items.",
+      "buys environmentally friendly products.",
+      "reuses containers for storing food.",
+      "doesn't buy commercial cleaning products."
+    ],
+    "answers": [
+      "gives away used items.",
+      "buys environmentally friendly products.",
+      "reuses containers for storing food.",
+      "doesn't buy commercial cleaning products."
+    ],
+    "explain": [
+      "Speaker A: You know, it amazes me how much we throw away without thinking. I've started giving away my old clothes and furniture instead of dumping them. Think about it - someone else could really use what we consider junk. It's such a simple thing, but it keeps stuff out of landfills and helps people out. The more we share, the less we waste. Why let things rot in a corner when they could have a second life somewhere else? It makes me feel like I'm doing my part, even in small ways. Plus, it's a good reminder that what's old to me could be new to someone else.",
+      "Speaker B: I think one of the biggest ways we can protect the environment is by changing what we buy. I only purchase products that are sustainably sourced or made from recycled materials. Every dollar we spend is like casting a vote for the kind of world we want. It's crazy how much waste and pollution come from manufacturing - choosing eco-friendly products is a way to push back against that. Sure, it might cost a bit more sometimes, but isn't the planet worth it? I mean, we talk a lot about big changes, but if everyone just started small, like switching to biodegradable packaging, we'd see a massive impact.",
+      "Speaker C: I've started reusing containers for storing food. I was tired of buying plastic wrap and bags every month, just to toss them after one use. You don't realize how much waste you produce until you try cutting it down. Now, I use glass jars and old containers to store leftovers, and it works just as well. Honestly, it makes me feel a little less guilty about all the plastic in my life. I'm not saying I'm perfect, but even this small habit makes a difference. And let's be real - who needs more clutter in the kitchen, anyway?",
+      "Speaker D: I stopped buying commercial cleaning products altogether. Most of them are filled with harsh chemicals that are terrible for the environment - and probably for us, too. Now, I make my own cleaning solutions. Vinegar, baking soda, and a little lemon juice can handle pretty much anything around the house. It's cheaper, safer, and I don't feel like I'm dumping toxins down the drain every time I clean. People think it's hard, but honestly, once you try it, it's not that bad. We don't need a cabinet full of chemicals to keep things tidy. Nature's got it covered."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing building community. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Community design can influence people's behavior.",
+        "answer": "Both"
+      },
+      {
+        "text": "Creating community can take time.",
+        "answer": "Man"
+      },
+      {
+        "text": "Work communities and social communities are the same.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Technology has changed how community forms.",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Woman: Hey, have you noticed how much effort cities are putting into improving neighborhood layouts these days?\nMan: You mean things like parks, shared courtyards, bike lanes? Yeah, I've seen that. I suppose it does make people interact more.\nWoman: Exactly. It's fascinating how the way a space is designed can actually change how people relate to each other. When a place feels open and welcoming, people naturally feel more inclined to talk, connect, even help one another.\nMan: I never used to think much about it, but after I moved last year, I noticed how different things felt. The new place has a community garden, and I ended up chatting with neighbors I might never have met otherwise.\nWoman: That's what I mean! I'm really hopeful that more cities will keep this trend going.\nMan: Yeah, I'm all for it. Still, I think there's more to forming bonds than just the environment. Even in the most community-friendly setting, you can't expect people to feel a strong sense of connection right away.\nWoman: That's fair. Though I believe that it happens more quickly than we think. When someone joins a new team or starts volunteering, they often start to feel like part of the group sooner than expected. You know, like a \"natural process\".\nMan: Maybe in some cases. But in my experience, when you move to a new town or start over in a completely different setting, it takes a while before you really feel integrated. It's a gradual growth, not something that just clicks.\nWoman: Speaking of integration, I think community isn't limited to a specific context. Whether it's colleagues at work or friends outside, the essence is the same - feeling seen, supported, and involved. The size or type of group doesn't matter as much as the emotional connection people have within it.\nMan: That's an interesting point. I'm not so sure I'm the best person to judge that. I've mostly kept my work life and personal life pretty separate. Though these days, a lot of those connections don't even happen face-to-face anymore.\nWoman: Totally. Online platforms are redefining what community means. I've seen people build strong support networks without ever meeting in person.\nMan: Same here. I joined a language exchange group online, and it's actually one of the most engaging communities I've been part of. Technology really has changed the game."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a man talking about life after university and answer the questions below.",
+      "questions": [
+        {
+          "question": "How does life change for graduates after university?",
+          "options": [
+            "They feel more stressed about job seeking.",
+            "They are likely to stick to their academic routines.",
+            "They are likely to be more flexible and open-minded."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "What is a common characteristic of the job market after university?",
+          "options": [
+            "More opportunities for networking",
+            "More competitive",
+            "Many jobs offer great benefits"
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "Life after university is quite an adventure, and I've learned a lot since graduating last year. The biggest change I've noticed is how different my daily routine is now. Unlike during my university days, I don't have a fixed schedule of classes and study sessions anymore. This has actually made me more adaptable and willing to try new things. I've found myself saying 'yes' to opportunities I might have passed up before, whether it's joining a new club or learning a new skill for work. Speaking of work, the job market was quite an eye-opener. I always heard that finding a job would be tough, but I didn't realize just how fierce the competition would be. It seems like every position has dozens, if not hundreds, of applicants. This means you really have to stand out to get noticed. On the bright side, this competitive environment has pushed me to improve my skills and broaden my network. I've attended more networking events in the past year than I ever did at university. While the job search can be stressful at times, I've found that staying positive and being open to different possibilities has helped me navigate this new chapter of my life."
+    },
+    {
+      "no": 17,
+      "title": "Listen to a man talking about a promotion campaign for a product and answer the questions below.",
+      "questions": [
+        {
+          "question": "What is the main issue with the product's promotion campaign?",
+          "options": [
+            "It is using outdated advertising methods.",
+            "It uses exaggerated claims.",
+            "It is not targeting the correct market."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "Why is the product struggling to stand out in the market?",
+          "options": [
+            "It is priced too high compared to its competitors.",
+            "It is too similar to many existing products.",
+            "It is not available in enough stores."
+          ],
+          "answer": "B"
+        }
+      ],
+      "altQuestions_version2": [
+        {
+          "question": "What do people think about this promotion campaign?",
+          "options": [
+            "It is being ignored completely.",
+            "It is too simple to be effective.",
+            "It is making exaggerated claims."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "What does the speaker think about this campaign?",
+          "options": [
+            "It lacks creativity.",
+            "It is reaching the wrong audience.",
+            "It costs too much to make to be profitable."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "A company recently launched a new fitness supplement, PowerBoost, but its promotion campaign is facing some difficulties. One major issue is that the advertisements make exaggerated claims. The campaign promises that PowerBoost will dramatically increase strength and endurance in just a few days. However, many customers feel the results are not as powerful as advertised. While bold claims can attract attention, they also risk damaging trust if the product does not deliver as expected.\nAnother challenge is that PowerBoost is struggling to stand out in the market. Some may think the issue is pricing, but it is actually similar to its competitors. Others might assume it is hard to find, but it is already available in many stores. The real issue is that PowerBoost is too similar to many existing products, making it difficult for customers to see what makes it unique.\nTo succeed, the company needs to adjust its messaging and find a way to differentiate PowerBoost from other fitness supplements."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aptis Listening - Làm bài</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="exam">
+  <header class="topbar exam-topbar">
+    <a href="index.html" class="home-link" title="Về trang chủ">⌂</a>
+    <div class="timer" id="timerBox">
+      <div><span id="mins">40</span><small>Mins</small></div>
+      <span class="colon">:</span>
+      <div><span id="secs">00</span><small>Secs</small></div>
+      <button id="toggleTimer" class="hide-time">Hide<br>time</button>
+    </div>
+    <div class="brand"><span class="dots">●●</span> AptisWeb <span class="brand-sub">Listening</span></div>
+    <div class="exam-title" id="examTitle">Đang tải...</div>
+    <button class="btn btn-submit" id="submitBtn">Nộp bài</button>
+  </header>
+
+  <nav class="part-nav" id="partNav"></nav>
+  <nav class="question-nav" id="questionNav"></nav>
+
+  <main class="container exam-container">
+    <div id="examView"></div>
+    <div class="nav-buttons" id="navButtons">
+      <button class="btn btn-outline" id="prevBtn">◀ Câu trước</button>
+      <button class="btn" id="nextBtn">Câu tiếp ▶</button>
+    </div>
+    <div id="resultView" class="hidden"></div>
+  </main>
+
+  <script src="js/config.js"></script>
+  <script src="js/exam.js"></script>
+</body>
+</html>

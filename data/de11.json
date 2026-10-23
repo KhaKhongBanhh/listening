@@ -1,0 +1,253 @@
+{
+  "id": 11,
+  "title": "Đề 11",
+  "part1": [
+    {
+      "no": 1,
+      "question": "Lalia is talking to her friend about her upcoming trip. How much does she think the bus fare will be?",
+      "options": [
+        "£2.5",
+        "£3",
+        "£4.5"
+      ],
+      "answer": "A",
+      "explain": "Woman: Hey, I'm really excited about my trip to the city tomorrow! I was just thinking about how I'll get there. Do you know how much the bus fare is? I think I heard it's £2.5. That sounds pretty reasonable! If I take the subway, that'll be £4.5. I love how affordable public transport can be. I'll definitely need to have some change ready. By the way, do you know what time the bus leaves? I want to make sure I don't miss it!"
+    },
+    {
+      "no": 2,
+      "question": "A woman is discussing her new exercise routine. How much time does she spend cycling?",
+      "options": [
+        "15 minutes",
+        "25 minutes",
+        "35 minutes"
+      ],
+      "answer": "C",
+      "explain": "Woman: Lately, I've started a new routine that I'm really enjoying! I decided to include more exercise in my life. So, I began by walking for about 15 minutes every day, just to get moving. After that, I hop on my bike and cycle for 35 minutes. It's been refreshing! I love how it helps me clear my mind after a busy day. I'm thinking of sticking with this habit for the long run!"
+    },
+    {
+      "no": 3,
+      "question": "A man is describing his school. What color is the teachers' building?",
+      "options": [
+        "Blue",
+        "White",
+        "Yellow"
+      ],
+      "answer": "B",
+      "explain": "Man: You know, I've been spending a lot of time at school lately. I really like our campus! One thing that stands out is the teachers' building. It's really nice and has a bright, white color. I love how it looks against the blue sky. It's kind of a central point of the school, and it feels welcoming. I think it adds a lot to the overall atmosphere here."
+    },
+    {
+      "no": 4,
+      "question": "A man is talking to a friend about his family. What is his main problem?",
+      "options": [
+        "Persuading his family",
+        "Finding a job abroad",
+        "Saving money for the move"
+      ],
+      "answer": "A",
+      "explain": "Man: I've been having a tough time lately. I really want to move abroad for a new job, but my family isn't on board with it. They're worried about me leaving and don't understand why I want to go so far away. I've tried to explain all the benefits, but they just don't seem to get it. It's really frustrating because I want their support, but it feels like I'm not getting through to them."
+    },
+    {
+      "no": 5,
+      "question": "A woman is talking about her usual Saturday routine. What does she usually do on Saturdays?",
+      "options": [
+        "Meeting a friend",
+        "Going shopping",
+        "Seeing her family"
+      ],
+      "answer": "C",
+      "explain": "Woman: Normally, on Saturdays, I spend the day with my family. We like to have brunch together and then do some fun activities, like playing board games or going for a walk. It's a nice way to relax and catch up. But this week, I have something different planned. I'm going to see a friend for her birthday and go shopping together instead. I'm looking forward to it, but I know I'll miss our usual family time!"
+    },
+    {
+      "no": 6,
+      "question": "A woman is chatting with a friend about her afternoon plans. What is she going to do this afternoon?",
+      "options": [
+        "Go on a city tour",
+        "Visit a museum",
+        "Relax at home"
+      ],
+      "answer": "A",
+      "explain": "Woman: I'm really looking forward to this afternoon! Normally, I just relax at home or maybe catch up on some shows, but today I want to do something different. I've decided to go on a city tour to explore some of the local sights. I thought about going to the park or even visiting a museum, but the city tour sounds much more exciting!"
+    },
+    {
+      "no": 7,
+      "question": "Soobin is talking about his favorite room. What is Soobin's favorite room?",
+      "options": [
+        "Living room",
+        "Bathroom",
+        "Kitchen"
+      ],
+      "answer": "B",
+      "explain": "Soobin: You know, when I think about my favorite room in the house, it's kind of hard to choose. I mean, I really enjoy the kitchen since I love cooking, and the living room is great for hanging out with friends. But honestly, I have to say the bathroom is my favorite! It might sound strange, but it's the one place where I can truly relax."
+    },
+    {
+      "no": 8,
+      "question": "Nate is on the phone with his friend. How long does Nate stay in India?",
+      "options": [
+        "3 days",
+        "1 week",
+        "2 weeks"
+      ],
+      "answer": "C",
+      "explain": "Nate: Hey! It's Nate. I just finished a week in Thailand, and now I've arrived in India. I'll be here for two weeks in total. I plan to spend three days visiting the Taj Mahal because everyone says it's a must-see. By the way, I know it's not too far from where you are. Maybe we could meet up while I'm here? Let me know if you're around!"
+    },
+    {
+      "no": 9,
+      "question": "A man is giving directions to a friend about how to get to the football club. What is the football club near?",
+      "options": [
+        "A grocery store",
+        "A park",
+        "A library"
+      ],
+      "answer": "B",
+      "explain": "Man: To get to the football club, you just need to head down Main Street. Go past the grocery store on your left, and then take a right at the traffic light. You'll see the library on your right; just keep going straight. The football club is right after that, next to the park. It's pretty easy to find!"
+    },
+    {
+      "no": 10,
+      "question": "Samia is going to meet her friend. What time are they going to meet?",
+      "options": [
+        "9:00",
+        "10:00",
+        "9:30"
+      ],
+      "answer": "B",
+      "explain": "Samia: Hey! I was thinking about our meet-up. We planned to meet at 9:30, but I just realized I have a class that finishes at 9:00, so I might not make it in time. How about we meet at 10:00 instead? That should give me enough time to get there. Does that work for you?"
+    },
+    {
+      "no": 11,
+      "question": "Mary is talking to her friend about her new home. What does she ask her friend about?",
+      "options": [
+        "Where to buy a new table",
+        "The furniture",
+        "A mirror"
+      ],
+      "answer": "A",
+      "explain": "Hi Ivan, it's Mary. I just moved into my new house. I want something nice for the dining area. I also saw a cute coffee shop nearby, and I'm thinking about getting a mirror for the living room. I need to get some furniture, especially a coffee table. Do you know where to buy one?"
+    },
+    {
+      "no": 12,
+      "question": "A woman is talking about her favorite film on the radio. What film did she recommend?",
+      "options": [
+        "A comedy",
+        "A romantic film",
+        "An action film"
+      ],
+      "answer": "C",
+      "explain": "Woman: Today, I want to recommend an action film that really impressed me. The lead actor, who is usually known for his romantic roles, delivered an outstanding performance. Of course, if you're in the mood for something lighter, there are plenty of comedies to enjoy as well. But if you're looking for excitement, this action film is definitely worth a watch!"
+    },
+    {
+      "no": 13,
+      "question": "Two friends are discussing a movie they recently watched. What element of the film do they agree on?",
+      "options": [
+        "The music",
+        "The ending",
+        "The characters"
+      ],
+      "answer": "B",
+      "explain": "Man: I just finished watching that film we talked about. What did you think?\nWoman: I loved it! The ending was so satisfying!\nMan: Absolutely! It wrapped everything up perfectly. But I wasn't really sold on the characters.\nWoman: Really? I thought the characters were great and well-developed!\nMan: I felt they were a bit cliché, especially the main character. But I really loved the soundtrack.\nWoman: Honestly, I didn't like the music at all. It felt out of place."
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Listen to four people talking about when they like listening to music. Complete the sentences below.",
+    "stem": "",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "After waking up",
+      "While singing",
+      "To relax",
+      "While studying"
+    ],
+    "answers": [
+      "To relax",
+      "While studying",
+      "While singing",
+      "After waking up"
+    ],
+    "explain": [
+      "Speaker A: I've always found music to be the best way to unwind after a long day. I like to listen to music when I want to relax. It helps me switch off from everything, whether I'm lying on the couch or taking a walk in the park. I usually go for something soft and calming like acoustic or classical music. It's my way of de-stressing and escaping from all the noise of everyday life. I just close my eyes and the music takes me away.",
+      "Speaker B: For me, music is a must when I'm studying. I know some people find it distracting, but I actually concentrate better when there's music playing in the background. I usually pick something without lyrics, like instrumental or electronic music, so it doesn't interrupt my thinking. It keeps me focused and helps me stay motivated when I'm working on long assignments or preparing for exams. It's become part of my study routine now.",
+      "Speaker C: I've always loved singing, so I listen to music whenever I feel like practicing my vocals. It's not just about listening for fun - I like to sing along and try to improve my voice. Whether it's pop songs or karaoke tracks, I find it really enjoyable and a great way to express myself. Sometimes, I even record myself to see how I'm doing. It's a fun hobby, and I love exploring new songs and melodies.",
+      "Speaker D: I like to start my day with music as soon as I wake up. It helps me feel energized and ready for whatever lies ahead. As soon as I get out of bed, I turn on my favorite playlist, which is usually full of upbeat, happy songs. It's like my morning ritual, setting the mood for the day and getting me in a good headspace. Music really helps kick-start my mornings on a positive note."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "A man and a woman are talking about information technology. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Future generations will fail to cope with information technology.",
+        "answer": "Man"
+      },
+      {
+        "text": "The technology revolution is good for the economy.",
+        "answer": "Woman"
+      },
+      {
+        "text": "No computer is superior to the human brain.",
+        "answer": "Woman"
+      },
+      {
+        "text": "More should be done to protect individual privacy.",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Man: I've been thinking about how future generations might really struggle with all the information technology throws at them. With the sheer volume of data available, it's easy to see how they could feel overwhelmed and unsure of what to trust.\nWoman: I get that, but I actually think this technological revolution is beneficial for our economy. It's opened up new job opportunities and streamlined many industries, driving growth in ways we haven't seen before.\nMan: I understand your point, but we also need to consider the potential downsides. As automation increases, many traditional jobs could disappear and not everyone will be able to transition to new roles. We have to ensure that the workforce is prepared for these changes.\nWoman: Still, we should recognize that no matter how advanced they get, computers can't replicate the complexity of the human brain. Our ability to think critically and empathize is irreplaceable, and we need to nurture those qualities even as we embrace new technologies.\nMan: I see. However, while we're advancing, I believe we both see the need for stronger protections around individual privacy. As we share more on the internet, safeguarding personal information becomes increasingly important.\nWoman: Exactly! Protecting privacy is essential in this digital age. We have to ensure that people maintain control over their data, balancing innovation with the right to privacy."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a lecturer talking about modern television series and answer the questions below.",
+      "questions": [
+        {
+          "question": "What does the speaker say is one major strength of successful television series?",
+          "options": [
+            "They focus mainly on famous actors.",
+            "They have consistent quality throughout.",
+            "They are usually shorter than films."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What does the speaker suggest about changes in television production?",
+          "options": [
+            "Streaming platforms have reduced production costs.",
+            "Television series are becoming less creative.",
+            "Viewer habits influence the way that series are made."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "In recent years, television series have become one of the most popular forms of entertainment worldwide. Unlike standalone films, series allow stories and characters to develop gradually over time, which helps maintain audience interest across multiple episodes and seasons.\nOne key factor behind the success of many television series is their ability to maintain a consistent standard. Viewers tend to remain loyal to a series when the storytelling, acting, and production quality remain strong from the beginning to the end, rather than fluctuating between episodes.\nAnother important aspect to consider is how audience behaviour has changed. With the rise of streaming platforms, viewers now watch episodes in different ways, such as binge-watching entire seasons in a short period of time. As a result, producers and writers are adapting their approach to structure, pacing, and episode length.\nThis clearly demonstrates that modern viewing patterns are not only affecting how audiences consume content, but are also shaping how television series are planned, written, and produced today."
+    },
+    {
+      "no": 17,
+      "title": "Listen to a reviewer discussing a book about the life of a scientist and answer the questions below.",
+      "questions": [
+        {
+          "question": "What does the speaker say about the style of writing?",
+          "options": [
+            "It is focused on technical details.",
+            "It is exciting to read.",
+            "It is more of a textbook than a biography."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What does the speaker say about the overall content of the book?",
+          "options": [
+            "It has been written for a general audience.",
+            "It is only suitable for experts in the field.",
+            "It lacks engaging storytelling."
+          ],
+          "answer": "A"
+        }
+      ],
+      "explain": "Reviewer: Today, I want to share my thoughts on a fascinating book about the life of renowned scientist Dr. Emily Carter. One of the standout features of this book is that the way of writing is exciting for readers. The author has a talent for bringing complex scientific concepts to life, making it an engaging experience.\nWhile some may expect a heavy focus on technical details, this book skillfully balances science with storytelling, ensuring that it remains accessible. It's definitely not more of a textbook than a biography; instead, it invites readers into the scientist's world in a relatable way.\nOverall, I'd say it has been written for a general audience. The author's aim seems to be to inspire curiosity about science and encourage readers from all backgrounds to appreciate the contributions of Dr. Carter. Unlike other works that are only suitable for experts in the field, this book truly welcomes everyone to explore the life of an extraordinary scientist."
+    }
+  ]
+}

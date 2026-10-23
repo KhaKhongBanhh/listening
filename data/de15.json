@@ -1,0 +1,273 @@
+{
+  "id": 15,
+  "title": "Đề 15",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A man is calling his mother. How long will he be late?",
+      "options": [
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "answer": "A",
+      "explain": "Man: Hi Mom, it's me. The traffic on the bridge is moving a bit slower than usual. I was worried it might delay me by 15 or 20 minutes, but GPS says I will only be about 10 minutes late. Don't start dinner without me, I'll be there very soon!"
+    },
+    {
+      "no": 2,
+      "question": "A woman is going to the cinema with her husband. What time does the movie begin?",
+      "options": [
+        "6:40",
+        "7:00",
+        "9:20"
+      ],
+      "answer": "A",
+      "explain": "Woman: Honey, we need to leave the house right now. The later screenings are at 7:00 and 9:20, but the showtime for our tickets is 6:40. If we don't hurry, we'll miss the opening scene!"
+    },
+    {
+      "no": 3,
+      "question": "Where should students submit their assignments?",
+      "options": [
+        "Online portal",
+        "Teacher's office",
+        "Main reception"
+      ],
+      "answer": "A",
+      "explain": "Professor: Please take note of the submission guidelines for this term paper. Do not drop printed copies off at my office or leave them with the main reception desk. All assignments must be uploaded directly through the student online portal before midnight on Friday."
+    },
+    {
+      "no": 4,
+      "question": "Dan is going to university. Where should Dan turn right?",
+      "options": [
+        "At the Main Street",
+        "At the hospital",
+        "At the traffic lights"
+      ],
+      "answer": "C",
+      "explain": "Friend: To get to the university campus, go straight down Main Street and pass the general hospital on your left. Keep going until you reach the traffic lights, and that's where you should turn right onto College Avenue."
+    },
+    {
+      "no": 5,
+      "question": "A saleswoman is talking to her customer. How much is the cheapest computer in the shop?",
+      "options": [
+        "135 pounds",
+        "145 pounds",
+        "155 pounds"
+      ],
+      "answer": "A",
+      "explain": "Saleswoman: We have several budget laptop options in stock today. Our mid-range models start around 145 or 155 pounds, but if you're looking for the most affordable option, the cheapest computer we carry is priced at just 135 pounds."
+    },
+    {
+      "no": 6,
+      "question": "A tour guide is introducing a famous building. What is this building currently used for?",
+      "options": [
+        "A museum",
+        "A department store",
+        "A cinema"
+      ],
+      "answer": "B",
+      "explain": "Tour Guide: This historic building originally opened as a grand cinema back in the 1920s, and for a short period there were plans to convert it into a museum. However, today it has been completely renovated and operates as a premier department store with five floors of shopping."
+    },
+    {
+      "no": 7,
+      "question": "David is in an interview. What was his last job?",
+      "options": [
+        "An engineer",
+        "A teacher",
+        "An electrician"
+      ],
+      "answer": "C",
+      "explain": "Interviewer: Looking at your resume, David, I see you studied to become an electrical engineer and later trained apprentices like a teacher. But what about your most recent role?\nDavid: Right before applying here, my last job was working as an electrician for a commercial maintenance contractor."
+    },
+    {
+      "no": 8,
+      "question": "A man is talking to his friend. Why does he choose to be a doctor?",
+      "options": [
+        "To help people",
+        "To make his family proud",
+        "To make a lot of money"
+      ],
+      "answer": "A",
+      "explain": "Friend: Medicine is such a tough field with long shifts. What motivated you to choose medicine?\nMan: Well, some people go into it to make a lot of money or just to satisfy family expectations. But for me, the genuine desire has always been to help people heal and improve their lives."
+    },
+    {
+      "no": 9,
+      "question": "A woman is talking to the police. What did she lose?",
+      "options": [
+        "A necklace",
+        "A bag",
+        "A wallet"
+      ],
+      "answer": "B",
+      "explain": "Officer: Can you tell me what happened, ma'am?\nWoman: I was sitting on the bench near the fountain checking my phone. I still had my gold necklace on and my wallet was in my jacket pocket, but when I stood up, I realized someone had taken my leather handbag from the bench."
+    },
+    {
+      "no": 10,
+      "question": "Tom is talking with his friend about his teachers. Who is his favourite teacher?",
+      "options": [
+        "Miss Taylor",
+        "Mr. Styles",
+        "Miss Brown"
+      ],
+      "answer": "C",
+      "explain": "Tom: We have some great teachers this year. Miss Taylor makes science interesting, and Mr. Styles is quite funny in history class. But my favorite teacher by far is Miss Brown—she is so patient and always helps me whenever I struggle with English."
+    },
+    {
+      "no": 11,
+      "question": "A woman is talking to a shop assistant. Why does the woman return the dress?",
+      "options": [
+        "Because of its size",
+        "Because of its color",
+        "Because of its pattern"
+      ],
+      "answer": "A",
+      "explain": "Shop Assistant: Is there something wrong with the dress, madam? Would you like a different color or floral pattern?\nWoman: No, I actually adore the pattern and the color is gorgeous. But when I tried it on at home, it was far too tight around the shoulders. I'm returning it because of its size."
+    },
+    {
+      "no": 12,
+      "question": "Louis is having dinner in a new restaurant. What is his opinion about that restaurant?",
+      "options": [
+        "The price is cheap",
+        "The food is delicious",
+        "The service is slow"
+      ],
+      "answer": "C",
+      "explain": "Louis: We tried out that new bistro on 5th Avenue last night. The prices were quite reasonable and the pasta was actually delicious. However, we had to wait nearly forty minutes just for our drinks, and our main dishes took over an hour. The service was terribly slow."
+    },
+    {
+      "no": 13,
+      "question": "A teacher is talking to her students. Where are the students now?",
+      "options": [
+        "At school",
+        "In a townhouse",
+        "In a museum"
+      ],
+      "answer": "B",
+      "explain": "Teacher: Gather around everyone. Notice the wooden floorboards and narrow staircases. While we usually study these periods in the classroom at school or observe artifacts inside a museum display case, standing right here inside this preserved 18th-century townhouse lets us experience daily life firsthand."
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "title": "Listen to four people talk about their reading preferences and answer the questions below.",
+    "stem": "",
+    "options": [
+      "Doesn't like reading books",
+      "Likes reading books when at school",
+      "Prefers other activities over reading books",
+      "Doesn't have time to read books"
+    ],
+    "answers": [
+      "Doesn't like reading books",
+      "Likes reading books when at school",
+      "Prefers other activities over reading books",
+      "Doesn't have time to read books"
+    ],
+    "explain": [
+      "Speaker A: Honestly, books have never appealed to me. Whenever I open a novel, I find myself getting bored within a few pages. I just don't like reading books at all.",
+      "Speaker B: During the school term, I really enjoyed sitting in the library and browsing through various textbooks and novels with classmates. I liked reading books when I was at school, although I do it less nowadays.",
+      "Speaker C: Reading is fine, but if I have free time on the weekend, I'd much rather go cycling, watch films, or play video games with friends. I definitely prefer other activities over reading books.",
+      "Speaker D: Between managing my full-time job and looking after my young kids, my schedule is packed from morning until night. I would love to read more, but I simply don't have time to read books right now."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing singers and music. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Singer can be good models for the young",
+        "answer": "Woman"
+      },
+      {
+        "text": "Taste in music is a highly personal thing",
+        "answer": "Both"
+      },
+      {
+        "text": "Music is a universal language",
+        "answer": "Man"
+      },
+      {
+        "text": "Music can be used to manipulate people's feelings",
+        "answer": "Both"
+      }
+    ],
+    "explain": "Woman: You know, I really believe that singers can be good role models for young people. Their influence can inspire kids to pursue their dreams and express themselves. Just think about how many young people start singing because they look up to someone famous.\nMan: I'm not so sure about that. While some singers may have positive messages, others don't always set the best example. Sometimes their lifestyle can be quite the opposite of what we'd want kids to emulate.\nWoman: Fair point, but I think many young fans look up to their favorite artists and adopt their values. Artists like Taylor Swift or Ed Sheeran often promote kindness and hard work.\nMan: I get that. But when it comes to taste in music, it's such a highly personal thing. What resonates with one person might not resonate with another. I mean, I might love rock while my friend prefers something else entirely.\nWoman: Absolutely! Everyone has their own preference, and that's what makes it interesting. It's like a reflection of our individual personalities.\nMan: And speaking of music, I believe it's a universal language that connects people from different cultures. You can go anywhere in the world and find people enjoying music.\nWoman: I don't fully agree with that. While music can connect people, its meanings can vary greatly between cultures. A song that makes one group happy might not even be understood by another.\nMan: True, but one thing we can both agree on is that music can be used to manipulate people's feelings, whether in advertising or emotional moments in movies.\nWoman: Definitely! It's amazing how a song can evoke such strong emotions in us. Just think about those movie soundtracks that give you chills or make you cry. Music has that incredible power.\nMan: Right. It's fascinating how a simple melody can tap into our emotions so deeply."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "A man is sharing a new guidebook. Choose the correct answers.",
+      "questions": [
+        {
+          "question": "What does this guidebook offer to its audience?",
+          "options": [
+            "It focuses solely on historical landmarks.",
+            "It creates an adventure.",
+            "It is difficult to navigate."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What is the speaker's opinion about this guidebook?",
+          "options": [
+            "It caters only to seasoned travelers.",
+            "It is outdated and irrelevant.",
+            "It is suitable for particular generations."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Speaker: I've been examining this newly published travel guidebook, and it takes an unconventional approach. Rather than merely listing standard historical landmarks and museums, the authors designed the itinerary as a treasure hunt that truly creates an adventure for travelers exploring the city. In my opinion, its vibrant layout and digital integration mean that it is especially suitable for particular generations, particularly younger, tech-savvy backpackers."
+    },
+    {
+      "no": 17,
+      "title": "Listen to a literary reviewer giving her opinion about a newly released novel and answer the questions below.",
+      "questions": [
+        {
+          "question": "What did the reviewer think was a positive aspect of the novel?",
+          "options": [
+            "The writing style was highly original.",
+            "The characters were interesting.",
+            "The storyline was unpredictable."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What does the reviewer suggest about the impact of the novel?",
+          "options": [
+            "It may divide readers’ opinions.",
+            "It will establish the author's popularity.",
+            "It will mainly appeal to academic audiences."
+          ],
+          "answer": "B"
+        }
+      ],
+      "altQuestions_version2": [
+        {
+          "question": "Why do some readers struggle to connect with the characters in the novel?",
+          "options": [
+            "Their motivations are explained too clearly.",
+            "There are too many main characters to follow.",
+            "They are difficult to relate to."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "What criticism do readers have about the storyline?",
+          "options": [
+            "It is too complex for a general audience.",
+            "It lacks originality.",
+            "The plot twists are too predictable for experts."
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "Reviewer: In her latest novel, the author introduces a compelling cast of figures whose complex relationships and witty dialogues make the characters genuinely interesting to follow from start to finish. Although the overarching plot follows familiar tropes, the book's broad emotional appeal means it will firmly establish the author's popularity among mainstream fiction fans."
+    }
+  ]
+}

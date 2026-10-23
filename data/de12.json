@@ -1,0 +1,253 @@
+{
+  "id": 12,
+  "title": "Đề 12",
+  "part1": [
+    {
+      "no": 1,
+      "question": "Mrs. Green is giving instructions to her class. What are the students writing about?",
+      "options": [
+        "Technology",
+        "Animals",
+        "Land"
+      ],
+      "answer": "C",
+      "explain": "Today in class, I asked all of my students to complete a writing activity before the end of the lesson. The topic is about land and how different countries use it for farming, housing, and transportation. I want the students to think carefully and include examples from places they know or have studied before. Some students are already writing very good ideas, and I hope this activity will help improve both their vocabulary and their understanding of geography."
+    },
+    {
+      "no": 2,
+      "question": "The teacher is talking to the students. Which room will they study in?",
+      "options": [
+        "Room 201",
+        "Room 301",
+        "Room 302"
+      ],
+      "answer": "B",
+      "explain": "Hello everyone, this is your chemistry teacher. I'm calling to give you a quick update about our practical class this Friday. We will still meet at two o'clock as planned. Originally, the session was scheduled to take place in Room 201, and some of you may also have heard about using Room 302 as an alternative. However, due to an unexpected technical issue, the class will now be held in Room 301 instead. See you then."
+    },
+    {
+      "no": 3,
+      "question": "The teacher is talking to the students. What country will they study next semester?",
+      "options": [
+        "France",
+        "Italy",
+        "Germany"
+      ],
+      "answer": "A",
+      "explain": "Good morning, everyone. Before we finish today, I'd like to give you a quick overview of what we'll be studying next semester. Some of you may remember that last year we focused on Germany, and before that, we spent quite a lot of time discussing Italian history and culture. However, next term, our main topic will be France. We'll look at key historical events, social changes, and how the country influenced Europe as a whole. I believe this will be a particularly impressive subject, and I'm sure many of you will find it both challenging and enjoyable."
+    },
+    {
+      "no": 4,
+      "question": "Mr. Brown is talking to the students before the event. Which room is the presentation in?",
+      "options": [
+        "The meeting room",
+        "The computer room",
+        "The library"
+      ],
+      "answer": "A",
+      "explain": "Student: Excuse me, Mr. Brown. I'm looking for the presentation room.\nMr. Brown: The presentation is being held in the meeting room today.\nStudent: Is it on this floor?\nMr. Brown: Yes, just walk down the hall and turn left.\nStudent: Great, thank you very much for your help."
+    },
+    {
+      "no": 5,
+      "question": "A woman is talking about Mr. Thompson's schedule. What time is the meeting?",
+      "options": [
+        "2 p.m.",
+        "10 a.m.",
+        "11 a.m."
+      ],
+      "answer": "A",
+      "explain": "This is a reminder of Mr. Thompson's schedule. Today, he will leave for the airport at 10 a.m., and at 11 a.m. he is scheduled to complete the check-in process for his flight to Ho Chi Minh City. Please note that tomorrow afternoon at 2 p.m., he has an important meeting with a business partner. All necessary documents should be prepared in advance."
+    },
+    {
+      "no": 6,
+      "question": "A man is talking about his trip to India. Where does he go when he travels to India?",
+      "options": [
+        "Go to the park",
+        "Go to famous places",
+        "Go out to eat"
+      ],
+      "answer": "A",
+      "explain": "I've traveled to India several times, and people often assume that I spend most of my time visiting famous landmarks or going out to eat local food. Of course, I do enjoy trying Indian dishes, and I've seen some well-known places too. However, what I really like to do when I'm there is go to the park. I enjoy walking through public parks, watching people relax, and experiencing everyday life. That's usually where I spend most of my time when I travel to India."
+    },
+    {
+      "no": 7,
+      "question": "Lucy is asking her mom about tonight's plan. What time is dinner?",
+      "options": [
+        "6:45 p.m.",
+        "7:30 p.m.",
+        "8:15 p.m."
+      ],
+      "answer": "B",
+      "explain": "Lucy: Mom, are we having dinner at home tonight or eating out?\nMom: We're eating at home tonight.\nLucy: Okay. What time is dinner?\nMom: We'll eat at seven thirty p.m. because your father comes home late today.\nLucy: Alright, I'll finish my homework before dinner."
+    },
+    {
+      "no": 8,
+      "question": "James is talking about his university essay. What is he writing about?",
+      "options": [
+        "Scientists",
+        "Historians",
+        "Artists"
+      ],
+      "answer": "B",
+      "explain": "For my final university project this term, I decided to focus on historians and the work they do. Many people think history is only about learning dates and facts, but historians actually spend years researching documents and studying important events from the past. I've been reading several books recently to understand how historians collect information and explain historical changes. It's a difficult topic, but I think it's really interesting and useful for understanding modern society."
+    },
+    {
+      "no": 9,
+      "question": "David and Anna are waiting for the bus together. Which bus stops near Anna's house?",
+      "options": [
+        "Number six",
+        "Number twelve",
+        "Number eight"
+      ],
+      "answer": "C",
+      "explain": "David: Anna, which bus do you usually take home after work?\nAnna: I normally take bus number eight because it stops right near my house.\nDavid: Really? That's convenient.\nAnna: Yes, it only takes about ten minutes to walk from the bus stop to my home.\nDavid: Great, maybe I'll take the same bus today."
+    },
+    {
+      "no": 10,
+      "question": "Tom is talking to Sarah at the bus station. How much does the bus ticket cost?",
+      "options": [
+        "$15",
+        "$20",
+        "$35"
+      ],
+      "answer": "B",
+      "explain": "Tom: Excuse me, Sarah. Do you know how much a bus ticket to the city center costs?\nSarah: Yes, I asked the driver a few minutes ago. It's twenty dollars for one ticket.\nTom: Wow, that's a little expensive.\nSarah: Yeah, but the trip is quite long.\nTom: Alright, I'll buy one anyway. Thanks for your help."
+    },
+    {
+      "no": 11,
+      "question": "Sophia and Jack are discussing the new medical center. What is the new medical center next to?",
+      "options": [
+        "A supermarket",
+        "A train station",
+        "A school"
+      ],
+      "answer": "B",
+      "explain": "Sophia: Have you seen the new medical center in town yet?\nJack: Yes, I walked past it yesterday.\nSophia: Where exactly is it located?\nJack: It's next to the train station, across from the supermarket.\nSophia: That's actually a really good location for patients.\nJack: I agree. It's easy to reach by public transport."
+    },
+    {
+      "no": 12,
+      "question": "Sophie is talking about her weekly routine. What does she do every Tuesday?",
+      "options": [
+        "Attend a meeting",
+        "Write a report",
+        "Play sports"
+      ],
+      "answer": "B",
+      "explain": "My weekly routine is usually very busy because I'm studying several subjects this year. Tuesdays are probably the most difficult days for me because I have classes all morning and then extra work in the afternoon. Every Tuesday, I need to write a report for my business course. Sometimes the reports are short, but other times they take many hours to finish. Even though it can be stressful, I know this practice is helping me improve my writing and research skills."
+    },
+    {
+      "no": 13,
+      "question": "Maria is asking the receptionist about her class. What floor is the French class on?",
+      "options": [
+        "Third floor",
+        "First floor",
+        "Second floor"
+      ],
+      "answer": "C",
+      "explain": "Maria: Hello, I'm new here. Could you tell me where the French class is?\nReceptionist: Certainly. The French class is on the second floor.\nMaria: Do I need to take the elevator?\nReceptionist: You can, or you can use the stairs on your right.\nMaria: Thank you. I don't want to be late for class."
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Listen to four people talking about places for studying. Complete the sentences below.",
+    "stem": "prefers studying",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "In the coffee shop",
+      "In the park",
+      "On public transport",
+      "At home"
+    ],
+    "answers": [
+      "On public transport",
+      "At home",
+      "In the coffee shop",
+      "In the park"
+    ],
+    "explain": [
+      "Person A: The distance from my house to school is 20 km, and it usually takes me an hour to get there. So, when I'm on the train, I use the time to do homework and review the lessons for the day. Some people say that studying like this can be distracting, but I find it very effective for me.",
+      "Person B: I don't like studying in very crowded places because I can't focus well. I usually sit on the sofa in the living room to study. My parents often travel for work, so my house is very quiet.",
+      "Person C: I don't like studying in very quiet places such as at home or in the library because I get sleepy easily and might even fall asleep while studying. There's a coffee shop near my house, and I often go there to study because the presence of other people makes me feel more motivated. I find that I achieve higher productivity and efficiency in my studies when I'm there.",
+      "Person D: I notice that most people prefer doing their homework in the classroom, but for me, those chairs are way too hard and leave me sore all day. I prefer sitting under the trees in the park to study - it's cool, and the air is fresh. There's a famous coffee shop across from where I sit, and they serve really good coffee."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing an environmental volunteering programme. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "The media exaggerates the benefits of the programme.",
+        "answer": "Both"
+      },
+      {
+        "text": "Littering will always be a problem.",
+        "answer": "Man"
+      },
+      {
+        "text": "The volunteers' motivations do not affect the programme outcome.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Punishment is the most effective way to prevent littering.",
+        "answer": "Man"
+      }
+    ],
+    "explain": "Man: I watched the news report about the clean-up project yesterday. To be honest, I firmly believe the media exaggerates the benefits of the programme. It wasn't nearly as successful as they claimed.\nWoman: I totally agree. The news coverage focused only on the positive parts and completely ignored the issues. The media definitely exaggerates the benefits of the programme.\nMan: Exactly. And even with initiatives like this, I'm convinced that littering will always be a problem. Some people simply refuse to change their bad habits.\nWoman: I disagree. I don't think littering will always be a problem; if we continue to educate the public, we can eradicate it entirely over time.\nMan: I doubt education alone is enough. Besides, looking at the participants, many join just to improve their CVs rather than out of real care, which worries me.\nWoman: Personally, I think the volunteers' motivations do not affect the programme outcome. Whether they join for personal gain or for the environment, the final results are exactly the same as long as they do the work.\nMan: That's one way to look at it, but I still think pure intentions matter. Anyway, if we want real change, education is too slow. In my opinion, punishment is the most effective way to prevent littering. Strict fines will stop people instantly.\nWoman: I'm not sure about that. Punishment might not be the most effective way to prevent littering because people might just find ways to avoid getting caught instead of learning to respect the environment.\nMan: Well, without strict penalties, nobody will take the rules seriously. Let's wait and see if things ever change."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a book critic talking about a biography and answer the questions below.",
+      "questions": [
+        {
+          "question": "What is the strength of the book?",
+          "options": [
+            "It is a very short story.",
+            "It has a good description of a specific period of time.",
+            "It focuses only on famous people."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What do the critics say about the book?",
+          "options": [
+            "It is an unconventional biography.",
+            "It is too difficult to understand.",
+            "It contains too many fictional details."
+          ],
+          "answer": "A"
+        }
+      ],
+      "explain": "The biography has received a lot of attention from readers and critics. One of its main strengths is the way it describes a specific period of time in great detail. The author carefully recreates the historical context, helping readers understand what life was like during that era.\nHowever, the book has also been discussed by critics for another reason. Instead of following the traditional style of biography writing, it presents the subject in a more unusual and creative way. Because of this, many reviewers describe it as an unconventional biography, which makes it stand out from other books in the same genre."
+    },
+    {
+      "no": 17,
+      "title": "Listen to someone talking about podcasting and answer the questions below.",
+      "questions": [
+        {
+          "question": "Why did the new podcast fail?",
+          "options": [
+            "The content was too long.",
+            "The creators did not promote their show.",
+            "It had too many listeners."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What is the speaker's opinion about podcasting?",
+          "options": [
+            "It is a waste of time.",
+            "It is a great way to build a community.",
+            "It is only useful for entertainment."
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "The new podcast that was recently launched unfortunately didn't achieve much success. One of the main reasons for this is that the creators do not promote their shows effectively. Without proper promotion on social media or other platforms, it becomes very difficult for a podcast to attract new listeners and grow its audience.\nHowever, podcasting in general is still seen in a very positive way. Many people believe it is a great way to build a community. It allows creators to connect directly with their audience, share ideas, and create a loyal group of listeners who regularly follow their content."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": 10,
+  "title": "Đề 10",
+  "part1": [
+    {
+      "no": 1,
+      "question": "Listen to the speaker talking on the radio. What is she talking about?",
+      "options": [
+        "Her favorite hobby",
+        "Her journey to work",
+        "Her weekend plans"
+      ],
+      "answer": "B",
+      "explain": "Every morning, I take the same route to work. I live outside the city, so I need to take a bus first. After that, I get on the train, which is usually pretty crowded. It's a long ride, but I enjoy listening to music while traveling. When I finally reach the station, I walk for about ten minutes. It might sound tiring, but I like this routine because it gives me time to think."
+    },
+    {
+      "no": 2,
+      "question": "Listen to the conversation about directions. Where is the library located?",
+      "options": [
+        "On the left of the square",
+        "In front of the square",
+        "Behind the square"
+      ],
+      "answer": "A",
+      "explain": "If you're standing in the square, the library is easy to find. You'll see it on the left side, just past the bakery. It's a big building, so you can't miss it. Some people think it's in front of the square, but it's not. There's a small park in front, though. So, when you get to the square, just look to your left."
+    },
+    {
+      "no": 3,
+      "question": "Listen to a woman talking about her holiday plans. Where is she going next?",
+      "options": [
+        "The east",
+        "The north",
+        "The south"
+      ],
+      "answer": "C",
+      "explain": "I can't wait for my next holiday! This time, I'm heading to the south, where the mountains are. I've never been there before, but I've heard it's beautiful. I'm looking forward to hiking and seeing the snow-covered peaks. It's going to be a nice change from the city. Hopefully, the weather will be perfect!"
+    },
+    {
+      "no": 4,
+      "question": "Listen to a writer talking about her job. What was her first job?",
+      "options": [
+        "Teacher",
+        "Doctor",
+        "Engineer"
+      ],
+      "answer": "A",
+      "explain": "When I was younger, I didn't always dream of being a writer. My first job was actually as a teacher. I taught English to small children, and I loved helping them learn to read and write. It wasn't easy, though. I spent a lot of time grading papers and preparing lessons. But that job taught me how to use words well, and now I write stories for everyone to enjoy."
+    },
+    {
+      "no": 5,
+      "question": "Listen to the conversation. Who is she taking a photo of?",
+      "options": [
+        "The boys' and the girls' team",
+        "The girls' team",
+        "Sue and Lily"
+      ],
+      "answer": "B",
+      "explain": "I'm just about to take a photo of the girls' team now. They're all lined up and ready, smiling for the camera. I've already taken pictures of the boys earlier, so it's their turn. The coaches will have their photo taken after this. The girls are excited because this picture will be in the school magazine. Alright, everyone, say \"cheese\"!"
+    },
+    {
+      "no": 6,
+      "question": "Listen to the speaker talking about their weekly schedule. When is the meeting scheduled?",
+      "options": [
+        "Monday morning",
+        "Friday evening",
+        "Wednesday afternoon"
+      ],
+      "answer": "C",
+      "explain": "This week is pretty busy, but the most important thing is the meeting on Wednesday afternoon. We usually have it on Monday, but this time we had to change the day. Wednesday works better because everyone is free. I have a lot to prepare before then, so I'll spend Tuesday getting everything ready. It's a big meeting, and we need to finalize some plans. I'm just glad it's not on Friday, or I'd be too tired!"
+    },
+    {
+      "no": 7,
+      "question": "Listen to a man talking about his business trip. What does he like in Dubai?",
+      "options": [
+        "He enjoys the food there",
+        "He enjoys his job there",
+        "He enjoys the people there"
+      ],
+      "answer": "B",
+      "explain": "I've been living in Dubai for about two years now, and I really enjoy my work here. It's challenging, but that's what makes it exciting. The company I work for is great, and I get to meet people from all over the world. The food is also amazing, but the work itself is what keeps me happy. I can see myself staying here for a long time because I feel lucky to do what I love."
+    },
+    {
+      "no": 8,
+      "question": "A man is ordering a drink. What does he want?",
+      "options": [
+        "Beer",
+        "Water",
+        "Iced tea"
+      ],
+      "answer": "C",
+      "explain": "Hi there. I'm really thirsty. Can I have a drink, please? I was thinking about getting a beer, but it's a bit too early for that. Water sounds good, but I'm in the mood for something cooler. I'll go with an iced tea, please. That sounds perfect for this weather."
+    },
+    {
+      "no": 9,
+      "question": "Stephanie is looking for a job taking care of children. How old is she?",
+      "options": [
+        "21",
+        "20",
+        "22"
+      ],
+      "answer": "A",
+      "explain": "Hi, I am Stephanie. I am interested in applying for a job taking care of children. I have three years of experience working with children of different ages, and I am confident in my ability to create a safe and engaging environment for them. I am fluent in both English and French, which allows me to communicate easily with families who speak either language. This year, I am 21 years old, and I am enthusiastic about bringing my skills and energy to a new position."
+    },
+    {
+      "no": 10,
+      "question": "Listen to a woman giving advice on saving money. What advice does she give to save money?",
+      "options": [
+        "Buy in bulk",
+        "Use public transport",
+        "Put money into the bank"
+      ],
+      "answer": "B",
+      "explain": "You want to save some money, right? Well, there are a few things you can do. One idea is to buy in bulk, so you pay less for each item. But the best tip I have is to use public transport instead of driving. It really helps to cut down on gas and parking costs. You could also put some money into the bank to save for later, but start with public transport - it's a big help!"
+    },
+    {
+      "no": 11,
+      "question": "Listen to a teacher talking about meeting preparations. What is the teacher preparing for the meeting now?",
+      "options": [
+        "Setting up the chairs",
+        "Organizing the documents",
+        "Ordering the food"
+      ],
+      "answer": "C",
+      "explain": "We have a big meeting coming up next week. There are a few things I still need to do to get ready, for example, I need to set up the chairs for everyone. Then, of course, I have to order the food so we can eat during the break. I'll also organize the documents that we'll need for the discussion. But food is the priority right now."
+    },
+    {
+      "no": 12,
+      "question": "Listen to an actor discussing his hobbies. What does the actor like to do in his free time?",
+      "options": [
+        "Drawing",
+        "Watching movies",
+        "Playing sports"
+      ],
+      "answer": "A",
+      "explain": "I don't have much free time with my acting schedule, but when I do, I like to relax. Many people think I spend my free time watching movies, but that's not my favorite hobby. Actually, I love drawing. It helps me clear my mind and get creative. I sometimes play sports too, but drawing is what I enjoy most."
+    },
+    {
+      "no": 13,
+      "question": "Listen to a principal talking about new school facilities. What new facility will the school have?",
+      "options": [
+        "A new library",
+        "A sports field",
+        "A performance space"
+      ],
+      "answer": "C",
+      "explain": "Our school is getting some exciting new facilities. We already have a library and a sports field, but we're adding something different now. The school will have a new performance space for plays, concerts, and other events. It's going to be a great addition for the students. We're really looking forward to seeing it finished!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Four people are talking about running. Complete the sentences below.",
+    "stem": "",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "prefers running in the street.",
+      "prefers running at the seaside.",
+      "prefers running on the running track.",
+      "prefers running in the fitness center."
+    ],
+    "answers": [
+      "prefers running in the street.",
+      "prefers running at the seaside.",
+      "prefers running on the running track.",
+      "prefers running in the fitness center."
+    ],
+    "explain": [
+      "Speaker A: The city gives me new things to see every time I run. I like the busy streets and different buildings around me. Stopping at traffic lights and watching out for people helps me stay alert. Running in the street is what I love most. I also get to find new places in my city this way. The hard ground makes my legs stronger. It can be a bit dangerous with cars, but that's what makes it exciting for me.",
+      "Speaker B: The clean air by the sea makes me feel good and helps clear my head. I enjoy feeling the sand under my feet, which helps make my legs stronger. The sound of the waves makes a nice beat for my run. There's nothing better than running by the seaside. Seeing the sun come up or go down while I run is really pretty. The cool wind from the sea keeps me from getting too hot. And after I'm done, I can jump in the water to cool off.",
+      "Speaker C: The track lets me know exactly how far I've run and helps me set goals. The smooth surface is better for my knees and ankles. There are no bumps or things in the way, so I can focus on how I run. For me, the running track is the best place to run. I can easily see how long each lap takes me. Having other runners around makes me want to try harder. I can run on the track in almost any weather, which is great.",
+      "Speaker D: Inside, I don't have to worry about it being too hot, cold, or rainy. I can use the treadmill and other machines to mix up my workout. The soft surface of the treadmill is easier on my knees than the road. I like running on the treadmill best. I can change how steep or fast the treadmill goes to make it more challenging. The machines tell me how fast my heart is beating and how well I'm doing. And when I'm done, I can take a shower and change right there."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing changes in the workplace. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Continuity is very important in the workplace.",
+        "answer": "Man"
+      },
+      {
+        "text": "Job security cannot always be guaranteed.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Job satisfaction is an important motivator.",
+        "answer": "Both"
+      },
+      {
+        "text": "Technology is good for the entire economy.",
+        "answer": "Man"
+      }
+    ],
+    "explain": "Man: It seems like every workplace is going through so many changes lately. But honestly, I think continuity is still very important. When things are done consistently, it gives people a sense of security. If everything changes so fast, it is hard for employees to keep up and the organization can lose its way. Continuity is important in keeping everyone focused.\nWoman: I get where you're coming from, but I feel like these days, nothing is certain. Job security isn't something we can rely on anymore. There's always the risk of layoffs, especially with the economy being unpredictable. People are moving from job to job more than ever before, and you can't always count on staying in one place for long.\nMan: That's definitely a concern. But regardless of job security or stability, one thing we both can agree on is that job satisfaction is a huge motivator. When people love what they do, they're more likely to stay even when times get tough. It's the main reason many of us keep pushing through the challenges.\nWoman: Absolutely! I think when people are satisfied with their work, they're willing to go the extra mile. It's not just about the paycheck, it's about feeling fulfilled. That's what really makes the difference in the workplace.\nMan: You're right. And another thing that's making a difference is technology. It's been a game-changer for the economy, making things more efficient. The growth we've seen in so many industries is because of how we've embraced new technologies. It's definitely helping businesses thrive."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to an expert talking about how to manage personal finances and answer the questions below.",
+      "questions": [
+        {
+          "question": "How does the speaker recommend saving money effectively?",
+          "options": [
+            "Saving a large amount only on a daily basis.",
+            "Organizing their resources more effectively.",
+            "Using credit cards to manage expenses."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What does the speaker believe helps people save money most successfully?",
+          "options": [
+            "Getting advice from people who have experience.",
+            "Keeping all your savings in a single account.",
+            "Avoiding making any long-term financial plans."
+          ],
+          "answer": "A"
+        }
+      ],
+      "altQuestions_version2": [
+        {
+          "question": "What should you do to better control your short-term spending?",
+          "options": [
+            "Monitor your spending for a weekly plan",
+            "Avoid all unnecessary purchases entirely",
+            "Use only cash instead of cards"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What should you do to better control your long-term spending?",
+          "options": [
+            "Track every single expense daily",
+            "Stop spending on entertainment altogether",
+            "Seek advice from someone who has experience"
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Good afternoon, everyone! Today, I want to share a few simple tips on how you can manage your personal finances better. Now, I know that saving money can sometimes feel challenging, but there are a few habits that can make it easier. One of the best ways to save effectively is to set aside a fixed amount every month. I recommend you make this a habit. You can even automate it by setting up a transfer from your checking account to your savings account. This way, the money is put aside before you even get a chance to spend it. If you just wait until the end of the month to save whatever is left over, there's a good chance there won't be much left - especially with all the small, unexpected expenses that pop up. So, it's all about making saving a priority and keeping it consistent.\nNow, when it comes to managing your finances overall, one key piece of advice is to get help from people who know more than you. That could mean speaking with a financial advisor if you're able, but it could also mean getting advice from someone in your life who's really good with money, whether that's a friend, a family member, or even an online resource. You don't have to figure everything out on your own. Learning from others can save you time and help you avoid costly mistakes, especially if you're new to budgeting or long-term planning.\nRemember, managing money doesn't have to be complicated. By saving regularly and learning from others, you can start to feel more confident about your finances."
+    },
+    {
+      "no": 17,
+      "title": "Listen to a woman talking about security cameras and answer the questions below.",
+      "questions": [
+        {
+          "question": "What is the speaker's opinion about security cameras at work?",
+          "options": [
+            "People are unnecessarily worried about them.",
+            "Most people don't even realize cameras are present.",
+            "Cameras should be placed to ensure complete coverage."
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "How does the speaker suggest people should feel about security cameras at work?",
+          "options": [
+            "People often find them intimidating and invasive.",
+            "Many believe they are only useful after incidents have occurred.",
+            "People should feel reassured about their presence."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "I've noticed that some of my coworkers get a bit nervous about the security cameras in our office. They often say things like, 'It feels like we're being watched all the time,' or 'I don't like feeling like I'm not trusted.' But honestly, I think people worry too much about it. These cameras aren't there to spy on us or catch us doing something wrong. They're actually there to keep us safe. I mean, think about it - if something were to happen, like a theft or an accident, wouldn't you want there to be a record of it?\nPlus, knowing the cameras are there can actually prevent bad things from happening in the first place. I believe that once people understand the real purpose of these cameras, they'll feel much better about them. Instead of feeling worried, we should feel glad that our company cares about our safety. It's just one more way they're looking out for us while we're at work.\nYou know, I remember when we first got the cameras installed. Some people were really upset about it. But after a while, most of us hardly even notice them anymore. They're just part of the background now. And there have been times when they've been really helpful. Like when someone's bag went missing, the cameras helped us figure out what happened.\nI think it's important to remember that these cameras are in public areas, not in private spaces like bathrooms or changing rooms. They're not meant to invade our privacy, just to make sure everyone follows the rules and stays safe. In the end, I think having them makes our workplace better for everyone. It's a small thing that can make a big difference in keeping us all secure."
+    }
+  ]
+}

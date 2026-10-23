@@ -1,0 +1,253 @@
+{
+  "id": 6,
+  "title": "Đề 6",
+  "part1": [
+    {
+      "no": 1,
+      "question": "Tom is calling his friend. What time will they meet?",
+      "options": [
+        "6 PM",
+        "5 PM",
+        "7 PM"
+      ],
+      "answer": "C",
+      "explain": "Hey Mike, it's Tom! How are you? I was thinking, why don't we meet up tonight? I'm free, and it would be fun to hang out. Let's meet at the park at 7 P.M. Does that work for you? We can grab some snacks and maybe play basketball or just talk. Let me know if you're in, and if anyone else wants to join, we can invite them too! See you later!"
+    },
+    {
+      "no": 2,
+      "question": "Lucy is calling her friend. What is her sister like?",
+      "options": [
+        "She is young",
+        "They have similar characters",
+        "She will be wearing a red coat"
+      ],
+      "answer": "B",
+      "explain": "Hi Emma, it's Lucy. I hope you're doing well! I need a small favor from you today. Could you pick up my sister after school? She'll be standing at the school gate at 3 P.M. She looks just like me, so you'll recognize her easily. I have a meeting, and I won't make it in time. Thank you so much! Let me know if that's okay with you."
+    },
+    {
+      "no": 3,
+      "question": "A finance expert is giving advice to young people. What shouldn't they do?",
+      "options": [
+        "Spend too much on clothes.",
+        "Ask for more money.",
+        "Save for emergencies."
+      ],
+      "answer": "B",
+      "explain": "Managing money is very important for everyone. I always make sure to plan my spending carefully, like saving some for emergencies and not buying things I don't need. It's easy to lose control if you don't keep track of your budget. Young people, especially, need to be careful about borrowing money. Many ask for loans from the bank, but that creates debt. It's better to avoid borrowing too much and focus on saving instead."
+    },
+    {
+      "no": 4,
+      "question": "A man is talking about his daily routine. What does he do after work?",
+      "options": [
+        "Goes to the gym.",
+        "Plays football.",
+        "Reads books."
+      ],
+      "answer": "B",
+      "explain": "Every day, I wake up at 7 A.M. and have a quick breakfast before going to work. I usually take the bus, and it takes about 30 minutes to get to the office. At work, I spend most of my time on the computer, answering emails and working on projects. I have lunch at noon and get back to work until 5 P.M. After work, I like to relax by playing football with my friends. It's a great way to stay active and have fun!"
+    },
+    {
+      "no": 5,
+      "question": "Lily is talking about her daily routine. What does she do in the evening?",
+      "options": [
+        "Goes for a walk.",
+        "Plays video games.",
+        "Cooks dinner."
+      ],
+      "answer": "A",
+      "explain": "I'm Lily, and I want to tell you about my daily routine. I wake up early around 6:30 A.M. and have breakfast before going to work. I work in a small office, and my job keeps me busy until about 5 P.M. After dinner, I usually go for a walk to relax, but today I'm going to try something different - do some yoga at home. It sounds fun and peaceful. After that, I'll probably watch a movie before going to bed. It's a simple day, but I like it."
+    },
+    {
+      "no": 6,
+      "question": "A woman is talking about her vacation. What is the relationship between the speaker and Lisa?",
+      "options": [
+        "Best friends",
+        "Mother and daughter",
+        "Teacher and student"
+      ],
+      "answer": "A",
+      "explain": "Woman: I just got back from an amazing vacation with Lisa! We've been friends for years, and this trip really brought us closer. I can't imagine going with anyone else. Some people think we look like mother and daughter because we care for each other so much, but it's really just best friends hanging out!"
+    },
+    {
+      "no": 7,
+      "question": "A man and a woman are going shopping. What does he buy in the store?",
+      "options": [
+        "A T-shirt",
+        "A suit for the office",
+        "A pair of shoes"
+      ],
+      "answer": "B",
+      "explain": "Man: Hey, Sarah! Let's check out this store. I need something for work.\nWoman: Sure, John. How about this T-shirt? It looks nice.\nMan: Hmm, it's cool, but I don't really need a T-shirt right now. I'm actually looking for something more formal.\nWoman: Oh, okay. What about this hat? It would look great on you.\nMan: Haha, maybe, but not today. I really need a suit for the office. Look, this one seems perfect.\nWoman: That's a good choice! It's smart and looks comfortable.\nMan: Great! I'll buy the suit. Let's keep looking for other things we might need."
+    },
+    {
+      "no": 8,
+      "question": "A student is talking about housing. Where does he live now?",
+      "options": [
+        "In a small village",
+        "In an apartment",
+        "In a town hall"
+      ],
+      "answer": "C",
+      "explain": "Hi, I'm Jack, and I want to talk about where I live. Right now, I'm staying in a town hall near my university. It's a nice place, and I've met a lot of other students here. Before this, I used to live with my parents in a small village. It was quiet, but I needed to be closer to school. Soon, I'll move to an apartment nearby with a few friends. I think it'll be fun to share a place with them. I'm excited about the change!"
+    },
+    {
+      "no": 9,
+      "question": "Listen to a radio man talking about a new popular song. Which is the most attractive part of the song?",
+      "options": [
+        "The words",
+        "The instruments",
+        "The cover art"
+      ],
+      "answer": "A",
+      "explain": "Good evening, listeners! Today I want to talk about a new song that's quickly becoming popular - You're My Everything. The tune is really catchy, and it makes you want to dance right away. The instruments used are simple but create a great rhythm. However, the most attractive part of all is the words. The lyrics tell a beautiful story that everyone can relate to. It's no wonder so many people are loving this song! If you haven't heard it yet, make sure to give it a listen soon!"
+    },
+    {
+      "no": 10,
+      "question": "Listen to a saleswoman talking about a property. Which room is the largest?",
+      "options": [
+        "Bedroom",
+        "Kitchen",
+        "Bathroom"
+      ],
+      "answer": "B",
+      "explain": "Hello, and welcome! Let me tell you about this lovely property. It has two spacious bedrooms, both with big windows that let in lots of natural light. The bathroom is modern, with a large shower and plenty of storage space. The living room is cozy, perfect for relaxing after a long day. But the kitchen is the star of the house - it's the largest room, with lots of counter space for cooking, and it's great for hosting dinners. You'll love it here."
+    },
+    {
+      "no": 11,
+      "question": "Listen to a student talking about his study. What course is the student going to take this year?",
+      "options": [
+        "Math",
+        "Computer",
+        "Science"
+      ],
+      "answer": "B",
+      "explain": "Hi, I'm Ben, and I want to share a bit about my studies. Last term, I took English, math, and science. They were all interesting, but math was a bit tough for me. I worked hard, though, and got good results in the end. This year, I'm really excited because I'm going to take a computer course. I've always wanted to learn more about technology, so I'm looking forward to it!"
+    },
+    {
+      "no": 12,
+      "question": "A girl is talking about a show she will attend. What will it end with?",
+      "options": [
+        "A dance performance",
+        "A big celebration",
+        "A surprise performance"
+      ],
+      "answer": "C",
+      "explain": "Hi, I'm Emma, and I'm super excited about a show I'm going to this weekend! It's happening on Saturday at 7 P.M. at the city theater. There will be different performances, like dancing and singing. I've heard the show is really fun, and I can't wait to see it. But the best part is that it will end with a surprise performance! I'm really curious to find out what it is!"
+    },
+    {
+      "no": 13,
+      "question": "A boy is talking about his cat. What does he feed the cat?",
+      "options": [
+        "Mice",
+        "Insects",
+        "Fish"
+      ],
+      "answer": "C",
+      "explain": "Hi, I'm Alex, and I want to tell you about my cat, Whiskers. He's really friendly and loves to play. Whiskers is a bit picky about food, though. He doesn't like eating mice or insects, which is funny for a cat. But he absolutely loves fish. Every time I give him some, he gets so excited! He also enjoys sleeping by the window and watching the birds outside. He's the best pet ever!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "title": "Listen to the opinions of four people about studying habits. Complete the sentences below.",
+    "stem": "",
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "options": [
+      "Prefers to study late at night.",
+      "Prefers to study at various places.",
+      "Prefers to study with music.",
+      "Prefers to study in a quiet place."
+    ],
+    "answers": [
+      "Prefers to study late at night.",
+      "Prefers to study at various places.",
+      "Prefers to study with music.",
+      "Prefers to study in a quiet place."
+    ],
+    "explain": [
+      "Speaker A: Surprisingly, I find that late-night hours work best for my studying. The quietness of the night really helps me concentrate. While others are winding down, I feel more alert and inspired. Those late hours give me a chance to dive deep into my work without interruptions, turning them into my most productive study sessions.",
+      "Speaker B: I've realized that my study environment has a significant impact on my productivity. Changing my study space has really helped me focus better. The library offers a quiet atmosphere that's perfect for serious work, but sometimes, a lively cafe is just what I need for a refreshing change. Being outdoors in a park with fresh air can also clear my mind. Each place keeps my study sessions interesting and engaging.",
+      "Speaker C: I've discovered that the right soundtrack can enhance my study sessions significantly. When I study, having some background music makes a noticeable difference. I tend to choose soft melodies or instrumental tracks that won't distract me. The right music helps maintain my energy and makes long study sessions feel less tedious. It creates a motivating atmosphere that encourages me to keep pushing through.",
+      "Speaker D: Finding the right space to study is crucial for effective learning. I usually end up in a quiet room at home or a secluded corner in the library. It's incredible how much I can absorb without distractions. This kind of environment really allows me to think deeply and connect with the material I'm learning."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "Listen to two people discussing art. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "Art is only suitable for the privileged few.",
+        "answer": "Man"
+      },
+      {
+        "text": "The government should invest more in arts.",
+        "answer": "Woman"
+      },
+      {
+        "text": "Children should be exposed to art early.",
+        "answer": "Both"
+      },
+      {
+        "text": "In the future, art will become more accessible.",
+        "answer": "Woman"
+      }
+    ],
+    "explain": "Man: What magazine are you reading?\nWoman: I'm reading about art.\nMan: That sounds interesting. I think art is only for the wealthy. Poor people don't have the opportunity or time to enjoy art.\nWoman: Actually, art isn't limited to any one group. If we have an interest, we can access art because it's all around us.\nMan: I wish that when I was a child and in school, I had more exposure to the arts. I'm really glad that now, when my child goes to school, they can have more exposure to the arts.\nWoman: Yes, that's great news. I hope that the authorities and the government will invest more in the arts and make them accessible to everyone, especially by adding more art classes in schools so that students can be exposed to art early on.\nMan: I agree. Children should be introduced to the arts early so they can develop their own sense of beauty sooner.\nWoman: I think with the development of technology, where we just scroll a bit and see art videos and images flooding social media, art is becoming more accessible than ever.\nMan: Really? Let's wait and see how it unfolds."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a lecturer talking about two great writers in history, William Shakespeare and Louis Michael.",
+      "questions": [
+        {
+          "question": "What was the lecturer's opinion about both authors' past work?",
+          "options": [
+            "They have both been overlooked by academics.",
+            "They make reference to each other's work.",
+            "One was less successful than the other."
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What did the lecturer say about both authors?",
+          "options": [
+            "Their reputation goes beyond their target audience.",
+            "They should have been more popular.",
+            "It is not always easy for the meanings to be identified."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Today, I'd like to talk about two of the most influential writers in history: William Shakespeare and Louis Michael. Both of these figures have left a lasting mark on literature, yet, interestingly, their contributions have often been overlooked by academics throughout various periods in history. Shakespeare, of course, is a household name, known for his plays and sonnets that explore the depths of human emotion and experience. However, there was a time when scholars dismissed his works as 'too common', underestimating their complexity. On the other hand, Louis Michael, whose works have reshaped modern storytelling, has yet to receive the recognition he truly deserves. His focus on social issues, mixed with poetic symbolism, is often underappreciated in academic circles.\nWhat these two writers have in common is that they both challenge readers to look beyond the surface. It is not always easy for the meanings in their works to be identified. With Shakespeare, the language can be dense, making it difficult to grasp the deeper themes. Louis Michael, in contrast, weaves intricate layers of metaphor and allegory into his writing, requiring careful thought and analysis. Yet, once these hidden meanings are uncovered, the richness of their works becomes undeniable."
+    },
+    {
+      "no": 17,
+      "title": "Listen to an educational expert talking about sport competitions in school.",
+      "questions": [
+        {
+          "question": "What is the expert's opinion about sport competitions?",
+          "options": [
+            "They provide schools with external investments.",
+            "They nurture potential sportsmen for the country.",
+            "They can cause harmful effects."
+          ],
+          "answer": "C"
+        },
+        {
+          "question": "What is the expert's advice for schools?",
+          "options": [
+            "Sports should be considered a mandatory subject.",
+            "Sports provide students with a balance in their lives.",
+            "Keep students focused on academic subjects."
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "Many people question whether sports are beneficial or harmful to children's development. This is not an easy question to answer. Sports are often understood as inherently competitive, which makes it debatable whether they are good or bad. However, when the competitive element is excluded, sports play a crucial role in children's development. They provide opportunities for socializing and learning essential life skills that are not typically taught in the classroom, such as teamwork, communication, and resilience. On the other hand, competitive sports can have negative effects. By this, I mean that constantly comparing one child to another to determine who is better or worse can be harmful. Many students thrive in neutral, active environments where cooperation is encouraged, rather than in competitive settings.\nIt is extremely important to recognize that sports are essential for children's development, serving as a counterbalance to the academic focus of classrooms. Schools should view sports not as a means of fostering competition, but as a way to promote cooperation, physical wellness, and holistic growth."
+    }
+  ]
+}

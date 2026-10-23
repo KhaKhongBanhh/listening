@@ -1,0 +1,273 @@
+{
+  "id": 14,
+  "title": "Đề 14",
+  "part1": [
+    {
+      "no": 1,
+      "question": "A teacher is talking to her students. Where are the students now?",
+      "options": [
+        "At the zoo",
+        "In a townhouse",
+        "In a library"
+      ],
+      "answer": "B",
+      "explain": "Teacher: Welcome, everyone! Today, instead of visiting the local zoo or studying quietly in a library, our class field trip brings us here to this historic 18th-century townhouse. As you look around, you can see how families lived centuries ago."
+    },
+    {
+      "no": 2,
+      "question": "A man is reading the news about a housing development plan. How many new houses are going to be built?",
+      "options": [
+        "2500",
+        "1500",
+        "2000"
+      ],
+      "answer": "C",
+      "explain": "Man: I was reading this article about the new regional housing project. At first, the developers considered building 1,500 units, and community groups even suggested 2,500. But according to the final approved plan, the city council agreed that exactly 2,000 new houses are going to be built."
+    },
+    {
+      "no": 3,
+      "question": "Two friends are talking with each other. What did they both buy?",
+      "options": [
+        "Clothes",
+        "Tea",
+        "Cakes"
+      ],
+      "answer": "A",
+      "explain": "Friend A: Did you enjoy your shopping trip today? I stopped by the tea shop and considered getting some cakes, but I spent all my money on a new jacket.\nFriend B: Me too! I didn't get any food or drinks either, but I picked up a couple of shirts. So it looks like we both ended up buying clothes!"
+    },
+    {
+      "no": 4,
+      "question": "Louis is calling his friend Standar. Where will Luis meet Standar?",
+      "options": [
+        "Outside the station",
+        "At the cafe",
+        "Near the ticket counter"
+      ],
+      "answer": "A",
+      "explain": "Louis: Hi Standar, it's Louis! My train just arrived. I was thinking of waiting at the cafe or standing near the ticket counter, but it's way too crowded inside. Let's meet outside the station by the main entrance instead."
+    },
+    {
+      "no": 5,
+      "question": "Tom is calling his mom. Who is visiting Tom this weekend?",
+      "options": [
+        "His mother and uncle",
+        "His sister and children",
+        "His mother and sister"
+      ],
+      "answer": "B",
+      "explain": "Tom: Hi Mom, just calling to see how you are! I know you and Uncle Bob couldn't make it down this weekend, but my sister and her children are coming over to visit me. We're planning to take the kids to the park and spend some quality family time together."
+    },
+    {
+      "no": 6,
+      "question": "A woman is talking about her plan for the holiday. What will she do during the holiday?",
+      "options": [
+        "Go for a bike ride",
+        "Go for a run",
+        "Go for a walk"
+      ],
+      "answer": "C",
+      "explain": "Woman: For this upcoming holiday, my friends suggested that we go for a long bike ride or even go for a run in the morning. But I've been feeling quite tired from work, so I just want something relaxing. I've decided to go for a peaceful walk in the countryside instead."
+    },
+    {
+      "no": 7,
+      "question": "A woman is discussing with her team. How many chairs does she need?",
+      "options": [
+        "12",
+        "15",
+        "20"
+      ],
+      "answer": "C",
+      "explain": "Woman: Let's finalize the setup for tomorrow's meeting. Originally, only 12 people confirmed, and then we thought 15 would attend. But several more colleagues from the branch office just registered, so we definitely need 20 chairs in total to seat everyone comfortably."
+    },
+    {
+      "no": 8,
+      "question": "Jane is calling her friend Martha. What time are they going to meet?",
+      "options": [
+        "4.00",
+        "5.30",
+        "6.00"
+      ],
+      "answer": "B",
+      "explain": "Jane: Hi Martha, it's Jane. About our plan to catch up today—we initially said 4.00, but I have a doctor's appointment running late. 6.00 is a bit too late for dinner, so could we meet at 5.30 instead? Let me know if that works for you!"
+    },
+    {
+      "no": 9,
+      "question": "A woman is going home after shopping. What did she buy?",
+      "options": [
+        "A dress",
+        "A blouse",
+        "A hat"
+      ],
+      "answer": "A",
+      "explain": "Woman: I had such a productive shopping trip! I was initially looking for a sun hat and tried on a lovely silk blouse, but neither really suited me. Then I spotted an elegant evening dress on sale, and it fit me perfectly, so I bought the dress."
+    },
+    {
+      "no": 10,
+      "question": "A woman is talking about her babysitter. How old is the babysitter?",
+      "options": [
+        "20",
+        "21",
+        "22"
+      ],
+      "answer": "B",
+      "explain": "Woman: We hired a new babysitter for the kids recently, and she's been fantastic. Many people think she is 20 because she looks quite young, and my neighbor thought she might be 22 since she's finishing college, but she actually just celebrated her 21st birthday last month."
+    },
+    {
+      "no": 11,
+      "question": "What is the main topic of the announcement?",
+      "options": [
+        "New library hours",
+        "School closure",
+        "Weather warning"
+      ],
+      "answer": "A",
+      "explain": "Announcer: Attention all library patrons. Starting next Monday, our branch will operate under updated opening times to better accommodate evening readers. Please check the notice board or our website for the new library hours schedule."
+    },
+    {
+      "no": 12,
+      "question": "A man is talking about his job. Where is he working now?",
+      "options": [
+        "At a university",
+        "In a big company",
+        "In a bank"
+      ],
+      "answer": "C",
+      "explain": "Man: After graduating, I taught finance at a university for a few years, and then I spent some time working in human resources for a big tech company. But recently, I accepted a position as a financial analyst in a bank, and I've been working there ever since."
+    },
+    {
+      "no": 13,
+      "question": "The man is talking about his key. Where did he find the key?",
+      "options": [
+        "In his car",
+        "In the front door",
+        "In the bedroom"
+      ],
+      "answer": "B",
+      "explain": "Man: I spent nearly an hour searching frantically all over the house for my front door key. I looked under the bed in my bedroom and checked all the pockets and seats in my car. But when I went back to the entrance, there it was—I had left it right in the lock of the front door!"
+    }
+  ],
+  "part2": {
+    "no": 14,
+    "speakers": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "title": "Four people are discussing their views on the topic above. Complete the sentences below.",
+    "stem": "",
+    "options": [
+      "Finished the visit quickly",
+      "Got lost during visit",
+      "Enjoyed the use of technology",
+      "Wants to visit again"
+    ],
+    "answers": [
+      "Finished the visit quickly",
+      "Got lost during visit",
+      "Enjoyed the use of technology",
+      "Wants to visit again"
+    ],
+    "explain": [
+      "Speaker A: The exhibition wasn't very large, so I walked through all the galleries in about half an hour. I finished the visit quickly and was able to catch an early train home.",
+      "Speaker B: The museum layout was quite confusing with poorly marked corridors. At one point, I couldn't find the exit and got lost during the visit for almost twenty minutes.",
+      "Speaker C: What impressed me most were the interactive touchscreen displays and the multimedia audio guide. I really enjoyed the use of technology throughout the exhibits.",
+      "Speaker D: There were so many fascinating artifacts that I didn't have enough time to see everything properly. I definitely want to visit again when I have a free afternoon."
+    ]
+  },
+  "part3": {
+    "no": 15,
+    "title": "A man and a woman are discussing beauty. Read the opinions below and decide whose opinion matches the statements, the man, the woman, or both the man and the woman. You can listen to the discussion twice.",
+    "statements": [
+      {
+        "text": "People share similar ideas about beauty",
+        "answer": "Man"
+      },
+      {
+        "text": "Ideas about beauty change over time",
+        "answer": "Woman"
+      },
+      {
+        "text": "Beauty can be found in unlikely places",
+        "answer": "Both"
+      },
+      {
+        "text": "Traditional ideas about beauty are going to change",
+        "answer": "Woman"
+      }
+    ],
+    "explain": "Man: When you look across different cultures, there are certain universal principles of balance and symmetry. I think people fundamentally share similar ideas about beauty.\nWoman: I disagree. If you look at history, our aesthetic standards constantly evolve. Ideas about beauty definitely change over time.\nMan: Well, regardless of standards, true beauty isn't just in conventional art or scenery—it can often be found in unlikely places, like an abandoned building or everyday objects.\nWoman: That is so true. Beauty is everywhere if you open your eyes to see it.\nWoman: Furthermore, with globalization and social media, I'm convinced that traditional ideas about beauty are going to change drastically in the coming years.\nMan: Perhaps, though some core human perceptions may remain constant."
+  },
+  "part4": [
+    {
+      "no": 16,
+      "title": "Listen to a man discussing goal setting and answer the questions below.",
+      "questions": [
+        {
+          "question": "What does the speaker say about short-term goals?",
+          "options": [
+            "It allows you to be more flexible",
+            "It creates pressure and limits creativity",
+            "It only apply to specific situations or certain types of people"
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What is the speaker's opinion about goal setting?",
+          "options": [
+            "It can lead to confusion and distraction",
+            "It can prevent you from making mistakes",
+            "It can bring about opportunities for individuals"
+          ],
+          "answer": "B"
+        }
+      ],
+      "altQuestions_version2": [
+        {
+          "question": "What does the speaker say is a key benefit of making plans?",
+          "options": [
+            "They make life more predictable.",
+            "They help you make decisions.",
+            "They reduce the need for communication."
+          ],
+          "answer": "B"
+        },
+        {
+          "question": "What does the speaker mention as a difficulty when planning?",
+          "options": [
+            "It discourages people from taking risks.",
+            "It requires you to set yourself certain limits.",
+            "It only works in professional situations."
+          ],
+          "answer": "B"
+        }
+      ],
+      "explain": "Speaker: When discussing short-term goals, many people mistakenly think they only apply to specific situations or certain types of people. Some believe these goals create pressure and limit creativity, but that view is misleading. In reality, short-term goals allow you to be more flexible as circumstances change. Furthermore, establishing clear goals provides a structured roadmap that can prevent you from making mistakes and keep you moving in the right direction."
+    },
+    {
+      "no": 17,
+      "title": "Listen to a reviewer talking about a book on the life of a famous scientist and answer the questions below.",
+      "questions": [
+        {
+          "question": "What does the reviewer say about the style of the book?",
+          "options": [
+            "It uses simple language to describe complex ideas",
+            "It focuses mainly on scientific data.",
+            "It is written mainly for academic readers."
+          ],
+          "answer": "A"
+        },
+        {
+          "question": "What does the reviewer say about the book compared to others?",
+          "options": [
+            "It presents completely new information.",
+            "It is more detailed than earlier biographies.",
+            "It is similar to the previous book about the scientist."
+          ],
+          "answer": "C"
+        }
+      ],
+      "explain": "Reviewer: Today I'm reviewing the new biography of one of history's greatest scientists. What stands out most about the author's writing style is that it uses simple language to describe complex ideas, making heavy scientific theories accessible to general readers without overwhelming them with dense technical jargon. However, readers hoping for groundbreaking new discoveries may feel slightly let down. Much of the narrative covers familiar ground, and in terms of scope and structure, it is remarkably similar to the previous book published about the scientist."
+    }
+  ]
+}

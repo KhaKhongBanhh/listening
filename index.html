@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aptis Listening - Luyện đề & Ôn tập</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="home">
+  <header class="topbar">
+    <div class="brand"><span class="dots">●●</span> AptisWeb <span class="brand-sub">Listening</span></div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1>Luyện đề Aptis Listening</h1>
+      <p>Mỗi đề gồm <b>17 câu</b> chia thành <b>4 part</b> · Thời gian <b id="durationText">40</b> phút</p>
+      <div class="structure">
+        <div><b>Part 1</b><span>Câu 1 – 13 · Trắc nghiệm 3 lựa chọn</span></div>
+        <div><b>Part 2</b><span>Câu 14 · Ghép thông tin 4 người nói</span></div>
+        <div><b>Part 3</b><span>Câu 15 · Man / Woman / Both</span></div>
+        <div><b>Part 4</b><span>Câu 16 – 17 · Độc thoại, 2 câu hỏi/bài</span></div>
+      </div>
+    </section>
+
+    <div id="fileWarning" class="warning hidden">
+      ⚠️ Bạn đang mở trực tiếp file <code>index.html</code> (file://) nên trình duyệt chặn đọc file <code>.json</code>.<br>
+      Hãy mở bằng <b>Live Server</b> trong VS Code (chuột phải index.html → <i>Open with Live Server</i>)
+      hoặc chạy lệnh <code>python -m http.server</code> trong thư mục dự án rồi vào <code>http://localhost:8000</code>.
+    </div>
+
+    <!-- 1. CHẾ ĐỘ ĐỀ TỔNG HỢP NGẪU NHIÊN -->
+    <section class="special-feature-section">
+      <div class="random-banner">
+        <div class="random-banner-content">
+          <div class="banner-badge">🎲 ĐỀ THI TỔNG HỢP MỚI</div>
+          <h2>Làm đề tổng hợp ngẫu nhiên</h2>
+          <p>
+            Hệ thống tự động tạo đề thi mới: trộn ngẫu nhiên các câu từ 1–13 của 15 đề, chọn ngẫu nhiên câu 14, 15, 16, 17 và <b>đảo vị trí các đáp án</b> (từ câu 1 đến 14). Đầy đủ file nghe từng câu!
+          </p>
+          <div class="banner-meta">
+            <span>⏱️ 40 phút</span>
+            <span>📝 17 câu (thang 25 điểm)</span>
+            <span id="randomResultText" class="meta-score">Chưa làm</span>
+          </div>
+        </div>
+        <div class="random-banner-action">
+          <a class="btn btn-random-start" href="exam.html?id=random">Bắt đầu làm đề tổng hợp ➔</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. CHUYÊN ĐỀ CÂU 16 & 17 (PART 4 - 60 CÂU TRẮC NGHIỆM) -->
+    <section class="part4-section">
+      <h2 class="section-title">Chuyên đề Part 4 (Câu 16 & 17 · 60 câu không cần audio)</h2>
+      <div class="part4-grid">
+        <!-- Card Ôn tập -->
+        <div class="special-card practice-card-box">
+          <div class="card-icon">📚</div>
+          <div class="card-tag">Chế độ Ôn tập</div>
+          <h3>Ôn các câu cuối</h3>
+          <p>
+            Làm lần lượt từng câu từ câu 1 đến 60. Sau khi chọn đáp án, hệ thống sẽ <b>kiểm tra đúng/sai ngay lập tức</b>, hiện transcript giải thích chi tiết rồi chuyển sang câu tiếp theo.
+          </p>
+          <div class="card-footer">
+            <span class="card-note">💡 Tự do luyện tập không giới hạn thời gian</span>
+            <a class="btn btn-practice" href="part4.html?mode=practice">Vào ôn tập ngay ➔</a>
+          </div>
+        </div>
+
+        <!-- Card Kiểm tra 15 phút -->
+        <div class="special-card test-card-box">
+          <div class="card-icon">⏱️</div>
+          <div class="card-tag">Chế độ Kiểm tra</div>
+          <h3>Kiểm tra các câu cuối</h3>
+          <p>
+            Hệ thống <b>trộn ngẫu nhiên 60 câu hỏi và đảo đáp án</b> của từng câu. Đếm ngược đúng <b>15 phút</b>. Nộp bài để xem điểm số, tỷ lệ % và bảng giải thích chi tiết.
+          </p>
+          <div class="card-footer">
+            <span id="part4TestResultText" class="card-note">Chưa làm</span>
+            <a class="btn btn-test" href="part4.html?mode=test">Vào làm bài kiểm tra ➔</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. DANH SÁCH CÁC ĐỀ TIÊU CHUẨN -->
+    <h2 class="section-title">Danh sách 15 đề tiêu chuẩn</h2>
+    <div id="examGrid" class="exam-grid"></div>
+  </main>
+
+  <script src="js/config.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>

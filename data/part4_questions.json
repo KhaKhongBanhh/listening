@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "examId": 1,
+    "examTitle": "Đề 1",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to an announcer talking about a newly released novel and answer the questions below.",
+    "question": "What does the announcer say about the new novel?",
+    "options": [
+      "It is different from his earlier works",
+      "It is romantic and soft",
+      "It is less famous than his earlier works"
+    ],
+    "answer": "A",
+    "explain": "Announcer: Good evening, everyone! Today, we're excited to talk about the latest novel by popular author James Parker. He is known for his softer, romantic stories like Whispers of the Heart, which have touched the hearts of many readers. However, his new novel, Shadow in the Night, is quite different.\nIn Shadow in the Night, Parker explores a thrilling world of suspense and mystery. He moves away from his gentle love stories to deliver an exciting plot filled with unexpected twists. The tension in this book is much higher, showing that he can write in different styles.\nWhile many readers are excited about this new direction, I believe it's important for Parker to pay attention to the critics' advice as he works on his next book. Their feedback can help him improve his writing and find the right balance between romance and thrill that fans appreciate. Stay tuned for more updates on this talented author!"
+  },
+  {
+    "id": 2,
+    "examId": 1,
+    "examTitle": "Đề 1",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to an announcer talking about a newly released novel and answer the questions below.",
+    "question": "What does the announcer say the writer should do in the future?",
+    "options": [
+      "The writer should continue to write this genre",
+      "The writer should go back to his original genre",
+      "He should listen to critics before writing his next work"
+    ],
+    "answer": "C",
+    "explain": "Announcer: Good evening, everyone! Today, we're excited to talk about the latest novel by popular author James Parker. He is known for his softer, romantic stories like Whispers of the Heart, which have touched the hearts of many readers. However, his new novel, Shadow in the Night, is quite different.\nIn Shadow in the Night, Parker explores a thrilling world of suspense and mystery. He moves away from his gentle love stories to deliver an exciting plot filled with unexpected twists. The tension in this book is much higher, showing that he can write in different styles.\nWhile many readers are excited about this new direction, I believe it's important for Parker to pay attention to the critics' advice as he works on his next book. Their feedback can help him improve his writing and find the right balance between romance and thrill that fans appreciate. Stay tuned for more updates on this talented author!"
+  },
+  {
+    "id": 3,
+    "examId": 1,
+    "examTitle": "Đề 1",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to an expert talking about professionalism and answer the questions below.",
+    "question": "What does the expert say being professional is all about?",
+    "options": [
+      "To maintain positive attitude",
+      "To create good working environment",
+      "To make good impressions"
+    ],
+    "answer": "A",
+    "explain": "Good morning, everyone! Today, I want to talk about professionalism and how it has changed over the years. To be seen as a professional, it's essential to be friendly, open-minded, and willing to help others. An optimistic attitude not only makes a good impression but also creates a better work environment.\nAdditionally, with the rapid changes in technology and globalization, our definition of professionalism is no longer the same as it was 40 years ago. In the past, being professional often meant simply dressing well and following strict rules. Now, it includes being adaptable, understanding different cultures, and using technology effectively.\nAs we continue to evolve in our careers, we must embrace these changes and redefine what it means to be a professional. By doing so, we can better meet the needs of our diverse workplaces and succeed in today's fast-paced world. Thank you!"
+  },
+  {
+    "id": 4,
+    "examId": 1,
+    "examTitle": "Đề 1",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to an expert talking about professionalism and answer the questions below.",
+    "question": "What does the expert say about the definition of professionalism?",
+    "options": [
+      "It is the same as 40 years ago",
+      "Our definition of it is changing",
+      "It will not change anymore"
+    ],
+    "answer": "B",
+    "explain": "Good morning, everyone! Today, I want to talk about professionalism and how it has changed over the years. To be seen as a professional, it's essential to be friendly, open-minded, and willing to help others. An optimistic attitude not only makes a good impression but also creates a better work environment.\nAdditionally, with the rapid changes in technology and globalization, our definition of professionalism is no longer the same as it was 40 years ago. In the past, being professional often meant simply dressing well and following strict rules. Now, it includes being adaptable, understanding different cultures, and using technology effectively.\nAs we continue to evolve in our careers, we must embrace these changes and redefine what it means to be a professional. By doing so, we can better meet the needs of our diverse workplaces and succeed in today's fast-paced world. Thank you!"
+  },
+  {
+    "id": 5,
+    "examId": 2,
+    "examTitle": "Đề 2",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a writer talking about her experience in writing and choose the correct answer.",
+    "question": "What does the writer believe helps her the most in her writing process?",
+    "options": [
+      "Writing every day for 15-20 minutes",
+      "Create dedicated periods for writing",
+      "Finding a quiet space to work"
+    ],
+    "answer": "B",
+    "explain": "Hi everyone! I'd like to share my experience with writer's block during the process of writing my new bestseller. Many people think that to write well, you need to sit down every day for 15 to 20 minutes or find a quiet space. While those strategies work for some, I've found that establishing specific time slots for writing that truly fit my style is what helps me the most.\nHowever, I did face significant writer's block at one point, and looking back, I regret not reaching out for guidance from others. I thought I could handle everything on my own, but sometimes it's vital to get an outside perspective. Talking to fellow writers and mentors could have helped me overcome that block much faster. Now I understand that collaboration and sharing ideas can inspire creativity. So, if you ever find yourself stuck, don't hesitate to reach out to others!"
+  },
+  {
+    "id": 6,
+    "examId": 2,
+    "examTitle": "Đề 2",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a writer talking about her experience in writing and choose the correct answer.",
+    "question": "What does the writer regret doing during her experience with writer's block?",
+    "options": [
+      "Refuse to seek advice of others",
+      "Ignoring feedback from editors",
+      "Writing without a plan"
+    ],
+    "answer": "A",
+    "explain": "Hi everyone! I'd like to share my experience with writer's block during the process of writing my new bestseller. Many people think that to write well, you need to sit down every day for 15 to 20 minutes or find a quiet space. While those strategies work for some, I've found that establishing specific time slots for writing that truly fit my style is what helps me the most.\nHowever, I did face significant writer's block at one point, and looking back, I regret not reaching out for guidance from others. I thought I could handle everything on my own, but sometimes it's vital to get an outside perspective. Talking to fellow writers and mentors could have helped me overcome that block much faster. Now I understand that collaboration and sharing ideas can inspire creativity. So, if you ever find yourself stuck, don't hesitate to reach out to others!"
+  },
+  {
+    "id": 7,
+    "examId": 2,
+    "examTitle": "Đề 2",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "The radio is talking about a musician's career and latest albums. Listen and choose the correct answer.",
+    "question": "What has the musician decided regarding his singing career?",
+    "options": [
+      "He will retire from singing professionally",
+      "He will make a comeback after a long break",
+      "He will inform fans about new albums"
+    ],
+    "answer": "A",
+    "explain": "Radio MC: Good afternoon, everyone! Today, we're diving into the life of a beloved musician who has decided to retire from singing professionally. Unlike in the past, where he would inform his fans and then make a comeback, this time he's serious about stepping away for good.\nHis talent has always shone through, and many believe he could have achieved even greater success with his recent albums. However, the long break he took between projects made it difficult for him to regain his previous momentum. Fans were excited to see him return, but the gap left some wondering if he could still capture the magic he once had.\nAs he prepares for this new chapter in his life, we can only reflect on the incredible music he's given us over the years. He leaves behind a rich legacy that will inspire future generations of artists. Stay tuned for more updates on this iconic musician!"
+  },
+  {
+    "id": 8,
+    "examId": 2,
+    "examTitle": "Đề 2",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "The radio is talking about a musician's career and latest albums. Listen and choose the correct answer.",
+    "question": "What could the musician have achieved with his recent albums?",
+    "options": [
+      "He could have been more successful",
+      "He could have inspired future generations in general.",
+      "He could have gotten a bigger fan base."
+    ],
+    "answer": "A",
+    "explain": "Radio MC: Good afternoon, everyone! Today, we're diving into the life of a beloved musician who has decided to retire from singing professionally. Unlike in the past, where he would inform his fans and then make a comeback, this time he's serious about stepping away for good.\nHis talent has always shone through, and many believe he could have achieved even greater success with his recent albums. However, the long break he took between projects made it difficult for him to regain his previous momentum. Fans were excited to see him return, but the gap left some wondering if he could still capture the magic he once had.\nAs he prepares for this new chapter in his life, we can only reflect on the incredible music he's given us over the years. He leaves behind a rich legacy that will inspire future generations of artists. Stay tuned for more updates on this iconic musician!"
+  },
+  {
+    "id": 9,
+    "examId": 3,
+    "examTitle": "Đề 3",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to an office worker talking about working from home and answer the questions below.",
+    "question": "What does she say about working at home?",
+    "options": [
+      "There are no distractions",
+      "Not as good as expected",
+      "Video calls are superior to face-to-face conversation"
+    ],
+    "answer": "B",
+    "explain": "Working from home has its pros and cons, and I have mixed feelings about it. On one hand, I find that I work effectively without the distractions of my colleagues chatting. However, later, I got distracted by other things around the house such as the dirty laundry or the unwashed dishes. I can focus on my tasks and complete them much faster. It's nice to set my own schedule and take breaks when I want. However, working from home is not as good as I expected. I sometimes feel lonely without the social interaction from the office. Video calls are helpful, but they can't replace face-to-face conversations.\nYou don't need a big home office to be productive; a small corner of your room can work just fine. Still, it's important to stay self-motivated, which can be challenging at times. After all, how well you work from home really depends on your situation and personality. Some people thrive in this environment, while others struggle. Overall, I am learning to balance my work and personal life better as I adjust to this new way of working."
+  },
+  {
+    "id": 10,
+    "examId": 3,
+    "examTitle": "Đề 3",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to an office worker talking about working from home and answer the questions below.",
+    "question": "According to the speaker, working from home:",
+    "options": [
+      "Needs a big home office",
+      "Does not require self-motivation",
+      "Depends on your situation and personality"
+    ],
+    "answer": "C",
+    "explain": "Working from home has its pros and cons, and I have mixed feelings about it. On one hand, I find that I work effectively without the distractions of my colleagues chatting. However, later, I got distracted by other things around the house such as the dirty laundry or the unwashed dishes. I can focus on my tasks and complete them much faster. It's nice to set my own schedule and take breaks when I want. However, working from home is not as good as I expected. I sometimes feel lonely without the social interaction from the office. Video calls are helpful, but they can't replace face-to-face conversations.\nYou don't need a big home office to be productive; a small corner of your room can work just fine. Still, it's important to stay self-motivated, which can be challenging at times. After all, how well you work from home really depends on your situation and personality. Some people thrive in this environment, while others struggle. Overall, I am learning to balance my work and personal life better as I adjust to this new way of working."
+  },
+  {
+    "id": 11,
+    "examId": 3,
+    "examTitle": "Đề 3",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to an expert talking about the importance of sleep and answer the questions below.",
+    "question": "The most important thing to help you sleep well is:",
+    "options": [
+      "Blocking noise and light is the key",
+      "Beds are best for sleeping",
+      "Resting sufficiently is necessary"
+    ],
+    "answer": "A",
+    "explain": "Sleep is very important for our health, but there are many ideas about it that are not entirely true. Many people say you should sleep at fixed hours to get enough rest, but that isn't always necessary according to science. Our bodies can adjust to different sleep schedules so it really depends on the individual. Another common belief is that you should always sleep on a bed instead of a hard floor, but this is questionable. What everyone agrees on, and what studies show, is that blocking out light and noise can help improve sleep quality. Darkness helps our body produce melatonin which is the hormone that makes us feel sleepy while silence allows us to rest better.\nSome say that sleep is getting worse for people today, but there is no solid proof to support this claim. Critics often point fingers at the younger generation for their unhealthy sleep patterns, but this is sometimes unfair. What we can agree on is that the media tends to overemphasize the subject, making it seem more serious than it really is. In the end, finding what works best for you is key to getting a good night's sleep."
+  },
+  {
+    "id": 12,
+    "examId": 3,
+    "examTitle": "Đề 3",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to an expert talking about the importance of sleep and answer the questions below.",
+    "question": "According to the expert, what is the public attitude towards sleeping?",
+    "options": [
+      "The media overemphasize the subject",
+      "The young generation tends to have unhealthy sleeping habits",
+      "Sleeping quality has deteriorated over time"
+    ],
+    "answer": "A",
+    "explain": "Sleep is very important for our health, but there are many ideas about it that are not entirely true. Many people say you should sleep at fixed hours to get enough rest, but that isn't always necessary according to science. Our bodies can adjust to different sleep schedules so it really depends on the individual. Another common belief is that you should always sleep on a bed instead of a hard floor, but this is questionable. What everyone agrees on, and what studies show, is that blocking out light and noise can help improve sleep quality. Darkness helps our body produce melatonin which is the hormone that makes us feel sleepy while silence allows us to rest better.\nSome say that sleep is getting worse for people today, but there is no solid proof to support this claim. Critics often point fingers at the younger generation for their unhealthy sleep patterns, but this is sometimes unfair. What we can agree on is that the media tends to overemphasize the subject, making it seem more serious than it really is. In the end, finding what works best for you is key to getting a good night's sleep."
+  },
+  {
+    "id": 13,
+    "examId": 4,
+    "examTitle": "Đề 4",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a critic talking about a newly broadcast TV series.",
+    "question": "What happened to the TV series?",
+    "options": [
+      "It didn't receive enough investment in the early stage.",
+      "It was overlooked by critics.",
+      "It caught the audience's attention from the start."
+    ],
+    "answer": "C",
+    "explain": "A famous TV series called Mystery City was recently broadcast, and it caught the audience's attention from the start. The first episode was filled with suspense and surprising twists that left viewers eager for more. The engaging storyline and strong characters made it easy for people to connect with the show, which quickly became a topic of conversation. Social media buzzed with reactions and theories, making it a true phenomenon.\nBeyond just entertaining, Mystery City has also helped its network reach new customers. The show attracted a diverse audience, including younger viewers who might not have watched traditional TV before. This is important for marketing because it shows how a single series can expand a network's reach and boost subscriptions. With clever promotions and partnerships, the series brought in new fans who may now explore other shows on the platform.\nOverall, Mystery City is not just a popular series; it's a powerful tool for building a community around a brand. The combination of captivating storytelling and strategic marketing has made it a success that other networks will likely try to replicate. As the series continues, it will be interesting to see how it evolves and what new customers it brings in!"
+  },
+  {
+    "id": 14,
+    "examId": 4,
+    "examTitle": "Đề 4",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a critic talking about a newly broadcast TV series.",
+    "question": "According to the expert, what is the series' potential?",
+    "options": [
+      "New seasons will be produced due to great demand.",
+      "It inspires young filmmakers to follow a new movie-making style.",
+      "It can help reach new customers."
+    ],
+    "answer": "C",
+    "explain": "A famous TV series called Mystery City was recently broadcast, and it caught the audience's attention from the start. The first episode was filled with suspense and surprising twists that left viewers eager for more. The engaging storyline and strong characters made it easy for people to connect with the show, which quickly became a topic of conversation. Social media buzzed with reactions and theories, making it a true phenomenon.\nBeyond just entertaining, Mystery City has also helped its network reach new customers. The show attracted a diverse audience, including younger viewers who might not have watched traditional TV before. This is important for marketing because it shows how a single series can expand a network's reach and boost subscriptions. With clever promotions and partnerships, the series brought in new fans who may now explore other shows on the platform.\nOverall, Mystery City is not just a popular series; it's a powerful tool for building a community around a brand. The combination of captivating storytelling and strategic marketing has made it a success that other networks will likely try to replicate. As the series continues, it will be interesting to see how it evolves and what new customers it brings in!"
+  },
+  {
+    "id": 15,
+    "examId": 4,
+    "examTitle": "Đề 4",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to an advertising expert talking about the advertising industry.",
+    "question": "What does the expert say about the negative side of advertising?",
+    "options": [
+      "Series are damaged by overexposure.",
+      "Advertisements might sometimes be repetitive, which is annoying.",
+      "Advertising costs the same amount of money to produce a movie."
+    ],
+    "answer": "A",
+    "explain": "Advertising in sports has become a double-edged sword. Many fans grow tired of seeing the same commercials repeatedly during games and events. This constant bombardment can lead to frustration, causing viewers to feel disconnected from the sport they love. When ads overshadow the actual games, it detracts from the excitement and intensity that fans crave, making them less enthusiastic about tuning in. Therefore, many TV series have been damaged by overexposure.\nIn terms of sports, overexposure can generate negative publicity for the sport itself. Fans may start to associate their favorite teams and players with annoying advertisements rather than the thrilling action on the field. This shift in perception can affect attendance at games and viewership on TV, as people become disillusioned with the sport's focus on commercial interest. As a result, teams and leagues must carefully consider how much advertising they allow, ensuring it doesn't take away from the game experience.\nIn the end, while advertising can bring in revenue and promote the sport, it's crucial to find a balance. Too much exposure can lead to viewer fatigue and diminish the overall appeal of the series. By prioritizing the game itself and minimizing intrusive ads, sports organizations can maintain fan engagement and protect their brand image."
+  },
+  {
+    "id": 16,
+    "examId": 4,
+    "examTitle": "Đề 4",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to an advertising expert talking about the advertising industry.",
+    "question": "In what way can advertising affect sports?",
+    "options": [
+      "They help to attract more fans.",
+      "They can boost ticket sales and sales of sports-related items.",
+      "They can generate negative publicity for the sport."
+    ],
+    "answer": "C",
+    "explain": "Advertising in sports has become a double-edged sword. Many fans grow tired of seeing the same commercials repeatedly during games and events. This constant bombardment can lead to frustration, causing viewers to feel disconnected from the sport they love. When ads overshadow the actual games, it detracts from the excitement and intensity that fans crave, making them less enthusiastic about tuning in. Therefore, many TV series have been damaged by overexposure.\nIn terms of sports, overexposure can generate negative publicity for the sport itself. Fans may start to associate their favorite teams and players with annoying advertisements rather than the thrilling action on the field. This shift in perception can affect attendance at games and viewership on TV, as people become disillusioned with the sport's focus on commercial interest. As a result, teams and leagues must carefully consider how much advertising they allow, ensuring it doesn't take away from the game experience.\nIn the end, while advertising can bring in revenue and promote the sport, it's crucial to find a balance. Too much exposure can lead to viewer fatigue and diminish the overall appeal of the series. By prioritizing the game itself and minimizing intrusive ads, sports organizations can maintain fan engagement and protect their brand image."
+  },
+  {
+    "id": 17,
+    "examId": 5,
+    "examTitle": "Đề 5",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a TV producer sharing his thoughts on the latest scripts for a new show. Choose the correct answers.",
+    "question": "What does the producer think about the dialogues in the new show?",
+    "options": [
+      "The characters' backgrounds are not adequately explored.",
+      "They seem unrealistic.",
+      "They reflect real-life conversations well."
+    ],
+    "answer": "A",
+    "explain": "Welcome back to our behind-the-scenes series update. Overall, I'm really excited about the core premise of the new show. But there are a few critical adjustments we need to make right off the bat.\nFirst, the dialogue: while the overall plot beats are strong, the way the characters speak lacks the necessary authenticity. We need to make sure every line of conversation does more than just move the story forward - it should reveal their personalities and lived experiences. That's why the biggest gap right now is that we haven't adequately explored the characters' backstories through their dialogue. Their lines need to show who they are, not just what they're doing in the moment.\nSecond, the industry-wide production pressure is hitting us hard right now. Market demand and tight broadcast deadlines are pushing us to rush through the script development cycle. When you cut corners on editing and refinement, the final quality of the project takes a hit. We're trading depth for speed, and that's a dangerous tradeoff right now. We need to find a way to balance fast turnaround with thoughtful, intentional writing."
+  },
+  {
+    "id": 18,
+    "examId": 5,
+    "examTitle": "Đề 5",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a TV producer sharing his thoughts on the latest scripts for a new show. Choose the correct answers.",
+    "question": "How is the current industry demand affecting the quality of script production?",
+    "options": [
+      "It is allowing for more thorough script development.",
+      "It is leading to more innovative ideas.",
+      "It is negatively influencing script production."
+    ],
+    "answer": "C",
+    "explain": "Welcome back to our behind-the-scenes series update. Overall, I'm really excited about the core premise of the new show. But there are a few critical adjustments we need to make right off the bat.\nFirst, the dialogue: while the overall plot beats are strong, the way the characters speak lacks the necessary authenticity. We need to make sure every line of conversation does more than just move the story forward - it should reveal their personalities and lived experiences. That's why the biggest gap right now is that we haven't adequately explored the characters' backstories through their dialogue. Their lines need to show who they are, not just what they're doing in the moment.\nSecond, the industry-wide production pressure is hitting us hard right now. Market demand and tight broadcast deadlines are pushing us to rush through the script development cycle. When you cut corners on editing and refinement, the final quality of the project takes a hit. We're trading depth for speed, and that's a dangerous tradeoff right now. We need to find a way to balance fast turnaround with thoughtful, intentional writing."
+  },
+  {
+    "id": 19,
+    "examId": 5,
+    "examTitle": "Đề 5",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to a critic giving opinions about a restaurant.",
+    "question": "What are the critic's opinions about the restaurant?",
+    "options": [
+      "The food is not fresh.",
+      "The service is not good.",
+      "The chef lacks experience."
+    ],
+    "answer": "B",
+    "explain": "As someone who's reviewed dining experiences for years, I was looking forward to my visit to La Bella Bistro. The location and ambiance are certainly inviting; however, my overall experience left much to be desired. While the food itself was decent, the real issue lies with the service. From the moment I arrived, it was clear that the staff were either overwhelmed or under-trained. I had to wait far too long for basic requests, and when I did finally receive attention, it was rushed and impersonal. This level of service really detracts from what should be a pleasant evening out.\nNow, in an age where online food delivery has become so convenient, restaurants need to focus on what sets them apart. What can compete with the ease of ordering from home is the feeling of being truly valued and welcomed. Diners aren't just looking for good food; they want an experience. A warm greeting, attentive service, and the sense that their presence matters - these are the things that make customers want to return. Unfortunately, at La Bella Bistro, that element was noticeably lacking, and it's something they need to address if they hope to stand out in today's competitive market."
+  },
+  {
+    "id": 20,
+    "examId": 5,
+    "examTitle": "Đề 5",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to a critic giving opinions about a restaurant.",
+    "question": "What can compete with online food delivery?",
+    "options": [
+      "Organic ingredients",
+      "Providing a ready-made pack for customers",
+      "Customers feel valued and welcome"
+    ],
+    "answer": "C",
+    "explain": "As someone who's reviewed dining experiences for years, I was looking forward to my visit to La Bella Bistro. The location and ambiance are certainly inviting; however, my overall experience left much to be desired. While the food itself was decent, the real issue lies with the service. From the moment I arrived, it was clear that the staff were either overwhelmed or under-trained. I had to wait far too long for basic requests, and when I did finally receive attention, it was rushed and impersonal. This level of service really detracts from what should be a pleasant evening out.\nNow, in an age where online food delivery has become so convenient, restaurants need to focus on what sets them apart. What can compete with the ease of ordering from home is the feeling of being truly valued and welcomed. Diners aren't just looking for good food; they want an experience. A warm greeting, attentive service, and the sense that their presence matters - these are the things that make customers want to return. Unfortunately, at La Bella Bistro, that element was noticeably lacking, and it's something they need to address if they hope to stand out in today's competitive market."
+  },
+  {
+    "id": 21,
+    "examId": 6,
+    "examTitle": "Đề 6",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a lecturer talking about two great writers in history, William Shakespeare and Louis Michael.",
+    "question": "What was the lecturer's opinion about both authors' past work?",
+    "options": [
+      "They have both been overlooked by academics.",
+      "They make reference to each other's work.",
+      "One was less successful than the other."
+    ],
+    "answer": "A",
+    "explain": "Today, I'd like to talk about two of the most influential writers in history: William Shakespeare and Louis Michael. Both of these figures have left a lasting mark on literature, yet, interestingly, their contributions have often been overlooked by academics throughout various periods in history. Shakespeare, of course, is a household name, known for his plays and sonnets that explore the depths of human emotion and experience. However, there was a time when scholars dismissed his works as 'too common', underestimating their complexity. On the other hand, Louis Michael, whose works have reshaped modern storytelling, has yet to receive the recognition he truly deserves. His focus on social issues, mixed with poetic symbolism, is often underappreciated in academic circles.\nWhat these two writers have in common is that they both challenge readers to look beyond the surface. It is not always easy for the meanings in their works to be identified. With Shakespeare, the language can be dense, making it difficult to grasp the deeper themes. Louis Michael, in contrast, weaves intricate layers of metaphor and allegory into his writing, requiring careful thought and analysis. Yet, once these hidden meanings are uncovered, the richness of their works becomes undeniable."
+  },
+  {
+    "id": 22,
+    "examId": 6,
+    "examTitle": "Đề 6",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a lecturer talking about two great writers in history, William Shakespeare and Louis Michael.",
+    "question": "What did the lecturer say about both authors?",
+    "options": [
+      "Their reputation goes beyond their target audience.",
+      "They should have been more popular.",
+      "It is not always easy for the meanings to be identified."
+    ],
+    "answer": "C",
+    "explain": "Today, I'd like to talk about two of the most influential writers in history: William Shakespeare and Louis Michael. Both of these figures have left a lasting mark on literature, yet, interestingly, their contributions have often been overlooked by academics throughout various periods in history. Shakespeare, of course, is a household name, known for his plays and sonnets that explore the depths of human emotion and experience. However, there was a time when scholars dismissed his works as 'too common', underestimating their complexity. On the other hand, Louis Michael, whose works have reshaped modern storytelling, has yet to receive the recognition he truly deserves. His focus on social issues, mixed with poetic symbolism, is often underappreciated in academic circles.\nWhat these two writers have in common is that they both challenge readers to look beyond the surface. It is not always easy for the meanings in their works to be identified. With Shakespeare, the language can be dense, making it difficult to grasp the deeper themes. Louis Michael, in contrast, weaves intricate layers of metaphor and allegory into his writing, requiring careful thought and analysis. Yet, once these hidden meanings are uncovered, the richness of their works becomes undeniable."
+  },
+  {
+    "id": 23,
+    "examId": 6,
+    "examTitle": "Đề 6",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to an educational expert talking about sport competitions in school.",
+    "question": "What is the expert's opinion about sport competitions?",
+    "options": [
+      "They provide schools with external investments.",
+      "They nurture potential sportsmen for the country.",
+      "They can cause harmful effects."
+    ],
+    "answer": "C",
+    "explain": "Many people question whether sports are beneficial or harmful to children's development. This is not an easy question to answer. Sports are often understood as inherently competitive, which makes it debatable whether they are good or bad. However, when the competitive element is excluded, sports play a crucial role in children's development. They provide opportunities for socializing and learning essential life skills that are not typically taught in the classroom, such as teamwork, communication, and resilience. On the other hand, competitive sports can have negative effects. By this, I mean that constantly comparing one child to another to determine who is better or worse can be harmful. Many students thrive in neutral, active environments where cooperation is encouraged, rather than in competitive settings.\nIt is extremely important to recognize that sports are essential for children's development, serving as a counterbalance to the academic focus of classrooms. Schools should view sports not as a means of fostering competition, but as a way to promote cooperation, physical wellness, and holistic growth."
+  },
+  {
+    "id": 24,
+    "examId": 6,
+    "examTitle": "Đề 6",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to an educational expert talking about sport competitions in school.",
+    "question": "What is the expert's advice for schools?",
+    "options": [
+      "Sports should be considered a mandatory subject.",
+      "Sports provide students with a balance in their lives.",
+      "Keep students focused on academic subjects."
+    ],
+    "answer": "B",
+    "explain": "Many people question whether sports are beneficial or harmful to children's development. This is not an easy question to answer. Sports are often understood as inherently competitive, which makes it debatable whether they are good or bad. However, when the competitive element is excluded, sports play a crucial role in children's development. They provide opportunities for socializing and learning essential life skills that are not typically taught in the classroom, such as teamwork, communication, and resilience. On the other hand, competitive sports can have negative effects. By this, I mean that constantly comparing one child to another to determine who is better or worse can be harmful. Many students thrive in neutral, active environments where cooperation is encouraged, rather than in competitive settings.\nIt is extremely important to recognize that sports are essential for children's development, serving as a counterbalance to the academic focus of classrooms. Schools should view sports not as a means of fostering competition, but as a way to promote cooperation, physical wellness, and holistic growth."
+  },
+  {
+    "id": 25,
+    "examId": 7,
+    "examTitle": "Đề 7",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "A radio MC is talking about research on happiness. Choose the correct answers.",
+    "question": "What does the radio MC say about how the research on happiness has been covered by the media?",
+    "options": [
+      "It has been accurately reported by the media.",
+      "It has not been accurately reported by the media.",
+      "It has been ignored completely by the media."
+    ],
+    "answer": "B",
+    "explain": "Radio MC: Good morning, listeners! Today, we're diving into a recent research study on happiness that has sparked quite a bit of discussion. Unfortunately, it seems that the media has focused more on sensational headlines rather than accurately reporting the core findings of the research. As a result, many people are left with a distorted understanding of what truly contributes to happiness.\nWhile numerous studies have attempted to uncover the secrets to a happy life, it's important to recognize that there may never be a conclusive answer. Happiness is a complex and personal experience, influenced by a variety of factors unique to each individual.\nInstead of seeking a one-size-fits-all solution, we should focus on understanding our own needs and values. Remember, happiness is not a destination but a journey, and it's crucial to approach it with an open mind. Stay tuned for more insights and discussions on this fascinating topic."
+  },
+  {
+    "id": 26,
+    "examId": 7,
+    "examTitle": "Đề 7",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "A radio MC is talking about research on happiness. Choose the correct answers.",
+    "question": "According to the radio MC, what is unlikely regarding the research on happiness?",
+    "options": [
+      "To find personal happiness",
+      "To find a conclusive answer",
+      "To discuss happiness in the media"
+    ],
+    "answer": "B",
+    "explain": "Radio MC: Good morning, listeners! Today, we're diving into a recent research study on happiness that has sparked quite a bit of discussion. Unfortunately, it seems that the media has focused more on sensational headlines rather than accurately reporting the core findings of the research. As a result, many people are left with a distorted understanding of what truly contributes to happiness.\nWhile numerous studies have attempted to uncover the secrets to a happy life, it's important to recognize that there may never be a conclusive answer. Happiness is a complex and personal experience, influenced by a variety of factors unique to each individual.\nInstead of seeking a one-size-fits-all solution, we should focus on understanding our own needs and values. Remember, happiness is not a destination but a journey, and it's crucial to approach it with an open mind. Stay tuned for more insights and discussions on this fascinating topic."
+  },
+  {
+    "id": 27,
+    "examId": 7,
+    "examTitle": "Đề 7",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to an advertising expert talking about the advertising industry.",
+    "question": "What does the expert say about advertising?",
+    "options": [
+      "It helps to reach new customers.",
+      "Advertisements might sometimes be repetitive, which is annoying.",
+      "Advertising costs the same amount of money as producing a movie."
+    ],
+    "answer": "A",
+    "explain": "The once-every-four-years Champions League is back this year, and it's creating a wave of excitement among sports fans. This year promises to be more thrilling than ever, especially with a rising star defeating one of the top three teams from last year to advance to the knockout stage. As interest grows among sports fans, advertising plays a crucial role in maintaining the game's popularity.\nInnovative advertising strategies help brands expand their customer base to other countries, increasing their global reach. However, not all commercial advertising activities are beneficial for sports fans. While advertisements may boost the game's visibility and attract new audiences, they can sometimes detract from the viewing experience, with interruptions or overly commercialized content. It's important to strike a balance between promoting the sport and maintaining its integrity for true fans."
+  },
+  {
+    "id": 28,
+    "examId": 7,
+    "examTitle": "Đề 7",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to an advertising expert talking about the advertising industry.",
+    "question": "In what way can advertising affect sports?",
+    "options": [
+      "They help to attract more fans.",
+      "They can boost ticket sales and sales of sports-related items.",
+      "They are not always good for sports fans."
+    ],
+    "answer": "C",
+    "explain": "The once-every-four-years Champions League is back this year, and it's creating a wave of excitement among sports fans. This year promises to be more thrilling than ever, especially with a rising star defeating one of the top three teams from last year to advance to the knockout stage. As interest grows among sports fans, advertising plays a crucial role in maintaining the game's popularity.\nInnovative advertising strategies help brands expand their customer base to other countries, increasing their global reach. However, not all commercial advertising activities are beneficial for sports fans. While advertisements may boost the game's visibility and attract new audiences, they can sometimes detract from the viewing experience, with interruptions or overly commercialized content. It's important to strike a balance between promoting the sport and maintaining its integrity for true fans."
+  },
+  {
+    "id": 29,
+    "examId": 8,
+    "examTitle": "Đề 8",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a city planner talking at a press conference about a Regional Development Plan and answer the questions below.",
+    "question": "What is one of the main criticisms of the Regional Development Plan?",
+    "options": [
+      "It doesn't provide enough alternatives to driving.",
+      "It places too much emphasis on public transportation.",
+      "It is too expensive to implement the plan."
+    ],
+    "answer": "A",
+    "explain": "Ladies and gentlemen of the press, thank you for joining us today to discuss our Regional Development Plan. As we move forward with this ambitious project, I'd like to address some of the concerns that have been raised.\nNow, I've heard whispers about our plan being too expensive or placing excessive emphasis on public transportation. Let me assure you, these are not accurate representations of our vision. Our budget has been carefully calculated, and we believe it strikes the right balance between fiscal responsibility and necessary improvements.\nHowever, I will acknowledge that one of the main criticisms we've received is that our plan doesn't provide enough alternatives to driving. This is a valid concern, and I want to assure you that we're taking it seriously. We're actively exploring additional options to diversify our transportation network and reduce reliance on personal vehicles.\nSome have suggested that we might face delays due to funding issues or difficulties in gaining government approval. While we always prepare for potential hurdles, I'm confident that our thorough planning and strong relationships with various governmental bodies will help us navigate any bureaucratic challenges smoothly.\nThe real challenge we're anticipating, and the one we're preparing for most diligently, is the likelihood of resistance from local communities. Change can be difficult, and we understand that. That's why we're committed to extensive community engagement, transparent communication, and working closely with neighborhood representatives to address concerns and incorporate local feedback.\nWe believe this Regional Development Plan is crucial for our area's future, and we're dedicated to making it work for everyone. Thank you for your attention, and I'm now ready to take your questions."
+  },
+  {
+    "id": 30,
+    "examId": 8,
+    "examTitle": "Đề 8",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a city planner talking at a press conference about a Regional Development Plan and answer the questions below.",
+    "question": "What challenge is the Regional Development Plan likely to face?",
+    "options": [
+      "It may be delayed due to funding issues.",
+      "It could face difficulties in gaining government approval.",
+      "It is likely to meet resistance from local communities."
+    ],
+    "answer": "C",
+    "explain": "Ladies and gentlemen of the press, thank you for joining us today to discuss our Regional Development Plan. As we move forward with this ambitious project, I'd like to address some of the concerns that have been raised.\nNow, I've heard whispers about our plan being too expensive or placing excessive emphasis on public transportation. Let me assure you, these are not accurate representations of our vision. Our budget has been carefully calculated, and we believe it strikes the right balance between fiscal responsibility and necessary improvements.\nHowever, I will acknowledge that one of the main criticisms we've received is that our plan doesn't provide enough alternatives to driving. This is a valid concern, and I want to assure you that we're taking it seriously. We're actively exploring additional options to diversify our transportation network and reduce reliance on personal vehicles.\nSome have suggested that we might face delays due to funding issues or difficulties in gaining government approval. While we always prepare for potential hurdles, I'm confident that our thorough planning and strong relationships with various governmental bodies will help us navigate any bureaucratic challenges smoothly.\nThe real challenge we're anticipating, and the one we're preparing for most diligently, is the likelihood of resistance from local communities. Change can be difficult, and we understand that. That's why we're committed to extensive community engagement, transparent communication, and working closely with neighborhood representatives to address concerns and incorporate local feedback.\nWe believe this Regional Development Plan is crucial for our area's future, and we're dedicated to making it work for everyone. Thank you for your attention, and I'm now ready to take your questions."
+  },
+  {
+    "id": 31,
+    "examId": 8,
+    "examTitle": "Đề 8",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to a former student talking about taking a year off before university and answer the questions below.",
+    "question": "Why didn't he go straight to university?",
+    "options": [
+      "He wanted to earn money before studying.",
+      "His family advised him to wait.",
+      "He wasn't ready to start higher education."
+    ],
+    "answer": "C",
+    "explain": "After finishing secondary school, I decided not to apply to university immediately. At the time, many of my friends were eager to continue their studies, but I felt unsure about what I wanted to do next and didn't feel prepared for the demands of higher education.\nInstead, I took a year off and spent that time working part-time and travelling. Being away from a structured academic environment forced me to make decisions on my own, manage my finances, and take responsibility for my daily life.\nLooking back, that year was extremely valuable. It gave me time to reflect on my goals and helped me grow personally. By the time I eventually started university, I felt more confident, motivated, and capable of handling independence.\nAlthough taking a break isn't the right choice for everyone, for me it was an important step before continuing my education."
+  },
+  {
+    "id": 32,
+    "examId": 8,
+    "examTitle": "Đề 8",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to a former student talking about taking a year off before university and answer the questions below.",
+    "question": "What did he think he learnt from the year's break?",
+    "options": [
+      "How to manage academic pressure.",
+      "To be more independent.",
+      "The importance of choosing the right degree."
+    ],
+    "answer": "B",
+    "explain": "After finishing secondary school, I decided not to apply to university immediately. At the time, many of my friends were eager to continue their studies, but I felt unsure about what I wanted to do next and didn't feel prepared for the demands of higher education.\nInstead, I took a year off and spent that time working part-time and travelling. Being away from a structured academic environment forced me to make decisions on my own, manage my finances, and take responsibility for my daily life.\nLooking back, that year was extremely valuable. It gave me time to reflect on my goals and helped me grow personally. By the time I eventually started university, I felt more confident, motivated, and capable of handling independence.\nAlthough taking a break isn't the right choice for everyone, for me it was an important step before continuing my education."
+  },
+  {
+    "id": 33,
+    "examId": 9,
+    "examTitle": "Đề 9",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a man talking about life after university and answer the questions below.",
+    "question": "How does life change for graduates after university?",
+    "options": [
+      "They feel more stressed about job seeking.",
+      "They are likely to stick to their academic routines.",
+      "They are likely to be more flexible and open-minded."
+    ],
+    "answer": "C",
+    "explain": "Life after university is quite an adventure, and I've learned a lot since graduating last year. The biggest change I've noticed is how different my daily routine is now. Unlike during my university days, I don't have a fixed schedule of classes and study sessions anymore. This has actually made me more adaptable and willing to try new things. I've found myself saying 'yes' to opportunities I might have passed up before, whether it's joining a new club or learning a new skill for work. Speaking of work, the job market was quite an eye-opener. I always heard that finding a job would be tough, but I didn't realize just how fierce the competition would be. It seems like every position has dozens, if not hundreds, of applicants. This means you really have to stand out to get noticed. On the bright side, this competitive environment has pushed me to improve my skills and broaden my network. I've attended more networking events in the past year than I ever did at university. While the job search can be stressful at times, I've found that staying positive and being open to different possibilities has helped me navigate this new chapter of my life."
+  },
+  {
+    "id": 34,
+    "examId": 9,
+    "examTitle": "Đề 9",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a man talking about life after university and answer the questions below.",
+    "question": "What is a common characteristic of the job market after university?",
+    "options": [
+      "More opportunities for networking",
+      "More competitive",
+      "Many jobs offer great benefits"
+    ],
+    "answer": "B",
+    "explain": "Life after university is quite an adventure, and I've learned a lot since graduating last year. The biggest change I've noticed is how different my daily routine is now. Unlike during my university days, I don't have a fixed schedule of classes and study sessions anymore. This has actually made me more adaptable and willing to try new things. I've found myself saying 'yes' to opportunities I might have passed up before, whether it's joining a new club or learning a new skill for work. Speaking of work, the job market was quite an eye-opener. I always heard that finding a job would be tough, but I didn't realize just how fierce the competition would be. It seems like every position has dozens, if not hundreds, of applicants. This means you really have to stand out to get noticed. On the bright side, this competitive environment has pushed me to improve my skills and broaden my network. I've attended more networking events in the past year than I ever did at university. While the job search can be stressful at times, I've found that staying positive and being open to different possibilities has helped me navigate this new chapter of my life."
+  },
+  {
+    "id": 35,
+    "examId": 9,
+    "examTitle": "Đề 9",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to a man talking about a promotion campaign for a product and answer the questions below.",
+    "question": "What is the main issue with the product's promotion campaign?",
+    "options": [
+      "It is using outdated advertising methods.",
+      "It uses exaggerated claims.",
+      "It is not targeting the correct market."
+    ],
+    "answer": "B",
+    "explain": "A company recently launched a new fitness supplement, PowerBoost, but its promotion campaign is facing some difficulties. One major issue is that the advertisements make exaggerated claims. The campaign promises that PowerBoost will dramatically increase strength and endurance in just a few days. However, many customers feel the results are not as powerful as advertised. While bold claims can attract attention, they also risk damaging trust if the product does not deliver as expected.\nAnother challenge is that PowerBoost is struggling to stand out in the market. Some may think the issue is pricing, but it is actually similar to its competitors. Others might assume it is hard to find, but it is already available in many stores. The real issue is that PowerBoost is too similar to many existing products, making it difficult for customers to see what makes it unique.\nTo succeed, the company needs to adjust its messaging and find a way to differentiate PowerBoost from other fitness supplements."
+  },
+  {
+    "id": 36,
+    "examId": 9,
+    "examTitle": "Đề 9",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to a man talking about a promotion campaign for a product and answer the questions below.",
+    "question": "Why is the product struggling to stand out in the market?",
+    "options": [
+      "It is priced too high compared to its competitors.",
+      "It is too similar to many existing products.",
+      "It is not available in enough stores."
+    ],
+    "answer": "B",
+    "explain": "A company recently launched a new fitness supplement, PowerBoost, but its promotion campaign is facing some difficulties. One major issue is that the advertisements make exaggerated claims. The campaign promises that PowerBoost will dramatically increase strength and endurance in just a few days. However, many customers feel the results are not as powerful as advertised. While bold claims can attract attention, they also risk damaging trust if the product does not deliver as expected.\nAnother challenge is that PowerBoost is struggling to stand out in the market. Some may think the issue is pricing, but it is actually similar to its competitors. Others might assume it is hard to find, but it is already available in many stores. The real issue is that PowerBoost is too similar to many existing products, making it difficult for customers to see what makes it unique.\nTo succeed, the company needs to adjust its messaging and find a way to differentiate PowerBoost from other fitness supplements."
+  },
+  {
+    "id": 37,
+    "examId": 10,
+    "examTitle": "Đề 10",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to an expert talking about how to manage personal finances and answer the questions below.",
+    "question": "How does the speaker recommend saving money effectively?",
+    "options": [
+      "Saving a large amount only on a daily basis.",
+      "Organizing their resources more effectively.",
+      "Using credit cards to manage expenses."
+    ],
+    "answer": "B",
+    "explain": "Good afternoon, everyone! Today, I want to share a few simple tips on how you can manage your personal finances better. Now, I know that saving money can sometimes feel challenging, but there are a few habits that can make it easier. One of the best ways to save effectively is to set aside a fixed amount every month. I recommend you make this a habit. You can even automate it by setting up a transfer from your checking account to your savings account. This way, the money is put aside before you even get a chance to spend it. If you just wait until the end of the month to save whatever is left over, there's a good chance there won't be much left - especially with all the small, unexpected expenses that pop up. So, it's all about making saving a priority and keeping it consistent.\nNow, when it comes to managing your finances overall, one key piece of advice is to get help from people who know more than you. That could mean speaking with a financial advisor if you're able, but it could also mean getting advice from someone in your life who's really good with money, whether that's a friend, a family member, or even an online resource. You don't have to figure everything out on your own. Learning from others can save you time and help you avoid costly mistakes, especially if you're new to budgeting or long-term planning.\nRemember, managing money doesn't have to be complicated. By saving regularly and learning from others, you can start to feel more confident about your finances."
+  },
+  {
+    "id": 38,
+    "examId": 10,
+    "examTitle": "Đề 10",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to an expert talking about how to manage personal finances and answer the questions below.",
+    "question": "What does the speaker believe helps people save money most successfully?",
+    "options": [
+      "Getting advice from people who have experience.",
+      "Keeping all your savings in a single account.",
+      "Avoiding making any long-term financial plans."
+    ],
+    "answer": "A",
+    "explain": "Good afternoon, everyone! Today, I want to share a few simple tips on how you can manage your personal finances better. Now, I know that saving money can sometimes feel challenging, but there are a few habits that can make it easier. One of the best ways to save effectively is to set aside a fixed amount every month. I recommend you make this a habit. You can even automate it by setting up a transfer from your checking account to your savings account. This way, the money is put aside before you even get a chance to spend it. If you just wait until the end of the month to save whatever is left over, there's a good chance there won't be much left - especially with all the small, unexpected expenses that pop up. So, it's all about making saving a priority and keeping it consistent.\nNow, when it comes to managing your finances overall, one key piece of advice is to get help from people who know more than you. That could mean speaking with a financial advisor if you're able, but it could also mean getting advice from someone in your life who's really good with money, whether that's a friend, a family member, or even an online resource. You don't have to figure everything out on your own. Learning from others can save you time and help you avoid costly mistakes, especially if you're new to budgeting or long-term planning.\nRemember, managing money doesn't have to be complicated. By saving regularly and learning from others, you can start to feel more confident about your finances."
+  },
+  {
+    "id": 39,
+    "examId": 10,
+    "examTitle": "Đề 10",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to a woman talking about security cameras and answer the questions below.",
+    "question": "What is the speaker's opinion about security cameras at work?",
+    "options": [
+      "People are unnecessarily worried about them.",
+      "Most people don't even realize cameras are present.",
+      "Cameras should be placed to ensure complete coverage."
+    ],
+    "answer": "A",
+    "explain": "I've noticed that some of my coworkers get a bit nervous about the security cameras in our office. They often say things like, 'It feels like we're being watched all the time,' or 'I don't like feeling like I'm not trusted.' But honestly, I think people worry too much about it. These cameras aren't there to spy on us or catch us doing something wrong. They're actually there to keep us safe. I mean, think about it - if something were to happen, like a theft or an accident, wouldn't you want there to be a record of it?\nPlus, knowing the cameras are there can actually prevent bad things from happening in the first place. I believe that once people understand the real purpose of these cameras, they'll feel much better about them. Instead of feeling worried, we should feel glad that our company cares about our safety. It's just one more way they're looking out for us while we're at work.\nYou know, I remember when we first got the cameras installed. Some people were really upset about it. But after a while, most of us hardly even notice them anymore. They're just part of the background now. And there have been times when they've been really helpful. Like when someone's bag went missing, the cameras helped us figure out what happened.\nI think it's important to remember that these cameras are in public areas, not in private spaces like bathrooms or changing rooms. They're not meant to invade our privacy, just to make sure everyone follows the rules and stays safe. In the end, I think having them makes our workplace better for everyone. It's a small thing that can make a big difference in keeping us all secure."
+  },
+  {
+    "id": 40,
+    "examId": 10,
+    "examTitle": "Đề 10",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to a woman talking about security cameras and answer the questions below.",
+    "question": "How does the speaker suggest people should feel about security cameras at work?",
+    "options": [
+      "People often find them intimidating and invasive.",
+      "Many believe they are only useful after incidents have occurred.",
+      "People should feel reassured about their presence."
+    ],
+    "answer": "C",
+    "explain": "I've noticed that some of my coworkers get a bit nervous about the security cameras in our office. They often say things like, 'It feels like we're being watched all the time,' or 'I don't like feeling like I'm not trusted.' But honestly, I think people worry too much about it. These cameras aren't there to spy on us or catch us doing something wrong. They're actually there to keep us safe. I mean, think about it - if something were to happen, like a theft or an accident, wouldn't you want there to be a record of it?\nPlus, knowing the cameras are there can actually prevent bad things from happening in the first place. I believe that once people understand the real purpose of these cameras, they'll feel much better about them. Instead of feeling worried, we should feel glad that our company cares about our safety. It's just one more way they're looking out for us while we're at work.\nYou know, I remember when we first got the cameras installed. Some people were really upset about it. But after a while, most of us hardly even notice them anymore. They're just part of the background now. And there have been times when they've been really helpful. Like when someone's bag went missing, the cameras helped us figure out what happened.\nI think it's important to remember that these cameras are in public areas, not in private spaces like bathrooms or changing rooms. They're not meant to invade our privacy, just to make sure everyone follows the rules and stays safe. In the end, I think having them makes our workplace better for everyone. It's a small thing that can make a big difference in keeping us all secure."
+  },
+  {
+    "id": 41,
+    "examId": 11,
+    "examTitle": "Đề 11",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a lecturer talking about modern television series and answer the questions below.",
+    "question": "What does the speaker say is one major strength of successful television series?",
+    "options": [
+      "They focus mainly on famous actors.",
+      "They have consistent quality throughout.",
+      "They are usually shorter than films."
+    ],
+    "answer": "B",
+    "explain": "In recent years, television series have become one of the most popular forms of entertainment worldwide. Unlike standalone films, series allow stories and characters to develop gradually over time, which helps maintain audience interest across multiple episodes and seasons.\nOne key factor behind the success of many television series is their ability to maintain a consistent standard. Viewers tend to remain loyal to a series when the storytelling, acting, and production quality remain strong from the beginning to the end, rather than fluctuating between episodes.\nAnother important aspect to consider is how audience behaviour has changed. With the rise of streaming platforms, viewers now watch episodes in different ways, such as binge-watching entire seasons in a short period of time. As a result, producers and writers are adapting their approach to structure, pacing, and episode length.\nThis clearly demonstrates that modern viewing patterns are not only affecting how audiences consume content, but are also shaping how television series are planned, written, and produced today."
+  },
+  {
+    "id": 42,
+    "examId": 11,
+    "examTitle": "Đề 11",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a lecturer talking about modern television series and answer the questions below.",
+    "question": "What does the speaker suggest about changes in television production?",
+    "options": [
+      "Streaming platforms have reduced production costs.",
+      "Television series are becoming less creative.",
+      "Viewer habits influence the way that series are made."
+    ],
+    "answer": "C",
+    "explain": "In recent years, television series have become one of the most popular forms of entertainment worldwide. Unlike standalone films, series allow stories and characters to develop gradually over time, which helps maintain audience interest across multiple episodes and seasons.\nOne key factor behind the success of many television series is their ability to maintain a consistent standard. Viewers tend to remain loyal to a series when the storytelling, acting, and production quality remain strong from the beginning to the end, rather than fluctuating between episodes.\nAnother important aspect to consider is how audience behaviour has changed. With the rise of streaming platforms, viewers now watch episodes in different ways, such as binge-watching entire seasons in a short period of time. As a result, producers and writers are adapting their approach to structure, pacing, and episode length.\nThis clearly demonstrates that modern viewing patterns are not only affecting how audiences consume content, but are also shaping how television series are planned, written, and produced today."
+  },
+  {
+    "id": 43,
+    "examId": 11,
+    "examTitle": "Đề 11",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to a reviewer discussing a book about the life of a scientist and answer the questions below.",
+    "question": "What does the speaker say about the style of writing?",
+    "options": [
+      "It is focused on technical details.",
+      "It is exciting to read.",
+      "It is more of a textbook than a biography."
+    ],
+    "answer": "B",
+    "explain": "Reviewer: Today, I want to share my thoughts on a fascinating book about the life of renowned scientist Dr. Emily Carter. One of the standout features of this book is that the way of writing is exciting for readers. The author has a talent for bringing complex scientific concepts to life, making it an engaging experience.\nWhile some may expect a heavy focus on technical details, this book skillfully balances science with storytelling, ensuring that it remains accessible. It's definitely not more of a textbook than a biography; instead, it invites readers into the scientist's world in a relatable way.\nOverall, I'd say it has been written for a general audience. The author's aim seems to be to inspire curiosity about science and encourage readers from all backgrounds to appreciate the contributions of Dr. Carter. Unlike other works that are only suitable for experts in the field, this book truly welcomes everyone to explore the life of an extraordinary scientist."
+  },
+  {
+    "id": 44,
+    "examId": 11,
+    "examTitle": "Đề 11",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to a reviewer discussing a book about the life of a scientist and answer the questions below.",
+    "question": "What does the speaker say about the overall content of the book?",
+    "options": [
+      "It has been written for a general audience.",
+      "It is only suitable for experts in the field.",
+      "It lacks engaging storytelling."
+    ],
+    "answer": "A",
+    "explain": "Reviewer: Today, I want to share my thoughts on a fascinating book about the life of renowned scientist Dr. Emily Carter. One of the standout features of this book is that the way of writing is exciting for readers. The author has a talent for bringing complex scientific concepts to life, making it an engaging experience.\nWhile some may expect a heavy focus on technical details, this book skillfully balances science with storytelling, ensuring that it remains accessible. It's definitely not more of a textbook than a biography; instead, it invites readers into the scientist's world in a relatable way.\nOverall, I'd say it has been written for a general audience. The author's aim seems to be to inspire curiosity about science and encourage readers from all backgrounds to appreciate the contributions of Dr. Carter. Unlike other works that are only suitable for experts in the field, this book truly welcomes everyone to explore the life of an extraordinary scientist."
+  },
+  {
+    "id": 45,
+    "examId": 12,
+    "examTitle": "Đề 12",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a book critic talking about a biography and answer the questions below.",
+    "question": "What is the strength of the book?",
+    "options": [
+      "It is a very short story.",
+      "It has a good description of a specific period of time.",
+      "It focuses only on famous people."
+    ],
+    "answer": "B",
+    "explain": "The biography has received a lot of attention from readers and critics. One of its main strengths is the way it describes a specific period of time in great detail. The author carefully recreates the historical context, helping readers understand what life was like during that era.\nHowever, the book has also been discussed by critics for another reason. Instead of following the traditional style of biography writing, it presents the subject in a more unusual and creative way. Because of this, many reviewers describe it as an unconventional biography, which makes it stand out from other books in the same genre."
+  },
+  {
+    "id": 46,
+    "examId": 12,
+    "examTitle": "Đề 12",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a book critic talking about a biography and answer the questions below.",
+    "question": "What do the critics say about the book?",
+    "options": [
+      "It is an unconventional biography.",
+      "It is too difficult to understand.",
+      "It contains too many fictional details."
+    ],
+    "answer": "A",
+    "explain": "The biography has received a lot of attention from readers and critics. One of its main strengths is the way it describes a specific period of time in great detail. The author carefully recreates the historical context, helping readers understand what life was like during that era.\nHowever, the book has also been discussed by critics for another reason. Instead of following the traditional style of biography writing, it presents the subject in a more unusual and creative way. Because of this, many reviewers describe it as an unconventional biography, which makes it stand out from other books in the same genre."
+  },
+  {
+    "id": 47,
+    "examId": 12,
+    "examTitle": "Đề 12",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to someone talking about podcasting and answer the questions below.",
+    "question": "Why did the new podcast fail?",
+    "options": [
+      "The content was too long.",
+      "The creators did not promote their show.",
+      "It had too many listeners."
+    ],
+    "answer": "B",
+    "explain": "The new podcast that was recently launched unfortunately didn't achieve much success. One of the main reasons for this is that the creators do not promote their shows effectively. Without proper promotion on social media or other platforms, it becomes very difficult for a podcast to attract new listeners and grow its audience.\nHowever, podcasting in general is still seen in a very positive way. Many people believe it is a great way to build a community. It allows creators to connect directly with their audience, share ideas, and create a loyal group of listeners who regularly follow their content."
+  },
+  {
+    "id": 48,
+    "examId": 12,
+    "examTitle": "Đề 12",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to someone talking about podcasting and answer the questions below.",
+    "question": "What is the speaker's opinion about podcasting?",
+    "options": [
+      "It is a waste of time.",
+      "It is a great way to build a community.",
+      "It is only useful for entertainment."
+    ],
+    "answer": "B",
+    "explain": "The new podcast that was recently launched unfortunately didn't achieve much success. One of the main reasons for this is that the creators do not promote their shows effectively. Without proper promotion on social media or other platforms, it becomes very difficult for a podcast to attract new listeners and grow its audience.\nHowever, podcasting in general is still seen in a very positive way. Many people believe it is a great way to build a community. It allows creators to connect directly with their audience, share ideas, and create a loyal group of listeners who regularly follow their content."
+  },
+  {
+    "id": 49,
+    "examId": 13,
+    "examTitle": "Đề 13",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to someone talking about the music industry and answer the questions below.",
+    "question": "What is the key to a long career in music?",
+    "options": [
+      "Having a large number of fans",
+      "Believing in her musical instincts",
+      "Winning many awards early"
+    ],
+    "answer": "B",
+    "explain": "In the music industry, success often depends on more than just talent or luck. One important factor for a long and successful career is belief in her musical instincts. Artists who trust their own style and make creative decisions based on their intuition are more likely to stay relevant over time.\nHowever, the current music industry is also very competitive. Many performers find it hard to get started because there are so many talented people trying to enter the field. Without strong support or opportunities, it can be difficult for new artists to gain attention and build a career."
+  },
+  {
+    "id": 50,
+    "examId": 13,
+    "examTitle": "Đề 13",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to someone talking about the music industry and answer the questions below.",
+    "question": "What is the speaker's opinion about the current music industry?",
+    "options": [
+      "Performers find it hard to get started.",
+      "It is easier than ever to become famous.",
+      "Most musicians prefer traditional styles."
+    ],
+    "answer": "A",
+    "explain": "In the music industry, success often depends on more than just talent or luck. One important factor for a long and successful career is belief in her musical instincts. Artists who trust their own style and make creative decisions based on their intuition are more likely to stay relevant over time.\nHowever, the current music industry is also very competitive. Many performers find it hard to get started because there are so many talented people trying to enter the field. Without strong support or opportunities, it can be difficult for new artists to gain attention and build a career."
+  },
+  {
+    "id": 51,
+    "examId": 13,
+    "examTitle": "Đề 13",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to someone talking about using time effectively and answer the questions below.",
+    "question": "What is the main idea of the talk?",
+    "options": [
+      "Effective time management",
+      "Working without any plan",
+      "Doing fewer tasks each day"
+    ],
+    "answer": "A",
+    "explain": "In today's busy world, many people are looking for ways to improve how they use their time and get more done in a day. One of the most important ideas is effective time management. This means planning your tasks carefully, setting clear priorities, and avoiding distractions so that you can complete your work in a more efficient way.\nHowever, there is also a challenge. Many productivity strategies sound useful in theory, but using them effectively requires real effort and discipline. People often start with good intentions, but they find it difficult to stick to their plans over time. Without consistent practice, even the best strategies may not lead to real improvement."
+  },
+  {
+    "id": 52,
+    "examId": 13,
+    "examTitle": "Đề 13",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to someone talking about using time effectively and answer the questions below.",
+    "question": "What is the main problem with productivity strategies?",
+    "options": [
+      "They are too expensive to use.",
+      "They require effort to use effectively.",
+      "They only work in theory for students."
+    ],
+    "answer": "B",
+    "explain": "In today's busy world, many people are looking for ways to improve how they use their time and get more done in a day. One of the most important ideas is effective time management. This means planning your tasks carefully, setting clear priorities, and avoiding distractions so that you can complete your work in a more efficient way.\nHowever, there is also a challenge. Many productivity strategies sound useful in theory, but using them effectively requires real effort and discipline. People often start with good intentions, but they find it difficult to stick to their plans over time. Without consistent practice, even the best strategies may not lead to real improvement."
+  },
+  {
+    "id": 53,
+    "examId": 14,
+    "examTitle": "Đề 14",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "Listen to a man discussing goal setting and answer the questions below.",
+    "question": "What does the speaker say about short-term goals?",
+    "options": [
+      "It allows you to be more flexible",
+      "It creates pressure and limits creativity",
+      "It only apply to specific situations or certain types of people"
+    ],
+    "answer": "A",
+    "explain": "Speaker: When discussing short-term goals, many people mistakenly think they only apply to specific situations or certain types of people. Some believe these goals create pressure and limit creativity, but that view is misleading. In reality, short-term goals allow you to be more flexible as circumstances change. Furthermore, establishing clear goals provides a structured roadmap that can prevent you from making mistakes and keep you moving in the right direction."
+  },
+  {
+    "id": 54,
+    "examId": 14,
+    "examTitle": "Đề 14",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "Listen to a man discussing goal setting and answer the questions below.",
+    "question": "What is the speaker's opinion about goal setting?",
+    "options": [
+      "It can lead to confusion and distraction",
+      "It can prevent you from making mistakes",
+      "It can bring about opportunities for individuals"
+    ],
+    "answer": "B",
+    "explain": "Speaker: When discussing short-term goals, many people mistakenly think they only apply to specific situations or certain types of people. Some believe these goals create pressure and limit creativity, but that view is misleading. In reality, short-term goals allow you to be more flexible as circumstances change. Furthermore, establishing clear goals provides a structured roadmap that can prevent you from making mistakes and keep you moving in the right direction."
+  },
+  {
+    "id": 55,
+    "examId": 14,
+    "examTitle": "Đề 14",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to a reviewer talking about a book on the life of a famous scientist and answer the questions below.",
+    "question": "What does the reviewer say about the style of the book?",
+    "options": [
+      "It uses simple language to describe complex ideas",
+      "It focuses mainly on scientific data.",
+      "It is written mainly for academic readers."
+    ],
+    "answer": "A",
+    "explain": "Reviewer: Today I'm reviewing the new biography of one of history's greatest scientists. What stands out most about the author's writing style is that it uses simple language to describe complex ideas, making heavy scientific theories accessible to general readers without overwhelming them with dense technical jargon. However, readers hoping for groundbreaking new discoveries may feel slightly let down. Much of the narrative covers familiar ground, and in terms of scope and structure, it is remarkably similar to the previous book published about the scientist."
+  },
+  {
+    "id": 56,
+    "examId": 14,
+    "examTitle": "Đề 14",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to a reviewer talking about a book on the life of a famous scientist and answer the questions below.",
+    "question": "What does the reviewer say about the book compared to others?",
+    "options": [
+      "It presents completely new information.",
+      "It is more detailed than earlier biographies.",
+      "It is similar to the previous book about the scientist."
+    ],
+    "answer": "C",
+    "explain": "Reviewer: Today I'm reviewing the new biography of one of history's greatest scientists. What stands out most about the author's writing style is that it uses simple language to describe complex ideas, making heavy scientific theories accessible to general readers without overwhelming them with dense technical jargon. However, readers hoping for groundbreaking new discoveries may feel slightly let down. Much of the narrative covers familiar ground, and in terms of scope and structure, it is remarkably similar to the previous book published about the scientist."
+  },
+  {
+    "id": 57,
+    "examId": 15,
+    "examTitle": "Đề 15",
+    "passageNo": 16,
+    "subNo": 1,
+    "passageTitle": "A man is sharing a new guidebook. Choose the correct answers.",
+    "question": "What does this guidebook offer to its audience?",
+    "options": [
+      "It focuses solely on historical landmarks.",
+      "It creates an adventure.",
+      "It is difficult to navigate."
+    ],
+    "answer": "B",
+    "explain": "Speaker: I've been examining this newly published travel guidebook, and it takes an unconventional approach. Rather than merely listing standard historical landmarks and museums, the authors designed the itinerary as a treasure hunt that truly creates an adventure for travelers exploring the city. In my opinion, its vibrant layout and digital integration mean that it is especially suitable for particular generations, particularly younger, tech-savvy backpackers."
+  },
+  {
+    "id": 58,
+    "examId": 15,
+    "examTitle": "Đề 15",
+    "passageNo": 16,
+    "subNo": 2,
+    "passageTitle": "A man is sharing a new guidebook. Choose the correct answers.",
+    "question": "What is the speaker's opinion about this guidebook?",
+    "options": [
+      "It caters only to seasoned travelers.",
+      "It is outdated and irrelevant.",
+      "It is suitable for particular generations."
+    ],
+    "answer": "C",
+    "explain": "Speaker: I've been examining this newly published travel guidebook, and it takes an unconventional approach. Rather than merely listing standard historical landmarks and museums, the authors designed the itinerary as a treasure hunt that truly creates an adventure for travelers exploring the city. In my opinion, its vibrant layout and digital integration mean that it is especially suitable for particular generations, particularly younger, tech-savvy backpackers."
+  },
+  {
+    "id": 59,
+    "examId": 15,
+    "examTitle": "Đề 15",
+    "passageNo": 17,
+    "subNo": 1,
+    "passageTitle": "Listen to a literary reviewer giving her opinion about a newly released novel and answer the questions below.",
+    "question": "What did the reviewer think was a positive aspect of the novel?",
+    "options": [
+      "The writing style was highly original.",
+      "The characters were interesting.",
+      "The storyline was unpredictable."
+    ],
+    "answer": "B",
+    "explain": "Reviewer: In her latest novel, the author introduces a compelling cast of figures whose complex relationships and witty dialogues make the characters genuinely interesting to follow from start to finish. Although the overarching plot follows familiar tropes, the book's broad emotional appeal means it will firmly establish the author's popularity among mainstream fiction fans."
+  },
+  {
+    "id": 60,
+    "examId": 15,
+    "examTitle": "Đề 15",
+    "passageNo": 17,
+    "subNo": 2,
+    "passageTitle": "Listen to a literary reviewer giving her opinion about a newly released novel and answer the questions below.",
+    "question": "What does the reviewer suggest about the impact of the novel?",
+    "options": [
+      "It may divide readers’ opinions.",
+      "It will establish the author's popularity.",
+      "It will mainly appeal to academic audiences."
+    ],
+    "answer": "B",
+    "explain": "Reviewer: In her latest novel, the author introduces a compelling cast of figures whose complex relationships and witty dialogues make the characters genuinely interesting to follow from start to finish. Although the overarching plot follows familiar tropes, the book's broad emotional appeal means it will firmly establish the author's popularity among mainstream fiction fans."
+  }
+]
